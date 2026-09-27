@@ -1,0 +1,1289 @@
+code,name,hex,r,g,b,discontinued,glass
+DB0001,Metallic Gray,#2D2E37,45,46,55,false,opaque
+DB0002,Metallic Iridescent,#1A212A,26,33,42,false,opaque
+DB0003,Metallic Iridescent,#222824,34,40,36,false,opaque
+DB0004,Metallic Iridescent,#212025,33,32,37,false,opaque
+DB0005,Opaque Iridescent AB,#283037,40,48,55,false,opaque
+DB0006,Metallic Iridescent,#31393F,49,57,63,false,opaque
+DB0007,Metallic Brown,#2C241D,44,36,29,false,opaque
+DB0010,Opaque Black,#131313,19,19,19,false,opaque
+DB0011,Metallic Green,#383622,56,54,34,false,opaque
+DB0012,Metallic Purple,#3E2223,62,34,35,false,opaque
+DB0021,Nickel Plated Silver,#605955,96,89,85,false,opaque
+DB0022,Metallic Gold,#453528,69,53,40,false,opaque
+DB0022L,Metallic Gold,#6B4A2F,107,74,47,false,transparent
+DB0023,Metallic Iridescent,#473832,71,56,50,false,opaque
+DB0024,Metallic Green,#4F4D3A,79,77,58,false,opaque
+DB0025,Metallic Blue,#26333E,38,51,62,false,opaque
+DB0026,Metallic Gray,#403E3C,64,62,60,false,opaque
+DB0027,Metallic Green,#33423A,51,66,58,false,opaque
+DB0029,Nickel Plated Iridescent AB,#5D5042,93,80,66,false,opaque
+DB0031,Gold Plated Gold,#B18342,177,131,66,false,opaque
+DB0031L,Gold Plated Gold,#B49047,180,144,71,false,opaque
+DB0033,Gold-Lined Transparent Gold,#A4743D,164,116,61,false,transparent
+DB0034,Gold Plated Gold,#93744E,147,116,78,false,opaque
+DB0035,Galvanized Silver,#9E9484,158,148,132,false,transparent
+DB0037,Copper-Lined Transparent Pink,#7F5E53,127,94,83,false,transparent
+DB0038,Palladium Plated Silver,#76706F,118,112,111,false,opaque
+DB0040,Copper Plated Brown,#815447,129,84,71,false,opaque
+DB0041,Silver-Lined Transparent Silver,#8D8987,141,137,135,false,transparent
+DB0042,Silver-Lined Transparent Gold,#AC7C3F,172,124,63,false,transparent
+DB0043,Silver-Lined Transparent Red,#A62914,166,41,20,false,transparent
+DB0044,Silver-Lined Transparent Blue,#538499,83,132,153,false,transparent
+DB0045,Silver-Lined Transparent Orange,#BC5F10,188,95,16,false,transparent
+DB0046,Silver-Lined Transparent Green,#2A6130,42,97,48,false,transparent
+DB0047,Silver-Lined Transparent Blue,#2D2971,45,41,113,false,transparent
+DB0048,Silver-Lined Transparent Gray,#555450,85,84,80,false,transparent
+DB0050,Transparent Crystal Luster,#93939D,147,147,157,false,transparent
+DB0051,Transparent Crystal AB,#9FA1AD,159,161,173,false,transparent
+DB0052,Color-Lined Transparent Crystal AB,#EAD4C4,234,212,196,false,transparent
+DB0053,Color-Lined Transparent Yellow AB,#EDCC7A,237,204,122,false,transparent
+DB0054,Color-Lined Transparent Brown-Orange AB,#B87A68,184,122,104,false,transparent
+DB0055,Color-Lined Transparent Pink AB,#E3CDDD,227,205,221,false,transparent
+DB0056,Color-Lined Transparent Pink-Purple AB,#694864,105,72,100,false,transparent
+DB0057,Color-Lined Transparent Blue AB,#459BBF,69,155,191,false,transparent
+DB0058,Color-Lined Transparent Blue AB,#3E697F,62,105,127,false,transparent
+DB0059,Color-Lined Transparent Purple AB,#4C4D5F,76,77,95,false,transparent
+DB0060,Color-Lined Transparent Green AB,#447069,68,112,105,false,transparent
+DB0061,Color-Lined Transparent Purple Luster,#483132,72,49,50,false,transparent
+DB0062,Color-Lined Transparent Pink-Red Luster,#8B2B37,139,43,55,false,transparent
+DB0063,Color-Lined Transparent Blue-Purple AB,#353E98,53,62,152,false,transparent
+DB0064,Color-Lined Transparent Brown Luster,#635952,99,89,82,false,transparent
+DB0065,Color-Lined Transparent Brown Luster,#83521C,131,82,28,false,transparent
+DB0066,Color-Lined Transparent Crystal AB,#DAD5D1,218,213,209,false,transparent
+DB0067,Color-Lined Transparent Orange Luster,#D08D71,208,141,113,false,transparent
+DB0068,Color-Lined Transparent Orange Luster,#D37D6B,211,125,107,false,transparent
+DB0069,Color-Lined Transparent Brown Luster,#9A7564,154,117,100,false,transparent
+DB0070,Color-Lined Transparent Pink Luster,#D06A70,208,106,112,false,transparent
+DB0071,Color-Lined Transparent Pink AB,#DDCBDA,221,203,218,false,transparent
+DB0072,Color-Lined Transparent Pink-Purple Luster,#AB6A8D,171,106,141,false,transparent
+DB0073,Color-Lined Transparent Purple Luster,#7C3B82,124,59,130,false,transparent
+DB0074,Color-Lined Transparent Pink-Purple Luster,#913570,145,53,112,false,transparent
+DB0075,Color-Lined Transparent Pink-Red AB,#C3425A,195,66,90,false,transparent
+DB0076,Color-Lined Transparent Blue AB,#3089C9,48,137,201,false,transparent
+DB0077,Color-Lined Transparent Blue AB,#2A62A3,42,98,163,false,transparent
+DB0078,Color-Lined Transparent Blue Luster,#90C0CB,144,192,203,false,transparent
+DB0079,Color-Lined Transparent Green Luster,#398E93,57,142,147,false,transparent
+DB0080,Color-Lined Transparent Purple Luster,#9792A6,151,146,166,false,transparent
+DB0081,Color-Lined Transparent Gray Luster,#5A5F64,90,95,100,false,transparent
+DB0082,Color-Lined Transparent Pink AB,#DFD6DE,223,214,222,false,transparent
+DB0083,Color-Lined Transparent Blue-Green AB,#ADD0DA,173,208,218,false,transparent
+DB0084,Color-Lined Transparent Green AB,#60797C,96,121,124,false,transparent
+DB0085,Color-Lined Transparent Blue AB,#384C5B,56,76,91,false,transparent
+DB0086,Color-Lined Transparent Blue AB,#404857,64,72,87,false,transparent
+DB0087,Color-Lined Transparent Iridescent-Purple AB,#4E4039,78,64,57,false,transparent
+DB0088,Color-Lined Transparent Purple-Red AB,#764A43,118,74,67,false,transparent
+DB0089,Color-Lined Transparent Green-Iridescent AB,#4F4E45,79,78,69,false,transparent
+DB0091,Color-Lined Transparent Purple AB,#654D4D,101,77,77,false,transparent
+DB0098,Transparent Red Luster,#BA2F39,186,47,57,false,transparent
+DB0099,Transparent Brown Luster,#C18754,193,135,84,false,transparent
+DB0100,Transparent Brown AB,#BC844F,188,132,79,false,transparent
+DB0101,Transparent Brown Glazed Luster,#AD7956,173,121,86,false,transparent
+DB0102,Transparent Brown Gold Luster,#76513A,118,81,58,false,transparent
+DB0103,Transparent Brown Gold Luster AB,#653E3E,101,62,62,false,transparent
+DB0104,Transparent Pink-Purple Gold Luster AB,#4A3238,74,50,56,false,transparent
+DB0105,Transparent Purple-Red Gold Luster,#472123,71,33,35,false,transparent
+DB0106,Transparent Pink Glazed Luster,#CE807A,206,128,122,false,transparent
+DB0107,Transparent Blue-Gray Gold Luster AB,#706E6F,112,110,111,false,transparent
+DB0108,Transparent Purple Gold Luster,#5F3D3D,95,61,61,false,transparent
+DB0109,Transparent Crystal Glazed Luster AB,#D8CBAC,216,203,172,false,transparent
+DB0110,Transparent Blue Glazed Luster AB,#83919C,131,145,156,false,transparent
+DB0111,Transparent Blue Glazed Luster AB,#505961,80,89,97,false,transparent
+DB0112,Transparent Green Glazed Luster,#436C6D,67,108,109,false,transparent
+DB0113,Transparent Blue Glazed Luster,#236391,35,99,145,false,transparent
+DB0114,Transparent Gray Gold Luster,#7D7C79,125,124,121,false,transparent
+DB0115,Transparent Brown Gold Luster,#6A482E,106,72,46,false,transparent
+DB0116,Transparent Red Gold Luster,#5B2623,91,38,35,false,transparent
+DB0117,Transparent Blue Gold Luster,#4F3942,79,57,66,false,transparent
+DB0118,Transparent Yellow Gold Luster,#7E4F28,126,79,40,false,transparent
+DB0119,Transparent Yellow Gold Luster,#874E21,135,78,33,false,transparent
+DB0120,Transparent Red Gold Luster,#56282B,86,40,43,false,transparent
+DB0121,Transparent Brown Gold Luster,#6B452A,107,69,42,false,transparent
+DB0122,Transparent Brown Gold Luster AB,#4E463C,78,70,60,false,transparent
+DB0123,Transparent Brown Gold Luster,#4C3E32,76,62,50,false,transparent
+DB0124,Transparent Green Gold Luster,#817540,129,117,64,false,transparent
+DB0125,Transparent Green Gold Luster AB,#3B483B,59,72,59,false,transparent
+DB0126,Transparent Gold-Iridescent Gold Luster AB,#644C45,100,76,69,false,transparent
+DB0127,Transparent Green-Iridescent Gold Luster AB,#564E4A,86,78,74,false,transparent
+DB0128,Transparent Iridescent-Purple Gold Luster AB,#524452,82,68,82,false,transparent
+DB0129,Transparent Brown Gold Luster,#5B4146,91,65,70,false,transparent
+DB0131,Opaque Green Gold Luster,#403A30,64,58,48,false,opaque
+DB0132,Opaque Blue Gold Luster,#484D5A,72,77,90,false,opaque
+DB0133,Opaque Green Gold Luster AB,#6A5D34,106,93,52,false,opaque
+DB0134,Opaque Iridescent-Purple Gold Luster AB,#4D505C,77,80,92,false,opaque
+DB0135,Opaque Blue Gold Luster AB,#3A3457,58,52,87,false,opaque
+DB0141,Transparent Crystal,#919099,145,144,153,false,transparent
+DB0144,Silver-Lined Transparent Brown,#653718,101,55,24,false,transparent
+DB0145,Silver-Lined Transparent Yellow,#B8A124,184,161,36,false,transparent
+DB0146,Silver-Lined Transparent Purple,#705355,112,83,85,false,transparent
+DB0147,Silver-Lined Transparent Green,#8D902E,141,144,46,false,transparent
+DB0148,Silver-Lined Transparent Green,#1D3E26,29,62,38,false,transparent
+DB0149,Silver-Lined Transparent Blue,#255573,37,85,115,false,transparent
+DB0150,Silver-Lined Transparent Brown,#433024,67,48,36,false,transparent
+DB0151,Transparent Orange AB,#E36129,227,97,41,false,transparent
+DB0152,Transparent Green AB,#266847,38,104,71,false,transparent
+DB0157,Opaque Beige AB,#E5BF91,229,191,145,false,opaque
+DB0158,Opaque Purple AB,#8E7483,142,116,131,false,opaque
+DB0159,Opaque Red AB,#CF2A32,207,42,50,false,opaque
+DB0160,Opaque Yellow AB,#E9D622,233,214,34,false,opaque
+DB0161,Opaque Orange AB,#DF5130,223,81,48,false,opaque
+DB0162,Opaque Red AB,#9C2539,156,37,57,false,opaque
+DB0163,Opaque Green AB,#4A7B49,74,123,73,false,opaque
+DB0164,Opaque Blue AB,#3C9DCB,60,157,203,false,opaque
+DB0165,Opaque Blue AB,#2E2F7F,46,47,127,false,opaque
+DB0166,Opaque Green AB,#328D8F,50,141,143,false,opaque
+DB0167,Opaque Blue AB,#5D6DC1,93,109,193,false,opaque
+DB0168,Opaque Gray AB,#656667,101,102,103,false,opaque
+DB0169,Opaque Green AB,#96A851,150,168,81,false,opaque
+DB0170,Transparent Brown AB,#644136,100,65,54,false,transparent
+DB0171,Transparent Yellow AB,#D8B237,216,178,55,false,transparent
+DB0172,Transparent Red AB,#AA2638,170,38,56,false,transparent
+DB0173,Transparent Purple AB,#725C6D,114,92,109,false,transparent
+DB0174,Transparent Green AB,#99AC44,153,172,68,false,transparent
+DB0175,Transparent Green AB,#244D42,36,77,66,false,transparent
+DB0176,Transparent Blue AB,#4895D1,72,149,209,false,transparent
+DB0177,Transparent Blue AB,#1F5E8E,31,94,142,false,transparent
+DB0178,Transparent Blue AB,#33328E,51,50,142,false,transparent
+DB0179,Transparent Gray AB,#545F69,84,95,105,false,transparent
+DB0180,Transparent Brown AB,#483F41,72,63,65,false,transparent
+DB0181,Copper-Lined Transparent Brown,#7B4E2D,123,78,45,false,transparent
+DB0182,Copper-Lined Transparent Green,#2D3E24,45,62,36,false,transparent
+DB0183,Copper-Lined Transparent Blue,#29284A,41,40,74,false,transparent
+DB0184,Copper-Lined Transparent Brown,#493C37,73,60,55,false,transparent
+DB0191,Copper-Lined Alabaster Pink,#8C6E69,140,110,105,false,alabaster
+DB0200,Opaque White,#EBE9ED,235,233,237,false,opaque
+DB0201,Opaque White Luster,#E8E5E7,232,229,231,false,opaque
+DB0202,Opaque White AB,#E9E4E6,233,228,230,false,opaque
+DB0203,Opaque Beige Glazed Luster,#E2CFB2,226,207,178,false,opaque
+DB0204,Opaque Beige Glazed Luster,#D3AA8A,211,170,138,false,opaque
+DB0205,Opaque Beige Glazed Luster,#CB9E7D,203,158,125,false,opaque
+DB0206,Opaque Pink Glazed Luster,#E79685,231,150,133,false,opaque
+DB0207,Opaque Pink Gold Luster AB,#E38C7F,227,140,127,false,opaque
+DB0208,Opaque Beige Gold Luster,#C39072,195,144,114,false,opaque
+DB0209,Opaque Gray Glazed Luster,#A6AAB7,166,170,183,false,opaque
+DB0210,Opaque Pink Glazed Luster,#AF7C90,175,124,144,false,opaque
+DB0211,Opaque White Glazed Luster,#C8BEB0,200,190,176,false,opaque
+DB0214,Opaque Red Luster,#A11C2A,161,28,42,false,opaque
+DB0215,Opaque Blue Luster,#3E9AC0,62,154,192,false,opaque
+DB0216,Opaque Blue Luster,#262679,38,38,121,false,opaque
+DB0217,Opaque Blue Glazed Luster,#478DA2,71,141,162,false,opaque
+DB0218,Opaque Blue Glazed Luster,#4083A0,64,131,160,false,opaque
+DB0220,Alabaster White,#E2DEE2,226,222,226,false,alabaster
+DB0221,Silver-Lined Alabaster Silver,#BEB6AD,190,182,173,false,alabaster
+DB0222,Alabaster Crystal AB,#E1DDDF,225,221,223,false,alabaster
+DB0223,Silver-Lined Alabaster Silver AB,#B0A7A3,176,167,163,false,alabaster
+DB0230,Gold-Lined Alabaster Gold,#B4875B,180,135,91,false,alabaster
+DB0231,Alabaster White Luster,#C0BEC8,192,190,200,false,alabaster
+DB0232,Color-Lined Alabaster Yellow Luster,#E9D883,233,216,131,false,alabaster
+DB0233,Color-Lined Alabaster Orange-Yellow Luster,#F2B651,242,182,81,false,alabaster
+DB0234,Color-Lined Alabaster Pink Luster,#EAB7BA,234,183,186,false,alabaster
+DB0235,Color-Lined Alabaster Pink Luster,#E4725F,228,114,95,false,alabaster
+DB0236,Color-Lined Alabaster Pink Luster,#D46C80,212,108,128,false,alabaster
+DB0237,Color-Lined Alabaster Green Luster,#7DC19D,125,193,157,false,alabaster
+DB0238,Color-Lined Alabaster Green Luster,#2A8B83,42,139,131,false,alabaster
+DB0239,Color-Lined Alabaster Blue Luster,#6AC3E0,106,195,224,false,alabaster
+DB0240,Color-Lined Alabaster Blue Luster,#4B72CE,75,114,206,false,alabaster
+DB0241,Color-Lined Alabaster Purple Luster,#A298B1,162,152,177,false,alabaster
+DB0242,Color-Lined Alabaster Gray Glazed Luster,#74788C,116,120,140,false,alabaster
+DB0243,Color-Lined Alabaster Blue Luster,#52629A,82,98,154,false,alabaster
+DB0244,Color-Lined Alabaster Pink Luster,#F3B3CF,243,179,207,false,alabaster
+DB0245,Color-Lined Alabaster Pink Luster,#F6A1C9,246,161,201,false,alabaster
+DB0246,Color-Lined Alabaster Pink Luster,#F88FBC,248,143,188,false,alabaster
+DB0247,Color-Lined Alabaster Pink Luster,#CC5EB2,204,94,178,false,alabaster
+DB0248,Color-Lined Alabaster Pink-Purple Luster,#D596D5,213,150,213,false,alabaster
+DB0249,Color-Lined Alabaster Purple Luster,#806BB2,128,107,178,false,alabaster
+DB0250,Color-Lined Alabaster Purple Luster,#655B84,101,91,132,false,alabaster
+DB0251,Opaque Gray Gold Luster AB,#7E7C7A,126,124,122,false,opaque
+DB0252,Opaque Gray Gold Luster,#929295,146,146,149,false,opaque
+DB0253,Opaque Pink-Purple Gold Luster,#8D5F79,141,95,121,false,opaque
+DB0254,Opaque Brown Gold Luster,#524B43,82,75,67,false,opaque
+DB0256,Color-Lined Alabaster Brown Luster,#977B79,151,123,121,false,alabaster
+DB0257,Color-Lined Alabaster Blue Luster,#95A1C6,149,161,198,false,alabaster
+DB0261,Opaque Beige Glazed Luster,#B3A592,179,165,146,false,opaque
+DB0262,Opaque Green Glazed Luster,#979945,151,153,69,false,opaque
+DB0263,Opaque Green Glazed Luster,#686D4F,104,109,79,false,opaque
+DB0264,Opaque Green Glazed Luster,#435F64,67,95,100,false,opaque
+DB0265,Opaque Purple Glazed Luster,#725667,114,86,103,false,opaque
+DB0266,Opaque Blue Glazed Luster,#5C6B8B,92,107,139,false,opaque
+DB0267,Opaque Blue Glazed Luster,#4F5A76,79,90,118,false,opaque
+DB0268,Opaque Gray Glazed Luster,#555557,85,85,87,false,opaque
+DB0271,Color-Lined Transparent Gray Luster,#9798A2,151,152,162,false,transparent
+DB0272,Color-Lined Transparent Brown Luster,#93632A,147,99,42,false,transparent
+DB0273,Color-Lined Transparent Green Luster,#404333,64,67,51,false,transparent
+DB0274,Color-Lined Transparent Green Luster,#396A31,57,106,49,false,transparent
+DB0275,Color-Lined Transparent Green Luster,#203B3C,32,59,60,false,transparent
+DB0276,Color-Lined Transparent Blue-Green-Iridescent,#2E464F,46,70,79,false,transparent
+DB0277,Color-Lined Transparent Blue Luster,#312A54,49,42,84,false,transparent
+DB0278,Color-Lined Transparent Blue Luster,#3D3C4E,61,60,78,false,transparent
+DB0279,Color-Lined Transparent Purple Luster,#3D3B42,61,59,66,false,transparent
+DB0280,Color-Lined Transparent Red Luster,#65363A,101,54,58,false,transparent
+DB0281,Color-Lined Transparent Purple Luster,#693463,105,52,99,false,transparent
+DB0282,Color-Lined Transparent Red Luster,#693336,105,51,54,false,transparent
+DB0283,Color-Lined Transparent Red Luster,#7C464C,124,70,76,false,transparent
+DB0284,Color-Lined Transparent Purple Luster,#47477E,71,71,126,false,transparent
+DB0285,Color-Lined Transparent Blue Luster,#314179,49,65,121,false,transparent
+DB0286,Color-Lined Transparent Blue Luster,#303E49,48,62,73,false,transparent
+DB0287,Color-Lined Transparent Brown Luster,#5B4537,91,69,55,false,transparent
+DB0288,Color-Lined Transparent Brown Luster,#7A6146,122,97,70,false,transparent
+DB0295,Color-Lined Transparent Red Luster,#802527,128,37,39,false,transparent
+DB0296,Color-Lined Transparent Red Luster,#3E272C,62,39,44,false,transparent
+DB0297,Color-Lined Transparent Red Luster,#3C2D30,60,45,48,false,transparent
+DB0301,Matte Opaque Gray Luster,#464B56,70,75,86,false,opaque
+DB0306,Matte Opaque Gray Glazed Luster,#444448,68,68,72,false,opaque
+DB0307,Matte Opaque Gray Luster,#535150,83,81,80,false,opaque
+DB0310,Matte Opaque Black,#212020,33,32,32,false,opaque
+DB0311,Matte Opaque Brown,#37302A,55,48,42,false,opaque
+DB0312,Matte Metallic Purple,#42353E,66,53,62,false,opaque
+DB0321,Matte Nickel Plated Silver,#6F6763,111,103,99,false,opaque
+DB0322,Matte Metallic Brown,#554333,85,67,51,false,opaque
+DB0322L,Matte Metallic Brown-Gold,#543B2A,84,59,42,false,opaque
+DB0323,Matte Metallic Purple,#3B3741,59,55,65,false,opaque
+DB0324,Matte Metallic Green,#585A51,88,90,81,false,opaque
+DB0325,Matte Metallic Blue,#353F49,53,63,73,false,opaque
+DB0327,Matte Metallic Green,#373B32,55,59,50,false,opaque
+DB0331,Matte Gold Plated Gold,#B1895A,177,137,90,false,opaque
+DB0334,Matte Gold Plated Gold,#9D8063,157,128,99,false,opaque
+DB0335,Matte Galvanized Silver,#B0A38F,176,163,143,false,transparent
+DB0338,Matte Palladium Plated Silver,#7E7778,126,119,120,false,transparent
+DB0340,Matte Copper Plated Brown,#795249,121,82,73,false,opaque
+DB0351,Matte Opaque White AB,#E8E3E6,232,227,230,false,opaque
+DB0352,Matte Opaque White Glazed Luster,#E3D3B6,227,211,182,false,opaque
+DB0353,Matte Opaque Beige Glazed Luster,#D4AC8E,212,172,142,false,opaque
+DB0354,Matte Opaque Pink Glazed Luster,#CC9F8F,204,159,143,false,opaque
+DB0355,Matte Opaque Pink-Purple Glazed Luster,#A4798C,164,121,140,false,opaque
+DB0356,Matte Opaque Purple Glazed Luster,#9A8C9F,154,140,159,false,opaque
+DB0357,Matte Opaque Gray Glazed Luster,#B1B1BC,177,177,188,false,opaque
+DB0361,Matte Opaque Blue Luster,#404187,64,65,135,false,opaque
+DB0362,Matte Opaque Red Luster,#AE2D4A,174,45,74,false,opaque
+DB0371,Matte Opaque Green Gold Luster,#766740,118,103,64,false,opaque
+DB0372,Matte Opaque Green Gold Luster AB,#6F6A4B,111,106,75,false,opaque
+DB0373,Matte Opaque Green Gold Luster AB,#4F5E56,79,94,86,false,opaque
+DB0374,Matte Opaque Blue-Green Glazed Luster,#67807C,103,128,124,false,opaque
+DB0375,Matte Opaque Blue Glazed Luster,#55868F,85,134,143,false,opaque
+DB0376,Matte Opaque Blue Gold Luster AB,#57657A,87,101,122,false,opaque
+DB0377,Matte Opaque Blue Glazed Luster,#3B4064,59,64,100,false,opaque
+DB0378,Matte Opaque Red Glazed Luster,#7A2928,122,41,40,false,opaque
+DB0379,Matte Opaque Purple Gold Luster,#886B70,136,107,112,false,opaque
+DB0380,Matte Transparent Iridescent Glazed Luster AB,#594744,89,71,68,false,transparent
+DB0381,Matte Transparent Blue Glazed Luster,#697589,105,117,137,false,transparent
+DB0382,Matte Transparent Beige Glazed Luster,#B89664,184,150,100,false,transparent
+DB0383,Matte Transparent Gray Glazed Luster,#858073,133,128,115,false,transparent
+DB0384,Matte Transparent Brown Glazed Luster,#4B3F31,75,63,49,false,transparent
+DB0385,Matte Transparent Green Glazed Luster,#5D7C78,93,124,120,false,transparent
+DB0386,Matte Transparent Purple Glazed Luster,#48404D,72,64,77,false,transparent
+DB0387,Matte Transparent Blue Glazed Luster,#3F494F,63,73,79,false,transparent
+DB0388,Matte Opaque Beige Glazed Luster,#AFA085,175,160,133,false,opaque
+DB0389,Matte Opaque Beige Glazed Luster,#B48665,180,134,101,false,opaque
+DB0390,Matte Opaque Green Glazed Luster,#756546,117,101,70,false,opaque
+DB0391,Matte Opaque Green Glazed Luster,#5B5E42,91,94,66,false,opaque
+DB0410,Galvanized Gold,#A47C4F,164,124,79,false,transparent
+DB0411,Galvanized Gold,#A67C64,166,124,100,false,transparent
+DB0412,Galvanized Yellow,#A2905E,162,144,94,false,transparent
+DB0413,Galvanized Green,#79876B,121,135,107,false,transparent
+DB0414,Galvanized Blue-Green,#678583,103,133,131,false,transparent
+DB0415,Galvanized Blue,#688682,104,134,130,false,transparent
+DB0416,Galvanized Blue,#607F84,96,127,132,false,transparent
+DB0417,Galvanized Pink-Silver,#99837C,153,131,124,false,transparent
+DB0418,Galvanized Pink,#AA8988,170,137,136,false,transparent
+DB0419,Galvanized Pink-Purple,#8F7986,143,121,134,false,transparent
+DB0420,Galvanized Pink,#A55D6B,165,93,107,false,transparent
+DB0421,Galvanized Orange,#905022,144,80,34,false,transparent
+DB0422,Galvanized Pink,#8E2A7C,142,42,124,false,transparent
+DB0423,Galvanized Orange,#885052,136,80,82,false,transparent
+DB0424,Galvanized Yellow,#AA9132,170,145,50,false,transparent
+DB0425,Galvanized Pink,#93387E,147,56,126,false,transparent
+DB0426,Galvanized Green,#4A8B7A,74,139,122,false,transparent
+DB0427,Galvanized Blue,#296C78,41,108,120,false,transparent
+DB0428,Galvanized Red,#8B434D,139,67,77,false,transparent
+DB0429,Galvanized Purple,#8D7C86,141,124,134,false,transparent
+DB0430,Galvanized Purple,#5C4472,92,68,114,false,transparent
+DB0431,Galvanized Pink-Purple,#702F76,112,47,118,false,transparent
+DB0432,Galvanized Blue-Green,#4D696C,77,105,108,false,transparent
+DB0433,Galvanized Beige,#A3876E,163,135,110,false,transparent
+DB0434,Galvanized Beige,#9E6D56,158,109,86,false,transparent
+DB0435,Galvanized Pink,#A67276,166,114,118,false,transparent
+DB0436,Galvanized Silver,#7A6F5E,122,111,94,false,transparent
+DB0451,Nickel Plated Blue,#2C3B46,44,59,70,false,opaque
+DB0452,Nickel Plated Gray,#4C4743,76,71,67,false,opaque
+DB0453,Nickel Plated Gray,#383A44,56,58,68,false,opaque
+DB0454,Nickel Plated Purple,#5C464A,92,70,74,false,opaque
+DB0455,Nickel Plated Purple,#4B3C4A,75,60,74,false,opaque
+DB0456,Nickel Plated Green,#53492D,83,73,45,false,opaque
+DB0457,Nickel Plated Green,#494946,73,73,70,false,opaque
+DB0458,Nickel Plated Green,#2F4742,47,71,66,false,opaque
+DB0459,Nickel Plated Blue,#223C4C,34,60,76,false,opaque
+DB0460,Nickel Plated Brown,#51382C,81,56,44,false,opaque
+DB0461,Nickel Plated Brown,#4F2E1B,79,46,27,false,opaque
+DB0462,Nickel Plated Purple,#69504E,105,80,78,false,opaque
+DB0463,Nickel Plated Purple,#4D2247,77,34,71,false,opaque
+DB0464,Nickel Plated Purple,#413448,65,52,72,false,opaque
+DB0465,Nickel Plated Blue,#2F3A3F,47,58,63,false,opaque
+DB0501,Gold Plated Gold-Iridescent AB,#8A6632,138,102,50,false,opaque
+DB0505,Gold Plated Gold AB,#754A26,117,74,38,false,opaque
+DB0506,Gold Plated Iridescent AB,#684633,104,70,51,false,opaque
+DB0507,Gold Plated Iridescent AB,#7B5E40,123,94,64,false,opaque
+DB0508,Gold Plated Iridescent AB,#71674C,113,103,76,false,opaque
+DB0514,Nickel Plated Blue AB,#36485A,54,72,90,false,opaque
+DB0541,Palladium Plated Iridescent AB,#655757,101,87,87,false,opaque
+DB0542,Palladium Plated Iridescent AB,#52474C,82,71,76,false,opaque
+DB0543,Palladium Plated Iridescent AB,#4B4D62,75,77,98,false,opaque
+DB0544,Palladium Plated Iridescent AB,#5E6770,94,103,112,false,opaque
+DB0545,Palladium Plated Iridescent AB,#5E6567,94,101,103,false,opaque
+DB0546,Palladium Plated Iridescent AB,#756F60,117,111,96,false,opaque
+DB0551,Silver Plated Silver,#B5B0A7,181,176,167,true,opaque
+DB0551F,Matte Silver Plated Silver,#C9C0B9,201,192,185,false,opaque
+DB0601,Silver-Lined Transparent Orange,#6D2015,109,32,21,false,transparent
+DB0602,Silver-Lined Transparent Red,#881718,136,23,24,false,transparent
+DB0603,Silver-Lined Transparent Red,#681B16,104,27,22,false,transparent
+DB0604,Silver-Lined Transparent Yellow,#4F4017,79,64,23,false,transparent
+DB0605,Silver-Lined Transparent Green,#144A31,20,74,49,false,transparent
+DB0606,Silver-Lined Transparent Green,#303330,48,51,48,false,transparent
+DB0607,Silver-Lined Transparent Blue-Green,#254C49,37,76,73,false,transparent
+DB0608,Silver-Lined Transparent Blue,#1E3E54,30,62,84,false,transparent
+DB0609,Silver-Lined Transparent Blue,#2E213A,46,33,58,false,transparent
+DB0610,Silver-Lined Transparent Blue-Purple,#392064,57,32,100,false,transparent
+DB0611,Silver-Lined Transparent Purple,#312129,49,33,41,false,transparent
+DB0612,Silver-Lined Transparent Brown,#422817,66,40,23,false,transparent
+DB0613,Silver-Lined Transparent Gray,#33302B,51,48,43,false,transparent
+DB0621,Silver-Lined Alabaster Gold,#C99D6B,201,157,107,false,alabaster
+DB0622,Silver-Lined Alabaster Orange,#A35E4E,163,94,78,false,alabaster
+DB0623,Silver-Lined Alabaster Yellow,#C6AE5C,198,174,92,false,alabaster
+DB0624,Silver-Lined Alabaster Pink,#C4958B,196,149,139,false,alabaster
+DB0625,Silver-Lined Alabaster Pink,#B7687C,183,104,124,false,alabaster
+DB0626,Silver-Lined Alabaster Green,#64A99D,100,169,157,false,alabaster
+DB0627,Silver-Lined Alabaster Green,#269384,38,147,132,false,alabaster
+DB0628,Silver-Lined Alabaster Blue,#6492A0,100,146,160,false,alabaster
+DB0629,Silver-Lined Alabaster Purple,#9A7FA1,154,127,161,false,alabaster
+DB0630,Silver-Lined Alabaster Gray,#79726D,121,114,109,false,alabaster
+DB0631,Silver-Lined Alabaster Gray,#5D5751,93,87,81,false,alabaster
+DB0635,Silk White,#C3C2CA,195,194,202,false,silk
+DB0651,Opaque Orange,#E18314,225,131,20,false,opaque
+DB0652,Opaque Gray,#626263,98,98,99,false,opaque
+DB0653,Opaque Brown,#8D5510,141,85,16,false,opaque
+DB0654,Opaque Red,#6E1720,110,23,32,false,opaque
+DB0655,Opaque Green,#136E34,19,110,52,false,opaque
+DB0656,Opaque Green,#0B543E,11,84,62,false,opaque
+DB0657,Opaque Green,#4B422F,75,66,47,false,opaque
+DB0658,Opaque Blue-Green,#0D9DAB,13,157,171,false,opaque
+DB0659,Opaque Blue,#0C79B9,12,121,185,false,opaque
+DB0660,Opaque Purple,#68517A,104,81,122,false,opaque
+DB0661,Opaque Purple,#4B4FA4,75,79,164,false,opaque
+DB0662,Opaque Purple,#574B5C,87,75,92,false,opaque
+DB0663,Opaque Green,#2C3B23,44,59,35,false,opaque
+DB0664,Opaque Brown Luster,#8E5319,142,83,25,false,opaque
+DB0670,Silk White AB,#C5C5CD,197,197,205,false,silk
+DB0671,Silver-Lined Silk Brown,#7E6A4D,126,106,77,false,silk
+DB0672,Silk White Glazed Luster,#DBD1AF,219,209,175,false,silk
+DB0673,Silk White Glazed Luster,#C9AE95,201,174,149,false,silk
+DB0674,Silk Beige Glazed Luster,#D1A37E,209,163,126,false,silk
+DB0675,Silk Pink,#D9B3C7,217,179,199,false,silk
+DB0676,Silk White,#C2C0CD,194,192,205,true,silk
+DB0677,Silk Blue,#A5ADC2,165,173,194,true,silk
+DB0678,Glazed Silk Pink,#A17987,161,121,135,false,silk
+DB0679,Silk Gray,#908A8B,144,138,139,true,silk
+DB0680,Silver-Lined Silk Brown AB,#907B6B,144,123,107,false,silk
+DB0681,Silver-Lined Transparent Orange,#B16313,177,99,19,false,transparent
+DB0682,Silver-Lined Transparent Orange,#B34F19,179,79,25,false,transparent
+DB0683,Silver-Lined Transparent Red,#982820,152,40,32,false,transparent
+DB0684,Silver-Lined Transparent Pink,#BD644C,189,100,76,false,transparent
+DB0685,Silver-Lined Transparent Pink,#965949,150,89,73,false,transparent
+DB0686,Silver-Lined Transparent Yellow,#92794C,146,121,76,false,transparent
+DB0687,Silver-Lined Transparent Green-Yellow,#997C46,153,124,70,false,transparent
+DB0688,Silver-Lined Transparent Green,#26603B,38,96,59,false,transparent
+DB0689,Silver-Lined Transparent Green,#53595A,83,89,90,false,transparent
+DB0690,Silver-Lined Transparent Green,#334837,51,72,55,false,transparent
+DB0691,Silver-Lined Transparent Blue-Green,#4A8997,74,137,151,false,transparent
+DB0692,Silver-Lined Transparent Blue,#3E7F9F,62,127,159,false,transparent
+DB0693,Silver-Lined Transparent Blue,#2A3165,42,49,101,false,transparent
+DB0694,Silver-Lined Transparent Purple,#5C6299,92,98,153,false,transparent
+DB0695,Silver-Lined Transparent Purple,#554655,85,70,85,false,transparent
+DB0696,Silver-Lined Transparent Blue,#332A76,51,42,118,false,transparent
+DB0697,Silver-Lined Transparent Gray,#555856,85,88,86,false,transparent
+DB0702,Transparent Brown,#BF7621,191,118,33,false,transparent
+DB0703,Transparent Orange,#EA5C0B,234,92,11,false,transparent
+DB0704,Transparent Red,#B60D0E,182,13,14,false,transparent
+DB0705,Transparent Green,#0E491B,14,73,27,false,transparent
+DB0706,Transparent Blue,#197BC9,25,123,201,false,transparent
+DB0707,Transparent Blue,#1D0F71,29,15,113,false,transparent
+DB0708,Transparent Gray,#3D4244,61,66,68,false,transparent
+DB0709,Transparent Brown,#4B1E12,75,30,18,false,transparent
+DB0710,Transparent Yellow,#DAB419,218,180,25,false,transparent
+DB0711,Transparent Purple,#5C3B47,92,59,71,false,transparent
+DB0712,Transparent Green,#8EA014,142,160,20,false,transparent
+DB0713,Transparent Green,#14301F,20,48,31,false,transparent
+DB0714,Transparent Blue,#124677,18,70,119,false,transparent
+DB0715,Transparent Brown,#34261F,52,38,31,false,transparent
+DB0721,Opaque Yellow,#EBD708,235,215,8,false,opaque
+DB0722,Opaque Orange,#EB490D,235,73,13,false,opaque
+DB0723,Opaque Red,#B5121B,181,18,27,false,opaque
+DB0724,Opaque Green,#427538,66,117,56,false,opaque
+DB0725,Opaque Blue,#409BC1,64,155,193,false,opaque
+DB0726,Opaque Blue,#201576,32,21,118,false,opaque
+DB0727,Opaque Red,#D72217,215,34,23,false,opaque
+DB0728,Opaque Purple,#8F7281,143,114,129,false,opaque
+DB0729,Opaque Green,#2D8E8F,45,142,143,false,opaque
+DB0730,Opaque Blue,#5263C2,82,99,194,false,opaque
+DB0731,Opaque Gray,#656462,101,100,98,false,opaque
+DB0732,Opaque Beige-White,#E2C49C,226,196,156,false,opaque
+DB0733,Opaque Green,#98AA47,152,170,71,false,opaque
+DB0734,Opaque Brown,#331918,51,25,24,false,opaque
+DB0735,Opaque Brown,#574343,87,67,67,false,opaque
+DB0741,Matte Transparent Crystal,#CCCBD6,204,203,214,false,transparent
+DB0742,Matte Transparent Brown,#C87C32,200,124,50,false,transparent
+DB0743,Matte Transparent Yellow,#DEC11C,222,193,28,false,transparent
+DB0744,Matte Transparent Orange,#F46A09,244,106,9,false,transparent
+DB0745,Matte Transparent Red,#B8161A,184,22,26,false,transparent
+DB0746,Matte Transparent Green,#11582D,17,88,45,false,transparent
+DB0747,Matte Transparent Blue,#328AD6,50,138,214,false,transparent
+DB0748,Matte Transparent Blue,#25127F,37,18,127,false,transparent
+DB0749,Matte Transparent Gray,#4E5455,78,84,85,false,transparent
+DB0750,Matte Opaque White,#D3D3D3,211,211,211,false,opaque
+DB0751,Matte Opaque Yellow,#EDD603,237,214,3,false,opaque
+DB0752,Matte Opaque Orange,#ED410E,237,65,14,false,opaque
+DB0753,Matte Opaque Red,#B9111A,185,17,26,false,opaque
+DB0754,Matte Opaque Green,#3D7434,61,116,52,false,opaque
+DB0755,Matte Opaque Blue,#309BD2,48,155,210,false,opaque
+DB0756,Matte Opaque Blue,#201985,32,25,133,false,opaque
+DB0757,Matte Opaque Red,#CF1213,207,18,19,false,opaque
+DB0758,Matte Opaque Purple,#876A79,135,106,121,false,opaque
+DB0759,Matte Opaque Blue-Green,#338F96,51,143,150,false,opaque
+DB0760,Matte Opaque Blue,#5F6DCB,95,109,203,false,opaque
+DB0761,Matte Opaque Gray,#676664,103,102,100,false,opaque
+DB0762,Matte Opaque Beige-White,#E5CBA7,229,203,167,false,opaque
+DB0763,Matte Opaque Green,#9CAF4E,156,175,78,false,opaque
+DB0764,Matte Transparent Brown,#5B301E,91,48,30,false,transparent
+DB0765,Matte Transparent Purple,#6D4D58,109,77,88,false,transparent
+DB0766,Matte Transparent Green,#9FAD24,159,173,36,false,transparent
+DB0767,Matte Transparent Green,#173726,23,55,38,false,transparent
+DB0768,Matte Transparent Blue,#104C81,16,76,129,false,transparent
+DB0769,Matte Transparent Brown,#372923,55,41,35,false,transparent
+DB0771,Matte Transparent Yellow,#847351,132,115,81,false,transparent
+DB0772,Matte Transparent Brown,#5D4942,93,73,66,false,transparent
+DB0773,Matte Transparent Red,#6A3532,106,53,50,false,transparent
+DB0774,Matte Transparent Red,#8A1417,138,20,23,false,transparent
+DB0775,Matte Transparent Pink,#90102F,144,16,47,false,transparent
+DB0776,Matte Transparent Green,#0F412E,15,65,46,false,transparent
+DB0777,Matte Transparent Brown,#A15127,161,81,39,false,transparent
+DB0778,Matte Transparent Pink,#974D48,151,77,72,false,transparent
+DB0779,Matte Transparent Pink-Red,#A32A24,163,42,36,false,transparent
+DB0780,Matte Transparent Pink,#CC3354,204,51,84,false,transparent
+DB0781,Matte Transparent Brown-Orange,#AF552C,175,85,44,false,transparent
+DB0782,Matte Transparent Purple,#3B2A38,59,42,56,false,transparent
+DB0783,Matte Transparent Purple,#6342B5,99,66,181,false,transparent
+DB0784,Matte Transparent Purple,#382831,56,40,49,false,transparent
+DB0785,Matte Transparent Blue-Purple,#302359,48,35,89,false,transparent
+DB0786,Matte Transparent Blue-Green,#066E70,6,110,112,false,transparent
+DB0787,Matte Transparent Blue,#0B529A,11,82,154,false,transparent
+DB0788,Matte Transparent Blue-Green,#17414A,23,65,74,false,transparent
+DB0791,Matte Opaque Red,#980F1D,152,15,29,false,opaque
+DB0792,Matte Opaque Blue,#4C6874,76,104,116,false,opaque
+DB0793,Matte Opaque Blue-Green,#079299,7,146,153,false,opaque
+DB0794,Matte Opaque Brown,#763E1D,118,62,29,false,opaque
+DB0795,Matte Opaque Orange-Red,#A93419,169,52,25,false,opaque
+DB0796,Matte Opaque Red,#92262B,146,38,43,false,opaque
+DB0797,Matte Opaque Green,#394C30,57,76,48,false,opaque
+DB0798,Matte Opaque Blue,#34738A,52,115,138,false,opaque
+DB0799,Matte Opaque Purple,#585979,88,89,121,false,opaque
+DB0800,Matte Opaque Pink,#95647D,149,100,125,false,opaque
+DB0820,Silk Pink,#CDAABD,205,170,189,true,silk
+DB0821,Silk Beige,#EEB694,238,182,148,true,silk
+DB0822,Silk Gray,#9F9394,159,147,148,true,silk
+DB0823,Silk Yellow,#F0DA84,240,218,132,false,silk
+DB0824,Silk Orange,#E9A48E,233,164,142,true,silk
+DB0825,Silk Pink,#E89288,232,146,136,false,silk
+DB0826,Silk Purple,#A1817A,161,129,122,true,silk
+DB0827,Silk Gray,#867877,134,120,119,false,silk
+DB0828,Silk Green,#8FB297,143,178,151,false,silk
+DB0829,Silk Green,#8C9A8D,140,154,141,true,silk
+DB0830,Silk Blue,#ADCBE7,173,203,231,true,silk
+DB0831,Silk Blue,#96A6D3,150,166,211,false,silk
+DB0832,Silk Blue,#B0B3D5,176,179,213,true,silk
+DB0833,Silk Purple,#C09CB1,192,156,177,true,silk
+DB0851,Matte Transparent Crystal AB,#C7C6CE,199,198,206,false,transparent
+DB0852,Matte Transparent Brown AB,#D09263,208,146,99,false,transparent
+DB0853,Matte Transparent Brown AB,#745251,116,82,81,false,transparent
+DB0854,Matte Transparent Yellow AB,#DCC15D,220,193,93,false,transparent
+DB0855,Matte Transparent Orange AB,#F1733F,241,115,63,false,transparent
+DB0856,Matte Transparent Pink-Red AB,#CB3E4F,203,62,79,false,transparent
+DB0857,Matte Transparent Purple AB,#816A79,129,106,121,false,transparent
+DB0858,Matte Transparent Green AB,#3C755B,60,117,91,false,transparent
+DB0859,Matte Transparent Green AB,#375A56,55,90,86,false,transparent
+DB0860,Matte Transparent Green AB,#A5B85C,165,184,92,false,transparent
+DB0861,Matte Transparent Blue AB,#5BA0DF,91,160,223,false,transparent
+DB0862,Matte Transparent Blue AB,#2D699C,45,105,156,false,transparent
+DB0863,Matte Transparent Gray AB,#646C78,100,108,120,false,transparent
+DB0864,Matte Transparent Blue AB,#484499,72,68,153,false,transparent
+DB0865,Matte Transparent Brown AB,#544E54,84,78,84,false,transparent
+DB0866,Matte Transparent Brown AB,#9B6451,155,100,81,false,transparent
+DB0867,Matte Transparent Red AB,#893E50,137,62,80,false,transparent
+DB0868,Matte Transparent Pink AB,#E6C0C1,230,192,193,false,transparent
+DB0869,Matte Transparent Purple AB,#635363,99,83,99,false,transparent
+DB0870,Matte Transparent Purple AB,#6C657C,108,101,124,false,transparent
+DB0871,Matte Opaque Blue AB,#414856,65,72,86,false,opaque
+DB0872,Matte Opaque Orange AB,#EC5B48,236,91,72,false,opaque
+DB0873,Matte Opaque Pink-Red AB,#D03F4F,208,63,79,false,opaque
+DB0874,Matte Opaque Pink-Red AB,#B53752,181,55,82,false,opaque
+DB0875,Matte Opaque Purple AB,#917B8B,145,123,139,false,opaque
+DB0876,Matte Opaque Green AB,#9FB162,159,177,98,false,opaque
+DB0877,Matte Opaque Green AB,#53805D,83,128,93,false,opaque
+DB0878,Matte Opaque Green AB,#4B969D,75,150,157,false,opaque
+DB0879,Matte Opaque Blue AB,#4FA3CD,79,163,205,false,opaque
+DB0880,Matte Opaque Blue AB,#49488C,73,72,140,false,opaque
+DB0881,Matte Opaque Blue AB,#6A79CA,106,121,202,false,opaque
+DB0882,Matte Opaque Gray AB,#737376,115,115,118,false,opaque
+DB0883,Matte Opaque White AB,#E4CBAB,228,203,171,false,opaque
+DB0884,Matte Opaque Iridescent AB,#594751,89,71,81,false,opaque
+DB0901,Color-Lined Transparent Brown Luster,#976D54,151,109,84,false,transparent
+DB0902,Color-Lined Transparent Pink Luster,#A55F7C,165,95,124,false,transparent
+DB0903,Color-Lined Transparent Green Luster,#A29F6F,162,159,111,false,transparent
+DB0904,Color-Lined Transparent Green Luster,#257F7B,37,127,123,false,transparent
+DB0905,Color-Lined Transparent Blue Luster,#2D709E,45,112,158,false,transparent
+DB0906,Color-Lined Transparent Purple Luster,#5B497F,91,73,127,false,transparent
+DB0907,Color-Lined Transparent Gold Luster,#897263,137,114,99,false,transparent
+DB0908,Color-Lined Transparent Green Luster,#7C7349,124,115,73,false,transparent
+DB0909,Color-Lined Transparent Gold Luster,#7C6331,124,99,49,false,transparent
+DB0910,Color-Lined Transparent Yellow Luster,#99945A,153,148,90,false,transparent
+DB0911,Color-Lined Transparent Yellow Luster,#95753C,149,117,60,false,transparent
+DB0912,Color-Lined Transparent Purple Luster,#695356,105,83,86,false,transparent
+DB0913,Color-Lined Transparent Orange-Purple Luster,#8F534D,143,83,77,false,transparent
+DB0914,Color-Lined Transparent Pink Luster,#A84D6B,168,77,107,false,transparent
+DB0915,Color-Lined Transparent Brown Luster,#81534A,129,83,74,false,transparent
+DB0916,Color-Lined Transparent Green Luster,#3A714C,58,113,76,false,transparent
+DB0917,Color-Lined Transparent Green Luster,#4E634C,78,99,76,false,transparent
+DB0918,Color-Lined Transparent Green Luster,#1E706D,30,112,109,false,transparent
+DB0919,Color-Lined Transparent Blue-Green Luster,#225451,34,84,81,false,transparent
+DB0920,Color-Lined Transparent Blue Luster,#285F92,40,95,146,false,transparent
+DB0921,Color-Lined Transparent Blue-Green Luster,#374C54,55,76,84,false,transparent
+DB0922,Color-Lined Transparent Purple Luster,#655176,101,81,118,false,transparent
+DB0923,Color-Lined Transparent Purple Luster,#51466E,81,70,110,false,transparent
+DB0924,Color-Lined Transparent Red Luster,#79424C,121,66,76,false,transparent
+DB0925,Color-Lined Transparent Gray Luster,#484A52,72,74,82,false,transparent
+DB0981,Color-Lined Transparent Mix Luster,#775F42,119,95,66,false,transparent
+DB0982,Color-Lined Transparent Mix Luster,#845E65,132,94,101,false,transparent
+DB0983,Color-Lined Transparent Mix Luster,#8E8D49,142,141,73,false,transparent
+DB0984,Color-Lined Transparent Mix Luster,#357061,53,112,97,false,transparent
+DB0985,Color-Lined Transparent Mix Luster,#33616A,51,97,106,false,transparent
+DB0986,Color-Lined Transparent Mix Luster,#67626D,103,98,109,false,transparent
+DB0987,Color-Lined Transparent Mix Luster,#946746,148,103,70,false,transparent
+DB0988,Color-Lined Transparent Mix Luster,#946557,148,101,87,false,transparent
+DB0989,Color-Lined Transparent Mix Luster,#747231,116,114,49,false,transparent
+DB0990,Color-Lined Transparent Mix Luster,#6B453C,107,69,60,false,transparent
+DB0991,Color-Lined Transparent Mix Luster,#4B4149,75,65,73,false,transparent
+DB0992,Color-Lined Transparent Mix Luster,#2F3247,47,50,71,false,transparent
+DB1001,Opaque Iridescent AB,#393B43,57,59,67,false,opaque
+DB1002,Metallic Iridescent,#382421,56,36,33,false,opaque
+DB1003,Metallic Iridescent,#292E33,41,46,51,false,opaque
+DB1004,Metallic Iridescent,#413438,65,52,56,false,opaque
+DB1005,Metallic Iridescent,#2B3950,43,57,80,false,opaque
+DB1006,Metallic Iridescent,#314144,49,65,68,false,opaque
+DB1010,Metallic Gold,#6A4F43,106,79,67,false,opaque
+DB1011,Metallic Iridescent,#5E5150,94,81,80,false,opaque
+DB1012,Metallic Iridescent,#563E4B,86,62,75,false,opaque
+DB1013,Metallic Iridescent,#674744,103,71,68,false,opaque
+DB1014,Metallic Iridescent,#5C4750,92,71,80,false,opaque
+DB1015,Metallic Purple,#75495C,117,73,92,false,opaque
+DB1016,Metallic Red,#734246,115,66,70,false,opaque
+DB1051,Matte Metallic Brown,#432617,67,38,23,false,opaque
+DB1052,Matte Metallic Blue,#344051,52,64,81,false,opaque
+DB1053,Matte Metallic Green,#3C3B41,60,59,65,false,opaque
+DB1054,Matte Metallic Blue,#3E445B,62,68,91,false,opaque
+DB1055,Matte Metallic Iridescent,#564A45,86,74,69,false,opaque
+DB1056,Matte Metallic Iridescent,#5B5052,91,80,82,false,opaque
+DB1061,Matte Metallic Brown,#77605E,119,96,94,false,opaque
+DB1062,Matte Metallic Purple,#645963,100,89,99,false,opaque
+DB1063,Matte Metallic Green,#696D77,105,109,119,false,opaque
+DB1064,Matte Metallic Purple,#6E5B64,110,91,100,false,opaque
+DB1065,Matte Metallic Purple,#766976,118,105,118,false,opaque
+DB1066,Matte Metallic Purple,#825E6C,130,94,108,false,opaque
+DB1067,Matte Metallic Purple,#706166,112,97,102,false,opaque
+DB1101,Transparent Brown,#844116,132,65,22,false,transparent
+DB1102,Transparent Red,#711219,113,18,25,false,transparent
+DB1103,Transparent Pink,#DCA79B,220,167,155,false,transparent
+DB1104,Transparent Purple,#412B32,65,43,50,false,transparent
+DB1105,Transparent Purple,#48394F,72,57,79,false,transparent
+DB1106,Transparent Green,#438126,67,129,38,false,transparent
+DB1107,Transparent Green,#354522,53,69,34,false,transparent
+DB1108,Transparent Green,#0E555A,14,85,90,false,transparent
+DB1109,Transparent Blue,#0B79C4,11,121,196,false,transparent
+DB1110,Transparent Blue,#294CB2,41,76,178,false,transparent
+DB1111,Transparent Gray,#88827C,136,130,124,false,transparent
+DB1112,Transparent Brown,#CA9C56,202,156,86,false,transparent
+DB1131,Opaque Beige,#CDA270,205,162,112,false,opaque
+DB1132,Opaque Yellow,#F7B806,247,184,6,false,opaque
+DB1133,Opaque Orange,#F4830A,244,131,10,false,opaque
+DB1134,Opaque Brown,#611C21,97,28,33,false,opaque
+DB1135,Opaque Green,#4B5637,75,86,55,false,opaque
+DB1136,Opaque Blue-Green,#42988E,66,152,142,false,opaque
+DB1137,Opaque Blue,#8597DC,133,151,220,false,opaque
+DB1138,Opaque Blue,#3E3EA1,62,62,161,false,opaque
+DB1139,Opaque Gray,#808089,128,128,137,false,opaque
+DB1151,Matte Galvanized Silver,#A39673,163,150,115,false,transparent
+DB1152,Matte Galvanized Gold,#AE8C76,174,140,118,false,transparent
+DB1153,Matte Galvanized Gold,#AF8B64,175,139,100,false,transparent
+DB1154,Matte Galvanized Yellow,#B2964E,178,150,78,false,transparent
+DB1155,Matte Galvanized Orange,#AB7F6B,171,127,107,false,transparent
+DB1156,Matte Galvanized Pink,#A17374,161,115,116,false,transparent
+DB1157,Matte Galvanized Pink,#876363,135,99,99,false,transparent
+DB1158,Matte Galvanized Purple,#9B8A7F,155,138,127,false,transparent
+DB1159,Matte Galvanized Gray,#84786A,132,120,106,false,transparent
+DB1162,Matte Galvanized Brown,#8B6F5D,139,111,93,false,transparent
+DB1163,Matte Galvanized Brown,#94704F,148,112,79,false,transparent
+DB1164,Matte Galvanized Yellow,#A58E59,165,142,89,false,transparent
+DB1165,Matte Galvanized Brown,#936D5E,147,109,94,false,transparent
+DB1166,Matte Galvanized Pink,#986F6E,152,111,110,false,transparent
+DB1167,Matte Galvanized Pink,#745055,116,80,85,false,transparent
+DB1168,Matte Galvanized Purple,#817571,129,117,113,false,transparent
+DB1169,Matte Galvanized Gray,#72695E,114,105,94,false,transparent
+DB1170,Matte Galvanized Green,#777360,119,115,96,false,transparent
+DB1171,Matte Galvanized Green,#507B6B,80,123,107,false,transparent
+DB1172,Matte Galvanized Green,#4D6769,77,103,105,false,transparent
+DB1173,Matte Galvanized Pink,#7C5971,124,89,113,false,transparent
+DB1174,Matte Galvanized Purple,#5B4A5D,91,74,93,false,transparent
+DB1175,Matte Galvanized Gray,#57534F,87,83,79,false,transparent
+DB1176,Matte Galvanized Gray,#998B80,153,139,128,false,transparent
+DB1181,Matte Galvanized Green,#908A72,144,138,114,false,transparent
+DB1182,Matte Galvanized Green,#458775,69,135,117,false,transparent
+DB1183,Matte Galvanized Blue,#4B7A80,75,122,128,false,transparent
+DB1184,Matte Galvanized Pink,#8E517C,142,81,124,false,transparent
+DB1185,Matte Galvanized Purple,#69556F,105,85,111,false,transparent
+DB1186,Matte Galvanized Gray,#595450,89,84,80,false,transparent
+DB1201,Silver-Lined Transparent Gold,#8A5321,138,83,33,false,transparent
+DB1202,Silver-Lined Transparent Red,#4D281F,77,40,31,false,transparent
+DB1203,Silver-Lined Transparent Pink,#AF9081,175,144,129,false,transparent
+DB1204,Silver-Lined Transparent Purple,#553D3F,85,61,63,false,transparent
+DB1205,Silver-Lined Transparent Purple,#5F525B,95,82,91,false,transparent
+DB1206,Silver-Lined Transparent Green,#608037,96,128,55,false,transparent
+DB1207,Silver-Lined Transparent Green,#4C5932,76,89,50,false,transparent
+DB1208,Silver-Lined Transparent Green,#23615F,35,97,95,false,transparent
+DB1209,Silver-Lined Transparent Blue,#367B95,54,123,149,false,transparent
+DB1210,Silver-Lined Transparent Blue,#3F608B,63,96,139,false,transparent
+DB1211,Silver-Lined Transparent Silver,#8B847A,139,132,122,false,transparent
+DB1212,Silver-Lined Transparent Gold,#AD915E,173,145,94,false,transparent
+DB1221,Transparent Brown Luster,#8F5B42,143,91,66,false,transparent
+DB1222,Transparent Red Luster,#733A48,115,58,72,false,transparent
+DB1223,Transparent Pink Luster,#D5ADA7,213,173,167,false,transparent
+DB1224,Transparent Purple Luster,#5C4E5D,92,78,93,false,transparent
+DB1225,Transparent Purple Luster,#66617A,102,97,122,false,transparent
+DB1226,Transparent Green Luster,#619358,97,147,88,false,transparent
+DB1227,Transparent Green Luster,#536454,83,100,84,false,transparent
+DB1228,Transparent Green Luster,#236870,35,104,112,false,transparent
+DB1229,Transparent Blue Luster,#2C8DC7,44,141,199,false,transparent
+DB1230,Transparent Blue Luster,#4165B5,65,101,181,false,transparent
+DB1231,Transparent Gray Luster,#919091,145,144,145,false,transparent
+DB1241,Transparent Brown AB,#946343,148,99,67,false,transparent
+DB1242,Transparent Red AB,#65323C,101,50,60,false,transparent
+DB1243,Transparent Pink AB,#D7AEA8,215,174,168,false,transparent
+DB1244,Transparent Purple AB,#584A57,88,74,87,false,transparent
+DB1245,Transparent Purple AB,#5F586C,95,88,108,false,transparent
+DB1246,Transparent Green AB,#5C904E,92,144,78,false,transparent
+DB1247,Transparent Green AB,#4B634B,75,99,75,false,transparent
+DB1248,Transparent Green AB,#20696F,32,105,111,false,transparent
+DB1249,Transparent Blue AB,#2A8CC3,42,140,195,false,transparent
+DB1250,Transparent Blue AB,#4067B3,64,103,179,false,transparent
+DB1251,Transparent Gray AB,#949292,148,146,146,false,transparent
+DB1252,Transparent Gold AB,#CCA974,204,169,116,false,transparent
+DB1261,Matte Transparent Brown,#904C1A,144,76,26,false,transparent
+DB1262,Matte Transparent Red,#7B1720,123,23,32,false,transparent
+DB1263,Matte Transparent Pink,#E0AEA5,224,174,165,false,transparent
+DB1264,Matte Transparent Purple,#452E35,69,46,53,false,transparent
+DB1265,Matte Transparent Purple,#544760,84,71,96,false,transparent
+DB1266,Matte Transparent Green,#488229,72,130,41,false,transparent
+DB1267,Matte Transparent Green,#3E4F2B,62,79,43,false,transparent
+DB1268,Matte Transparent Green,#085657,8,86,87,false,transparent
+DB1269,Matte Transparent Blue,#0782CB,7,130,203,false,transparent
+DB1270,Matte Transparent Blue,#3256BB,50,86,187,false,transparent
+DB1271,Matte Transparent Gray,#8E8985,142,137,133,false,transparent
+DB1272,Matte Transparent Gold,#D7AD68,215,173,104,false,transparent
+DB1281,Matte Transparent Green AB,#699A5A,105,154,90,false,transparent
+DB1282,Matte Transparent Green AB,#5C6F5C,92,111,92,false,transparent
+DB1283,Matte Transparent Green AB,#24727E,36,114,126,false,transparent
+DB1284,Matte Transparent Blue AB,#2E94D5,46,148,213,false,transparent
+DB1285,Matte Transparent Blue AB,#4F72C1,79,114,193,false,transparent
+DB1286,Matte Transparent Gray AB,#9D9A9B,157,154,155,false,transparent
+DB1287,Matte Transparent Gold AB,#DCB888,220,184,136,false,transparent
+DB1301,Transparent Yellow,#F2B807,242,184,7,false,transparent
+DB1302,Transparent Orange-Pink,#AD4732,173,71,50,false,transparent
+DB1304,Transparent Green,#038B7C,3,139,124,false,transparent
+DB1308,Transparent Pink,#C62C4D,198,44,77,false,transparent
+DB1310,Transparent Pink,#A70D6E,167,13,110,false,transparent
+DB1312,Transparent Pink-Purple,#45202D,69,32,45,false,transparent
+DB1315,Transparent Purple,#531D76,83,29,118,false,transparent
+DB1318,Transparent Blue,#075A8F,7,90,143,false,transparent
+DB1319,Transparent Gray,#2E2C29,46,44,41,false,transparent
+DB1333,Silver-Lined Transparent Orange,#8D461A,141,70,26,false,transparent
+DB1335,Silver-Lined Transparent Pink,#B99EA6,185,158,166,false,transparent
+DB1338,Silver-Lined Transparent Pink,#B14257,177,66,87,false,transparent
+DB1340,Silver-Lined Transparent Pink,#932473,147,36,115,false,transparent
+DB1341,Silver-Lined Transparent Pink,#822F44,130,47,68,false,transparent
+DB1342,Silver-Lined Transparent Pink-Purple,#582A3B,88,42,59,false,transparent
+DB1343,Silver-Lined Transparent Purple,#734F88,115,79,136,false,transparent
+DB1345,Silver-Lined Transparent Pink-Purple,#6E347D,110,52,125,false,transparent
+DB1347,Silver-Lined Transparent Purple,#664D87,102,77,135,false,transparent
+DB1363,Opaque Orange-Pink,#C87566,200,117,102,false,opaque
+DB1371,Opaque Pink,#E0658B,224,101,139,false,opaque
+DB1376,Opaque Pink-Purple,#8E4862,142,72,98,false,opaque
+DB1379,Opaque Purple,#764EA7,118,78,167,false,opaque
+DB1391,Silver-Lined Glazed Transparent Brown,#684319,104,67,25,false,transparent
+DB1392,Silver-Lined Glazed Transparent Brown,#452519,69,37,25,false,transparent
+DB1393,Silver-Lined Glazed Transparent Brown,#55351D,85,53,29,false,transparent
+DB1401,Transparent Yellow,#EBD055,235,208,85,true,transparent
+DB1402,Transparent Pink,#A87A91,168,122,145,true,transparent
+DB1403,Transparent Pink,#9E667B,158,102,123,true,transparent
+DB1404,Transparent Blue,#B7C6A6,183,198,166,true,transparent
+DB1405,Transparent Blue,#5A77BD,90,119,189,true,transparent
+DB1406,Transparent Blue-Gray,#6A6C77,106,108,119,true,transparent
+DB1407,Transparent Blue,#898ABB,137,138,187,true,transparent
+DB1408,Transparent Blue-Gray,#817D7F,129,125,127,true,transparent
+DB1409,Transparent Crystal,#E2BC94,226,188,148,true,transparent
+DB1410,Transparent Pink,#DE997F,222,153,127,true,transparent
+DB1411,Transparent Orange,#D46646,212,102,70,true,transparent
+DB1412,Transparent Red,#CB5242,203,82,66,true,transparent
+DB1413,Transparent Pink,#854E68,133,78,104,true,transparent
+DB1414,Transparent Green,#54805B,84,128,91,true,transparent
+DB1415,Transparent Green,#506656,80,102,86,true,transparent
+DB1416,Transparent Gray,#6C5C59,108,92,89,true,transparent
+DB1417,Transparent Gray,#52443F,82,68,63,true,transparent
+DB1431,Silver-Lined Transparent Silver,#A0A08E,160,160,142,true,transparent
+DB1432,Silver-Lined Transparent Silver,#A29477,162,148,119,true,transparent
+DB1433,Silver-Lined Transparent Pink,#9D8287,157,130,135,true,transparent
+DB1434,Silver-Lined Transparent Pink,#917078,145,112,120,true,transparent
+DB1435,Silver-Lined Transparent Blue,#8B8B98,139,139,152,true,transparent
+DB1451,Silver-Lined Alabaster Beige,#C2AD97,194,173,151,true,alabaster
+DB1452,Silver-Lined Alabaster Beige,#C3A392,195,163,146,true,alabaster
+DB1453,Silver-Lined Alabaster Green,#A8A68C,168,166,140,true,alabaster
+DB1454,Silver-Lined Alabaster Green,#9BA793,155,167,147,true,alabaster
+DB1455,Silver-Lined Alabaster Gray,#8B8989,139,137,137,true,alabaster
+DB1456,Silver-Lined Alabaster Gray,#857A76,133,122,118,true,alabaster
+DB1457,Silver-Lined Alabaster Pink,#B6959D,182,149,157,true,alabaster
+DB1458,Silver-Lined Alabaster Gold,#B19470,177,148,112,true,alabaster
+DB1459,Silver-Lined Alabaster Brown,#96736A,150,115,106,true,alabaster
+DB1460,Silver-Lined Alabaster Gray,#806D66,128,109,102,true,alabaster
+DB1471,Transparent Yellow Glazed Luster,#E8D07C,232,208,124,true,transparent
+DB1472,Transparent Pink Glazed Luster,#B691A3,182,145,163,false,transparent
+DB1473,Transparent Pink Glazed Luster,#A47D95,164,125,149,true,transparent
+DB1474,Transparent Blue Glazed Luster,#B8C9AE,184,201,174,true,transparent
+DB1475,Transparent Blue Glazed Luster,#758CC3,117,140,195,false,transparent
+DB1476,Transparent Blue Glazed Luster,#9494B8,148,148,184,true,transparent
+DB1477,Transparent Gray Glazed Luster,#989699,152,150,153,true,transparent
+DB1478,Transparent Yellow Glazed Luster,#E7B47A,231,180,122,true,transparent
+DB1479,Transparent Pink Glazed Luster,#DBA28F,219,162,143,false,transparent
+DB1480,Transparent Orange Glazed Luster,#D77E6D,215,126,109,true,transparent
+DB1481,Transparent Red Glazed Luster,#C36C6C,195,108,108,false,transparent
+DB1482,Transparent Pink Glazed Luster,#9A748B,154,116,139,false,transparent
+DB1483,Transparent Green Glazed Luster,#6D9278,109,146,120,false,transparent
+DB1484,Transparent Green Glazed Luster,#6B7C75,107,124,117,true,transparent
+DB1485,Transparent Gray Glazed Luster,#7D7579,125,117,121,true,transparent
+DB1486,Transparent Gray Glazed Luster,#6C6568,108,101,104,false,transparent
+DB1490,Opaque Pink,#E9CFC3,233,207,195,false,opaque
+DB1491,Opaque Yellow,#F4E29E,244,226,158,false,opaque
+DB1492,Opaque Beige,#F0BA9F,240,186,159,false,opaque
+DB1493,Opaque Pink,#DDA19E,221,161,158,false,opaque
+DB1494,Opaque Pink,#C9ACC2,201,172,194,false,opaque
+DB1495,Opaque Pink,#C1A09A,193,160,154,false,opaque
+DB1496,Opaque Green,#A4C1AA,164,193,170,false,opaque
+DB1497,Opaque Blue,#ABBDE5,171,189,229,false,opaque
+DB1498,Opaque Gray,#939093,147,144,147,false,opaque
+DB1500,Opaque White AB,#EBD0C5,235,208,197,true,opaque
+DB1501,Opaque Yellow AB,#F2E09A,242,224,154,true,opaque
+DB1502,Opaque Orange AB,#E9B69A,233,182,154,true,opaque
+DB1503,Opaque Pink AB,#D89A94,216,154,148,true,opaque
+DB1504,Opaque Pink AB,#C9A9BD,201,169,189,true,opaque
+DB1505,Opaque Pink AB,#BA9A97,186,154,151,true,opaque
+DB1506,Opaque Green AB,#9DBEA9,157,190,169,true,opaque
+DB1507,Opaque Blue AB,#AABBDC,170,187,220,true,opaque
+DB1508,Opaque Gray AB,#969295,150,146,149,true,opaque
+DB1510,Matte Opaque Pink,#F1D7CE,241,215,206,false,opaque
+DB1511,Matte Opaque Yellow,#F4E197,244,225,151,false,opaque
+DB1512,Matte Opaque Orange,#EFB295,239,178,149,true,opaque
+DB1513,Matte Opaque Pink,#E09D9A,224,157,154,true,opaque
+DB1514,Matte Opaque Pink,#CCAEC3,204,174,195,true,opaque
+DB1515,Matte Opaque Purple,#C09E9C,192,158,156,true,opaque
+DB1516,Matte Opaque Green,#A8C8B2,168,200,178,false,opaque
+DB1517,Matte Opaque Blue,#A9BDEA,169,189,234,false,opaque
+DB1518,Matte Opaque Gray,#949194,148,145,148,false,opaque
+DB1520,Matte Opaque Pink AB,#EBD0C9,235,208,201,true,opaque
+DB1521,Matte Opaque Yellow AB,#F2E19D,242,225,157,true,opaque
+DB1522,Matte Opaque Orange AB,#ECB399,236,179,153,true,opaque
+DB1523,Matte Opaque Pink AB,#DB9C99,219,156,153,true,opaque
+DB1524,Matte Opaque Pink AB,#CCB0C4,204,176,196,true,opaque
+DB1525,Matte Opaque Purple AB,#C09F9F,192,159,159,true,opaque
+DB1526,Matte Opaque Green AB,#A0C3AF,160,195,175,true,opaque
+DB1527,Matte Opaque Blue AB,#A5BBE4,165,187,228,true,opaque
+DB1528,Matte Opaque Gray AB,#929094,146,144,148,true,opaque
+DB1530,Opaque White Glazed Luster,#E9CFC1,233,207,193,false,opaque
+DB1531,Opaque Yellow Glazed Luster,#F1DE9B,241,222,155,false,opaque
+DB1532,Opaque Orange Glazed Luster,#EEB69B,238,182,155,false,opaque
+DB1533,Opaque Pink Glazed Luster,#E3A39B,227,163,155,false,opaque
+DB1534,Opaque Pink Glazed Luster,#C4A6BB,196,166,187,false,opaque
+DB1535,Opaque Beige Glazed Luster,#B49995,180,153,149,false,opaque
+DB1536,Opaque Green Glazed Luster,#A0BBA6,160,187,166,false,opaque
+DB1537,Opaque Blue Glazed Luster,#ACBBDD,172,187,221,false,opaque
+DB1538,Opaque Gray Glazed Luster,#928F92,146,143,146,false,opaque
+DB1560,Opaque Beige-White Luster,#D4C088,212,192,136,false,opaque
+DB1561,Opaque Beige Luster,#CAA27A,202,162,122,false,opaque
+DB1562,Opaque Yellow Luster,#F3B731,243,183,49,false,opaque
+DB1563,Opaque Orange Luster,#E28233,226,130,51,false,opaque
+DB1564,Opaque Red Luster,#963951,150,57,81,false,opaque
+DB1565,Opaque Red Luster,#68424C,104,66,76,false,opaque
+DB1566,Opaque Green Luster,#5B6457,91,100,87,false,opaque
+DB1567,Opaque Green Luster,#56A0A3,86,160,163,false,opaque
+DB1568,Opaque Blue Luster,#8A99D1,138,153,209,false,opaque
+DB1569,Opaque Blue Luster,#5152A4,81,82,164,false,opaque
+DB1570,Opaque Gray Luster,#84848C,132,132,140,false,opaque
+DB1571,Opaque Beige AB,#CDA376,205,163,118,false,opaque
+DB1572,Opaque Yellow AB,#F5B71E,245,183,30,false,opaque
+DB1573,Opaque Orange AB,#F1882A,241,136,42,false,opaque
+DB1574,Opaque Red AB,#653B45,101,59,69,false,opaque
+DB1575,Opaque Green AB,#505F53,80,95,83,false,opaque
+DB1576,Opaque Blue-Green,#4D9FA3,77,159,163,false,opaque
+DB1577,Opaque Blue AB,#8A9AD2,138,154,210,false,opaque
+DB1578,Opaque Blue AB,#4A4FA5,74,79,165,false,opaque
+DB1579,Opaque Gray AB,#83838D,131,131,141,false,opaque
+DB1581,Matte Opaque Beige,#D1A573,209,165,115,false,opaque
+DB1582,Matte Opaque Yellow,#F6B402,246,180,2,false,opaque
+DB1583,Matte Opaque Orange,#F78503,247,133,3,false,opaque
+DB1584,Matte Opaque Brown,#642327,100,35,39,false,opaque
+DB1585,Matte Opaque Green,#4E583B,78,88,59,false,opaque
+DB1586,Matte Opaque Blue-Green,#45A0A5,69,160,165,false,opaque
+DB1587,Matte Opaque Blue,#889ADD,136,154,221,false,opaque
+DB1588,Matte Opaque Blue,#4140A7,65,64,167,false,opaque
+DB1589,Matte Opaque Gray,#81818A,129,129,138,false,opaque
+DB1591,Matte Opaque Beige AB,#CDA882,205,168,130,false,opaque
+DB1592,Matte Opaque Yellow AB,#F0B82C,240,184,44,false,opaque
+DB1593,Matte Opaque Orange AB,#F3863F,243,134,63,false,opaque
+DB1594,Matte Opaque Green AB,#5D685C,93,104,92,false,opaque
+DB1595,Matte Opaque Blue-Green,#56A4AD,86,164,173,false,opaque
+DB1596,Matte Opaque Blue AB,#8B9DD9,139,157,217,false,opaque
+DB1597,Matte Opaque Blue AB,#585BAD,88,91,173,false,opaque
+DB1598,Matte Opaque Gray AB,#8C8C97,140,140,151,false,opaque
+DB1671,Color-Lined Transparent White Luster,#CAC9C8,202,201,200,false,transparent
+DB1672,Color-Lined Transparent Blue Luster,#7EBAC9,126,186,201,false,transparent
+DB1673,Color-Lined Transparent Pink Luster,#C38D9F,195,141,159,false,transparent
+DB1674,Color-Lined Transparent Pink Luster,#BCA49E,188,164,158,false,transparent
+DB1675,Color-Lined Transparent Green Luster,#99C0B4,153,192,180,false,transparent
+DB1676,Color-Lined Transparent Yellow Luster,#CDC497,205,196,151,false,transparent
+DB1677,Color-Lined Transparent Blue Luster,#949FAE,148,159,174,false,transparent
+DB1681,Silver-Lined Glazed Transparent Brown,#6D4E25,109,78,37,false,transparent
+DB1682,Silver-Lined Glazed Transparent Brown,#694820,105,72,32,false,transparent
+DB1683,Silver-Lined Glazed Transparent Brown,#5E331F,94,51,31,false,transparent
+DB1684,Silver-Lined Glazed Transparent Brown,#442F24,68,47,36,false,transparent
+DB1685,Silver-Lined Glazed Transparent Red,#462924,70,41,36,false,transparent
+DB1691,Silver-Lined Glazed Transparent Brown AB,#71523D,113,82,61,false,transparent
+DB1692,Silver-Lined Glazed Transparent Purple AB,#674B41,103,75,65,false,transparent
+DB1694,Silver-Lined Glazed Transparent Purple AB,#4F3642,79,54,66,false,transparent
+DB1701,Color-Lined Transparent White Luster,#E1D9CC,225,217,204,false,transparent
+DB1702,Color-Lined Transparent Orange Luster,#A66735,166,103,53,false,transparent
+DB1703,Color-Lined Transparent Brown Luster,#77573B,119,87,59,false,transparent
+DB1704,Color-Lined Transparent Brown Luster,#84544B,132,84,75,false,transparent
+DB1705,Color-Lined Transparent Brown Luster,#60393C,96,57,60,false,transparent
+DB1706,Color-Lined Transparent Brown Luster,#5D4F54,93,79,84,false,transparent
+DB1707,Color-Lined Transparent Green Luster,#6CBEB0,108,190,176,false,transparent
+DB1708,Color-Lined Transparent Blue Luster,#3394A8,51,148,168,false,transparent
+DB1709,Color-Lined Transparent Blue Luster,#2D719B,45,113,155,false,transparent
+DB1710,Color-Lined Transparent Brown Luster,#4A3E36,74,62,54,false,transparent
+DB1711,Color-Lined Transparent Gray Luster,#9E9B94,158,155,148,false,transparent
+DB1712,Color-Lined Transparent Gray Luster,#686B6B,104,107,107,false,transparent
+DB1731,Color-Lined Alabaster Beige Luster,#917A6A,145,122,106,false,alabaster
+DB1732,Color-Lined Transparent Brown Luster,#735A4D,115,90,77,false,transparent
+DB1733,Color-Lined Alabaster Brown Luster,#965F4F,150,95,79,false,alabaster
+DB1734,Color-Lined Transparent Brown Luster,#8F5727,143,87,39,false,transparent
+DB1735,Color-Lined Transparent Brown Luster,#744F2D,116,79,45,false,transparent
+DB1736,Color-Lined Transparent Brown Luster,#724532,114,69,50,false,transparent
+DB1737,Color-Lined Transparent Brown,#79554E,121,85,78,false,transparent
+DB1738,Color-Lined Transparent Green Luster,#735C3B,115,92,59,false,transparent
+DB1739,Color-Lined Transparent Green Luster,#544A33,84,74,51,false,transparent
+DB1740,Color-Lined Transparent Purple Luster,#4D483F,77,72,63,false,transparent
+DB1741,Color-Lined Transparent Green Luster,#463F2B,70,63,43,false,transparent
+DB1742,Color-Lined Alabaster Pink Luster,#AA5872,170,88,114,false,alabaster
+DB1743,Color-Lined Transparent Pink Luster,#9D2967,157,41,103,false,transparent
+DB1744,Color-Lined Alabaster Purple Luster,#954A82,149,74,130,false,alabaster
+DB1745,Color-Lined Transparent Purple Luster,#825D6A,130,93,106,false,transparent
+DB1746,Color-Lined Alabaster Purple Luster,#894F5A,137,79,90,false,alabaster
+DB1747,Color-Lined Transparent Purple Luster,#592C4C,89,44,76,false,transparent
+DB1748,Color-Lined Transparent Red Luster,#4E3735,78,55,53,false,transparent
+DB1749,Color-Lined Alabaster Purple Luster,#77635F,119,99,95,false,alabaster
+DB1750,Color-Lined Transparent Brown Luster,#593630,89,54,48,false,transparent
+DB1751,Color-Lined Transparent Red Luster,#3F2831,63,40,49,false,transparent
+DB1752,Color-Lined Alabaster Purple Luster,#947488,148,116,136,false,alabaster
+DB1753,Color-Lined Alabaster Purple Luster,#6F5E96,111,94,150,false,alabaster
+DB1754,Color-Lined Transparent Purple Luster,#5F4E73,95,78,115,false,transparent
+DB1755,Color-Lined Transparent Purple Luster,#41316A,65,49,106,false,transparent
+DB1756,Color-Lined Transparent Purple Luster,#423A59,66,58,89,false,transparent
+DB1757,Color-Lined Transparent Purple Luster,#674858,103,72,88,false,transparent
+DB1758,Color-Lined Transparent Purple Luster,#554361,85,67,97,false,transparent
+DB1759,Color-Lined Transparent Brown Luster,#644D46,100,77,70,false,transparent
+DB1760,Color-Lined Transparent Purple Luster,#584D53,88,77,83,false,transparent
+DB1761,Color-Lined Alabaster Blue Luster,#3F7A9E,63,122,158,false,alabaster
+DB1762,Color-Lined Transparent Blue Luster,#466982,70,105,130,false,transparent
+DB1763,Color-Lined Transparent Blue Luster,#213553,33,53,83,false,transparent
+DB1764,Color-Lined Transparent Green Luster,#15505C,21,80,92,false,transparent
+DB1765,Color-Lined Alabaster Green Luster,#9C9E83,156,158,131,false,alabaster
+DB1766,Color-Lined Transparent Green Luster,#8E866D,142,134,109,false,transparent
+DB1767,Color-Lined Transparent Green Luster,#517F7D,81,127,125,false,transparent
+DB1768,Color-Lined Alabaster Green Luster,#456462,69,100,98,false,alabaster
+DB1769,Color-Lined Transparent Green Luster,#235056,35,80,86,false,transparent
+DB1770,Color-Lined Alabaster Gray Luster,#7B7D80,123,125,128,false,alabaster
+DB1771,Color-Lined Transparent Gray Luster,#8C8386,140,131,134,false,transparent
+DB1772,Color-Lined Transparent Gray Luster,#7A6F6D,122,111,109,false,transparent
+DB1773,Color-Lined Transparent Gray Luster,#544E47,84,78,71,false,transparent
+DB1774,Color-Lined Alabaster Gray Luster,#53565E,83,86,94,false,alabaster
+DB1775,Color-Lined Transparent Brown Luster,#484743,72,71,67,false,transparent
+DB1776,Color-Lined Transparent Yellow Luster,#D6C24B,214,194,75,false,transparent
+DB1777,Color-Lined Transparent Orange Luster,#E77A1E,231,122,30,false,transparent
+DB1778,Color-Lined Transparent Brown Luster,#A36E38,163,110,56,false,transparent
+DB1779,Color-Lined Transparent Brown Luster,#7C4F30,124,79,48,false,transparent
+DB1780,Color-Lined Transparent Red Luster,#AF4029,175,64,41,false,transparent
+DB1781,Color-Lined Transparent Red Luster,#703131,112,49,49,false,transparent
+DB1782,Color-Lined Transparent Blue Luster,#1D7D86,29,125,134,false,transparent
+DB1783,Color-Lined Transparent Blue Luster,#2F6F97,47,111,151,false,transparent
+DB1784,Color-Lined Transparent Blue Luster,#4E7ABA,78,122,186,false,transparent
+DB1785,Color-Lined Transparent Blue Luster,#3B3D98,59,61,152,false,transparent
+DB1786,Color-Lined Transparent Green Luster,#5E714A,94,113,74,false,transparent
+DB1787,Color-Lined Transparent Green Luster,#327E4F,50,126,79,false,transparent
+DB1788,Color-Lined Transparent Green Luster,#1C5D44,28,93,68,false,transparent
+DB1789,Color-Lined Transparent Purple Luster,#71667A,113,102,122,false,transparent
+DB1790,Color-Lined Transparent Brown Luster,#604D44,96,77,68,false,transparent
+DB1791,Color-Lined Transparent Purple Luster,#8B6F7A,139,111,122,false,transparent
+DB1792,Color-Lined Transparent Purple Luster,#6B535D,107,83,93,false,transparent
+DB1793,Color-Lined Transparent Gray Luster,#6E7378,110,115,120,false,transparent
+DB1801,Color-Lined Silk Yellow Luster,#CFA55C,207,165,92,false,silk
+DB1802,Color-Lined Silk Beige Luster,#92755C,146,117,92,false,silk
+DB1803,Color-Lined Silk Beige Luster,#AA7C67,170,124,103,false,silk
+DB1804,Color-Lined Silk Orange Luster,#9F5F3D,159,95,61,false,silk
+DB1805,Color-Lined Silk Red Luster,#904146,144,65,70,false,silk
+DB1806,Color-Lined Silk Purple Luster,#95647B,149,100,123,false,silk
+DB1807,Color-Lined Silk Pink Luster,#AA4764,170,71,100,false,silk
+DB1808,Color-Lined Silk Pink Luster,#983D79,152,61,121,false,silk
+DB1809,Color-Lined Silk Purple Luster,#634F81,99,79,129,false,silk
+DB1810,Color-Lined Silk Purple Luster,#523C72,82,60,114,false,silk
+DB1811,Color-Lined Silk Blue Luster,#37527A,55,82,122,false,silk
+DB1812,Color-Lined Silk Green Luster,#4C9290,76,146,144,false,silk
+DB1813,Color-Lined Silk Green Luster,#127E73,18,126,115,false,silk
+DB1814,Color-Lined Silk Green Luster,#305B4E,48,91,78,false,silk
+DB1815,Color-Lined Silk Green Luster,#9B997C,155,153,124,false,silk
+DB1816,Color-Lined Silk Gray Luster,#9A9BA0,154,155,160,false,silk
+DB1817,Color-Lined Silk Gray Luster,#777576,119,117,118,false,silk
+DB1818,Color-Lined Silk Gray Luster,#434245,67,66,69,false,silk
+DB1831,Duracoat Galvanized Silver,#AEA185,174,161,133,false,transparent
+DB1831F,Duracoat Matte Galvanized Silver-White,#A08F6D,160,143,109,false,transparent
+DB1832,Duracoat Galvanized Gold,#A57D3D,165,125,61,false,transparent
+DB1832F,Duracoat Matte Galvanized Brown-Gold,#B07F44,176,127,68,false,transparent
+DB1833,Duracoat Galvanized Gold,#97662F,151,102,47,false,transparent
+DB1833F,Duracoat Matte Galvanized Brown-Gold,#A66D3D,166,109,61,false,transparent
+DB1834,Duracoat Galvanized Gold,#8E6A4B,142,106,75,false,transparent
+DB1834F,Duracoat Matte Galvanized Brown-Gold,#926F51,146,111,81,false,transparent
+DB1835,Duracoat Galvanized Yellow,#A18F3F,161,143,63,false,transparent
+DB1836,Duracoat Galvanized Orange,#975F3E,151,95,62,false,transparent
+DB1837,Duracoat Galvanized Orange,#8B4635,139,70,53,false,transparent
+DB1838,Duracoat Galvanized Red,#88352D,136,53,45,false,transparent
+DB1838F,Duracoat Matte Galvanized Red,#9E4B46,158,75,70,false,transparent
+DB1839,Duracoat Galvanized Pink,#986260,152,98,96,false,transparent
+DB1840,Duracoat Galvanized Pink,#914E68,145,78,104,false,transparent
+DB1840F,Duracoat Matte Galvanized Pink,#A2596C,162,89,108,false,transparent
+DB1841,Duracoat Galvanized Pink,#9C3D49,156,61,73,false,transparent
+DB1841F,Duracoat Matte Galvanized Pink,#A7494D,167,73,77,false,transparent
+DB1842,Duracoat Galvanized Brown,#6E3C33,110,60,51,false,transparent
+DB1842F,Duracoat Matte Galvanized Brown,#73463E,115,70,62,false,transparent
+DB1843,Duracoat Galvanized Brown,#61443D,97,68,61,false,transparent
+DB1843F,Duracoat Matte Galvanized Brown,#664E49,102,78,73,false,transparent
+DB1844,Duracoat Galvanized Green,#608E67,96,142,103,false,transparent
+DB1844F,Duracoat Matte Galvanized Green,#6A9B6C,106,155,108,false,transparent
+DB1845,Duracoat Galvanized Green,#556957,85,105,87,false,transparent
+DB1846,Duracoat Galvanized Blue,#60726F,96,114,111,false,transparent
+DB1847,Duracoat Galvanized Blue,#336569,51,101,105,false,transparent
+DB1847F,Duracoat Matte Galvanized Blue,#3E696C,62,105,108,false,transparent
+DB1848,Duracoat Galvanized Pink,#805165,128,81,101,false,transparent
+DB1849,Duracoat Galvanized Pink,#7C4351,124,67,81,false,transparent
+DB1850,Duracoat Galvanized Purple,#614858,97,72,88,false,transparent
+DB1851,Duracoat Galvanized Silver,#837B68,131,123,104,false,transparent
+DB1851F,Duracoat Matte Galvanized Silver,#847C69,132,124,105,false,transparent
+DB1852,Duracoat Galvanized Silver,#615243,97,82,67,false,transparent
+DB1855,Color-Lined Silk Orange,#FCD243,252,210,67,false,silk
+DB1856,Color-Lined Silk Pink,#FB9A85,251,154,133,false,silk
+DB1857,Color-Lined Silk Green-Yellow,#EAEF70,234,239,112,false,silk
+DB1858,Color-Lined Silk Green,#B8E99C,184,233,156,false,silk
+DB1859,Color-Lined Silk Blue,#93D8EC,147,216,236,false,silk
+DB1860,Color-Lined Silk Blue,#116399,17,99,153,false,silk
+DB1861,Color-Lined Silk Yellow,#F4BA46,244,186,70,false,silk
+DB1862,Color-Lined Silk Brown AB,#816B58,129,107,88,false,silk
+DB1863,Color-Lined Silk Pink-Red AB,#CB8073,203,128,115,false,silk
+DB1864,Color-Lined Silk Brown-Orange AB,#BD7148,189,113,72,false,silk
+DB1865,Color-Lined Silk Red AB,#A13D50,161,61,80,false,silk
+DB1866,Color-Lined Silk Purple AB,#B271A5,178,113,165,false,silk
+DB1867,Color-Lined Silk Pink-Purple AB,#D05B89,208,91,137,false,silk
+DB1868,Color-Lined Silk Purple AB,#826BB0,130,107,176,false,silk
+DB1869,Color-Lined Silk Green AB,#199E90,25,158,144,false,silk
+DB1870,Color-Lined Silk Green AB,#3D7370,61,115,112,false,silk
+DB1871,Color-Lined Silk Gray AB,#94969B,148,150,155,false,silk
+DB1872,Color-Lined Silk Black-Gray AB,#595859,89,88,89,false,silk
+DB1873,Color-Lined Silk Yellow AB,#E4DF75,228,223,117,false,silk
+DB1874,Color-Lined Silk Orange AB,#CCB29B,204,178,155,false,silk
+DB1875,Color-Lined Silk Pink-Purple AB,#DB77A1,219,119,161,false,silk
+DB1876,Color-Lined Silk Brown AB,#7F745E,127,116,94,false,silk
+DB1877,Color-Lined Silk Gray AB,#817A75,129,122,117,false,silk
+DB1878,Color-Lined Silk Red AB,#724C52,114,76,82,false,silk
+DB1879,Color-Lined Silk Pink AB,#94736C,148,115,108,false,silk
+DB1880,Color-Lined Silk Purple AB,#85566D,133,86,109,false,silk
+DB1881,Color-Lined Silk Purple AB,#4D4168,77,65,104,false,silk
+DB1882,Color-Lined Silk Blue AB,#48617E,72,97,126,false,silk
+DB1886,Transparent Yellow Luster,#D1BD4C,209,189,76,false,transparent
+DB1887,Transparent Orange Luster,#DF6F29,223,111,41,false,transparent
+DB1888,Transparent Yellow Luster,#A3AE43,163,174,67,false,transparent
+DB1889,Transparent Green Luster,#286C4B,40,108,75,false,transparent
+DB1890,Transparent Blue Luster,#4895C8,72,149,200,false,transparent
+DB1891,Transparent Brown Luster,#55332B,85,51,43,false,transparent
+DB1892,Transparent Brown Luster,#3E3231,62,50,49,false,transparent
+DB1893,Transparent Purple Luster,#76586B,118,88,107,false,transparent
+DB1894,Transparent Green Luster,#1B4133,27,65,51,false,transparent
+DB1895,Transparent Blue Luster,#18578C,24,87,140,false,transparent
+DB1896,Transparent Blue Luster,#2F2188,47,33,136,false,transparent
+DB1897,Transparent Gray Luster,#4A535A,74,83,90,false,transparent
+DB1900,Opaque Yellow Luster,#E1CFB1,225,207,177,false,opaque
+DB1906,Glazed Opaque Pink,#D2909F,210,144,159,false,opaque
+DB1907,Opaque Pink Glazed Luster,#CD96A3,205,150,163,false,opaque
+DB1910,Matte Opaque Black-Brown,#482B2B,72,43,43,false,opaque
+DB1991,Glazed Opaque Black-Purple,#30272D,48,39,45,false,opaque
+DB2031,Color-Lined Transparent Yellow Luster,#D2EA1A,210,234,26,false,transparent
+DB2032,Color-Lined Transparent Orange Luster,#FBC425,251,196,37,false,transparent
+DB2033,Color-Lined Transparent Orange Luster,#FC943D,252,148,61,false,transparent
+DB2034,Color-Lined Transparent Pink Luster,#FA766E,250,118,110,false,transparent
+DB2035,Color-Lined Transparent Pink Luster,#F942A6,249,66,166,false,transparent
+DB2036,Color-Lined Transparent Pink Luster,#FA60A4,250,96,164,false,transparent
+DB2037,Color-Lined Transparent Purple Luster,#E54DA9,229,77,169,false,transparent
+DB2038,Color-Lined Transparent Purple Luster,#B348A3,179,72,163,false,transparent
+DB2039,Color-Lined Transparent Blue Luster,#4AA6DC,74,166,220,false,transparent
+DB2040,Color-Lined Transparent Green Luster,#4FD36E,79,211,110,false,transparent
+DB2041,Color-Lined Transparent Yellow Luster,#C09C45,192,156,69,false,transparent
+DB2042,Color-Lined Transparent Orange Luster,#B7736B,183,115,107,false,transparent
+DB2043,Color-Lined Transparent Brown Luster,#A47844,164,120,68,false,transparent
+DB2044,Color-Lined Transparent Brown Luster,#9A6150,154,97,80,false,transparent
+DB2045,Color-Lined Transparent Orange Luster,#E28631,226,134,49,false,transparent
+DB2046,Color-Lined Transparent Brown Luster,#776D39,119,109,57,false,transparent
+DB2047,Color-Lined Transparent Orange Luster,#F96127,249,97,39,false,transparent
+DB2048,Color-Lined Transparent Pink Luster,#AE517F,174,81,127,false,transparent
+DB2049,Color-Lined Transparent Pink Luster,#AA4398,170,67,152,false,transparent
+DB2050,Color-Lined Transparent Pink Luster,#B13A82,177,58,130,false,transparent
+DB2051,Color-Lined Transparent Pink Luster,#E13C3B,225,60,59,false,transparent
+DB2052,Color-Lined Transparent Green Luster,#7D836C,125,131,108,false,transparent
+DB2053,Color-Lined Transparent Green Luster,#2C987E,44,152,126,false,transparent
+DB2054,Color-Lined Transparent Blue Luster,#426377,66,99,119,false,transparent
+DB2061,Color-Lined Transparent Mix Luster,#CD9320,205,147,32,false,transparent
+DB2062,Color-Lined Transparent Mix Luster,#DA7445,218,116,69,false,transparent
+DB2063,Color-Lined Transparent Mix Luster,#BD5228,189,82,40,false,transparent
+DB2064,Color-Lined Transparent Mix Luster,#C43773,196,55,115,false,transparent
+DB2065,Color-Lined Transparent Mix Luster,#785486,120,84,134,false,transparent
+DB2066,Color-Lined Transparent Mix Luster,#929E40,146,158,64,false,transparent
+DB2067,Color-Lined Transparent Mix Luster,#44858B,68,133,139,false,transparent
+DB2068,Color-Lined Transparent Mix Luster,#596C82,89,108,130,false,transparent
+DB2101,Duracoat Opaque White-Yellow,#F0D785,240,215,133,false,opaque
+DB2102,Duracoat Opaque Beige,#D69F3F,214,159,63,false,opaque
+DB2103,Duracoat Opaque Orange,#F1930B,241,147,11,false,opaque
+DB2104,Duracoat Opaque Orange,#DE7810,222,120,16,false,opaque
+DB2105,Duracoat Opaque Brown-Gray,#8E7062,142,112,98,false,opaque
+DB2106,Duracoat Opaque Brown,#9E6813,158,104,19,false,opaque
+DB2107,Duracoat Opaque Brown,#9B613F,155,97,63,false,opaque
+DB2108,Duracoat Opaque Brown,#955415,149,84,21,false,opaque
+DB2109,Duracoat Opaque Brown,#835223,131,82,35,false,opaque
+DB2110,Duracoat Opaque Pink,#89591A,137,89,26,false,opaque
+DB2111,Duracoat Opaque Pink,#DA8C71,218,140,113,false,opaque
+DB2112,Duracoat Opaque Pink,#E27D6E,226,125,110,false,opaque
+DB2113,Duracoat Opaque Pink,#DE8483,222,132,131,false,opaque
+DB2114,Duracoat Opaque Pink,#C7645C,199,100,92,false,opaque
+DB2115,Duracoat Opaque Pink,#D56B74,213,107,116,false,opaque
+DB2116,Duracoat Opaque Pink,#EA879D,234,135,157,false,opaque
+DB2117,Duracoat Opaque Pink,#E26C89,226,108,137,false,opaque
+DB2118,Duracoat Opaque Pink-Purple,#8E475D,142,71,93,false,opaque
+DB2119,Duracoat Opaque Brown-Red,#7A2721,122,39,33,false,opaque
+DB2120,Duracoat Opaque Brown-Red,#6B2A20,107,42,32,false,opaque
+DB2121,Duracoat Opaque Green,#65B514,101,181,20,false,opaque
+DB2122,Duracoat Opaque Blue-Green,#4FD4C3,79,212,195,false,opaque
+DB2123,Duracoat Opaque Green,#91946C,145,148,108,false,opaque
+DB2124,Duracoat Opaque Green,#8A7F51,138,127,81,false,opaque
+DB2125,Duracoat Opaque Blue-Green,#569885,86,152,133,false,opaque
+DB2126,Duracoat Opaque Green,#308C4C,48,140,76,false,opaque
+DB2127,Duracoat Opaque Green,#246B55,36,107,85,false,opaque
+DB2128,Duracoat Opaque Blue,#4493A9,68,147,169,false,opaque
+DB2129,Duracoat Opaque Blue-Gray,#687D88,104,125,136,false,opaque
+DB2130,Duracoat Opaque Blue,#1597A5,21,151,165,false,opaque
+DB2131,Duracoat Opaque Blue-Green,#3D6A68,61,106,104,false,opaque
+DB2132,Duracoat Opaque Blue,#456A87,69,106,135,false,opaque
+DB2133,Duracoat Opaque Blue,#0F768E,15,118,142,false,opaque
+DB2134,Duracoat Opaque Blue,#1567B1,21,103,177,false,opaque
+DB2135,Duracoat Opaque Blue,#225B83,34,91,131,false,opaque
+DB2136,Duracoat Opaque Purple,#9974A4,153,116,164,false,opaque
+DB2137,Duracoat Opaque Purple,#915E70,145,94,112,false,opaque
+DB2138,Duracoat Opaque Purple,#977ABE,151,122,190,false,opaque
+DB2139,Duracoat Opaque Purple,#745678,116,86,120,false,opaque
+DB2140,Duracoat Opaque Purple,#654771,101,71,113,false,opaque
+DB2141,Duracoat Opaque Brown-Green,#765F15,118,95,21,false,opaque
+DB2142,Duracoat Opaque Brown,#63442A,99,68,42,false,opaque
+DB2143,Duracoat Opaque Blue,#2A355B,42,53,91,false,opaque
+DB2144,Duracoat Opaque Blue,#212348,33,35,72,false,opaque
+DB2151,Duracoat Silver-Lined Transparent Orange-Pink,#9E6046,158,96,70,false,transparent
+DB2152,Duracoat Silver-Lined Transparent Red,#8D3A38,141,58,56,false,transparent
+DB2153,Duracoat Silver-Lined Transparent Pink-Purple,#A24A73,162,74,115,false,transparent
+DB2154,Duracoat Silver-Lined Transparent Pink-Purple,#B1464B,177,70,75,false,transparent
+DB2155,Duracoat Silver-Lined Transparent Silver,#946D59,148,109,89,false,transparent
+DB2156,Duracoat Silver-Lined Transparent Purple,#8B4D6A,139,77,106,false,transparent
+DB2157,Duracoat Silver-Lined Transparent Gold-Yellow,#9C6222,156,98,34,false,transparent
+DB2158,Duracoat Silver-Lined Transparent Orange,#A64526,166,69,38,false,transparent
+DB2159,Duracoat Silver-Lined Transparent Pink-Red,#A44536,164,69,54,false,transparent
+DB2160,Duracoat Silver-Lined Transparent Red,#6C3634,108,54,52,false,transparent
+DB2161,Duracoat Silver-Lined Transparent Pink-Purple,#7B3E43,123,62,67,false,transparent
+DB2162,Duracoat Silver-Lined Transparent Purple,#754156,117,65,86,false,transparent
+DB2163,Duracoat Silver-Lined Transparent Green,#6B6D50,107,109,80,false,transparent
+DB2164,Duracoat Silver-Lined Transparent Green,#7C6636,124,102,54,false,transparent
+DB2165,Duracoat Silver-Lined Transparent Blue-Green,#59695A,89,105,90,false,transparent
+DB2166,Duracoat Silver-Lined Transparent Blue-Green,#474D4D,71,77,77,false,transparent
+DB2167,Duracoat Silver-Lined Transparent Blue-Purple,#4B4A56,75,74,86,false,transparent
+DB2168,Duracoat Silver-Lined Transparent Purple,#674E77,103,78,119,false,transparent
+DB2169,Duracoat Silver-Lined Transparent Purple,#694A5B,105,74,91,false,transparent
+DB2170,Duracoat Silver-Lined Transparent Brown-Purple,#573F40,87,63,64,false,transparent
+DB2171,Duracoat Silver-Lined Alabaster Yellow,#B07E4C,176,126,76,false,alabaster
+DB2172,Duracoat Silver-Lined Alabaster Orange-Pink,#A76850,167,104,80,false,alabaster
+DB2173,Duracoat Silver-Lined Alabaster Red,#913A39,145,58,57,false,alabaster
+DB2174,Duracoat Silver-Lined Alabaster Pink-Purple,#A8527E,168,82,126,false,alabaster
+DB2175,Duracoat Silver-Lined Alabaster Pink,#B34C5B,179,76,91,false,alabaster
+DB2176,Duracoat Silver-Lined Alabaster Blue,#506F88,80,111,136,false,alabaster
+DB2177,Duracoat Silver-Lined Alabaster Beige,#997160,153,113,96,false,alabaster
+DB2178,Duracoat Silver-Lined Alabaster Orange-Red,#9E5045,158,80,69,false,alabaster
+DB2179,Duracoat Silver-Lined Alabaster Brown-Red,#754644,117,70,68,false,alabaster
+DB2180,Duracoat Silver-Lined Alabaster Purple,#8F5574,143,85,116,false,alabaster
+DB2181,Duracoat Silver-Lined Alabaster Purple,#845064,132,80,100,false,alabaster
+DB2182,Duracoat Silver-Lined Alabaster Purple,#705269,112,82,105,false,alabaster
+DB2183,Duracoat Silver-Lined Alabaster Brown,#684B4B,104,75,75,false,alabaster
+DB2184,Duracoat Silver-Lined Alabaster Brown-Gray,#6A5D55,106,93,85,false,alabaster
+DB2185,Duracoat Silver-Lined Alabaster Brown-Gray,#5F5A56,95,90,86,false,alabaster
+DB2186,Duracoat Silver-Lined Alabaster Yellow,#B9985F,185,152,95,false,alabaster
+DB2187,Duracoat Silver-Lined Alabaster Yellow,#B09E3A,176,158,58,false,alabaster
+DB2188,Duracoat Silver-Lined Alabaster Green,#509877,80,152,119,false,alabaster
+DB2189,Duracoat Silver-Lined Alabaster Pink-Purple,#AE6873,174,104,115,false,alabaster
+DB2190,Duracoat Silver-Lined Alabaster Green,#5F6B60,95,107,96,false,alabaster
+DB2191,Duracoat Silver-Lined Transparent Blue,#252A40,37,42,64,false,transparent
+DB2192,Duracoat Silver-Lined Transparent Blue,#24262E,36,38,46,false,transparent
+DB2201,Transparent Gray-Iridescent Special Coating,#574F47,87,79,71,false,transparent
+DB2203,Matte Transparent Gray-Iridescent Special Coating,#666464,102,100,100,false,transparent
+DB2204,Matte Opaque Gray-White Special Coating,#84848A,132,132,138,false,opaque
+DB2205,Transparent Gray-Iridescent Special Coating,#46433F,70,67,63,false,transparent
+DB2206,Transparent Gray-Iridescent Special Coating,#414048,65,64,72,false,transparent
+DB2207,Transparent Gray-Iridescent Special Coating,#4C3C39,76,60,57,false,transparent
+DB2261,Opaque Brown-Yellow,#292825,41,40,37,false,opaque
+DB2262,Opaque Beige-White,#927D5C,146,125,92,false,opaque
+DB2263,Opaque Gray-Red,#432A26,67,42,38,false,opaque
+DB2264,Opaque Blue-Brown-Gray,#586D5F,88,109,95,false,opaque
+DB2265,Opaque Green,#79763D,121,118,61,false,opaque
+DB2267,Opaque Brown,#5E4D39,94,77,57,false,opaque
+DB2271,Glazed Opaque Purple AB,#8D6C63,141,108,99,false,opaque
+DB2272,Glazed Opaque Green-Yellow AB,#8D7232,141,114,50,false,opaque
+DB2273,Glazed Opaque Orange AB,#956530,149,101,48,false,opaque
+DB2274,Glazed Opaque Orange AB,#AB5D30,171,93,48,false,opaque
+DB2275,Glazed Opaque Red AB,#863B3A,134,59,58,false,opaque
+DB2281,Matte Glazed Opaque Gray,#878F91,135,143,145,false,opaque
+DB2282,Matte Glazed Opaque Gray,#858072,133,128,114,false,opaque
+DB2283,Matte Glazed Opaque Yellow,#BFAE29,191,174,41,false,opaque
+DB2284,Matte Glazed Opaque Yellow,#CDA12D,205,161,45,false,opaque
+DB2285,Matte Glazed Opaque Orange,#D7922F,215,146,47,false,opaque
+DB2286,Matte Glazed Opaque Brown,#895720,137,87,32,false,opaque
+DB2287,Matte Glazed Opaque Brown,#9A571C,154,87,28,false,opaque
+DB2288,Matte Glazed Opaque Red,#8D3926,141,57,38,false,opaque
+DB2290,Matte Glazed Opaque Green,#9E9551,158,149,81,false,opaque
+DB2291,Matte Glazed Opaque Green,#475139,71,81,57,false,opaque
+DB2292,Matte Glazed Opaque Purple,#5F5B71,95,91,113,false,opaque
+DB2293,Matte Glazed Opaque Purple,#5B4F6F,91,79,111,false,opaque
+DB2294,Matte Glazed Opaque Purple,#8B626C,139,98,108,false,opaque
+DB2295,Matte Glazed Opaque Purple,#6F4E5E,111,78,94,false,opaque
+DB2301,Matte Glazed Opaque Beige AB,#AA9475,170,148,117,false,opaque
+DB2302,Matte Glazed Opaque Yellow AB,#C39542,195,149,66,false,opaque
+DB2303,Matte Glazed Opaque Iridescent AB,#A17A46,161,122,70,false,opaque
+DB2305,Matte Glazed Opaque Purple AB,#927672,146,118,114,false,opaque
+DB2306,Matte Glazed Opaque Red AB,#984E4D,152,78,77,false,opaque
+DB2308,Matte Glazed Opaque Purple AB,#6D4450,109,68,80,false,opaque
+DB2309,Matte Glazed Opaque Green AB,#808649,128,134,73,false,opaque
+DB2310,Matte Glazed Opaque Green AB,#717E65,113,126,101,false,opaque
+DB2311,Matte Glazed Opaque Green AB,#516D5C,81,109,92,false,opaque
+DB2312,Matte Glazed Opaque Green AB,#516654,81,102,84,false,opaque
+DB2313,Matte Glazed Opaque Green AB,#6F8A84,111,138,132,false,opaque
+DB2315,Matte Glazed Opaque Blue AB,#507888,80,120,136,false,opaque
+DB2316,Matte Glazed Opaque Blue AB,#4F6576,79,101,118,false,opaque
+DB2317,Matte Glazed Opaque Blue-Purple AB,#4F5D81,79,93,129,false,opaque
+DB2318,Matte Glazed Opaque Blue-Purple AB,#5D6D96,93,109,150,false,opaque
+DB2319,Matte Glazed Opaque Blue-Purple AB,#434767,67,71,103,false,opaque
+DB2320,Matte Glazed Opaque Gray AB,#7F8A90,127,138,144,false,opaque
+DB2321,Matte Glazed Opaque Purple AB,#796569,121,101,105,false,opaque
+DB2322,Matte Glazed Opaque Purple AB,#6B5E71,107,94,113,false,opaque
+DB2351,Duracoat Opaque Beige,#E8B985,232,185,133,false,opaque
+DB2352,Duracoat Opaque Brown,#82431D,130,67,29,false,opaque
+DB2353,Duracoat Opaque Purple,#7C3E54,124,62,84,false,opaque
+DB2354,Duracoat Opaque Brown-Red,#632621,99,38,33,false,opaque
+DB2355,Duracoat Opaque Purple,#573844,87,56,68,false,opaque
+DB2356,Duracoat Opaque Blue-Green,#99AFA4,153,175,164,false,opaque
+DB2357,Duracoat Opaque Green,#4C4B25,76,75,37,false,opaque
+DB2358,Duracoat Opaque Green,#384340,56,67,64,false,opaque
+DB2359,Duracoat Opaque Purple,#55428B,85,66,139,false,opaque
+DB2360,Duracoat Opaque Purple,#4F3C4F,79,60,79,false,opaque
+DB2361,Duracoat Opaque Pink-Purple,#B29197,178,145,151,false,opaque
+DB2362,Duracoat Opaque Green,#A9997D,169,153,125,false,opaque
+DB2363,Duracoat Opaque Green,#928268,146,130,104,false,opaque
+DB2364,Duracoat Opaque Beige,#9E8761,158,135,97,false,opaque
+DB2365,Duracoat Opaque Green,#50463C,80,70,60,false,opaque
+DB2366,Duracoat Opaque Gray,#918C8B,145,140,139,false,opaque
+DB2367,Duracoat Opaque Gray,#625A58,98,90,88,false,opaque
+DB2368,Duracoat Opaque Black-Gray,#403B38,64,59,56,false,opaque
+DB2371,Color-Lined Transparent Yellow Luster,#EEC38A,238,195,138,false,transparent
+DB2372,Color-Lined Transparent Yellow Luster,#A37525,163,117,37,false,transparent
+DB2373,Color-Lined Transparent Brown Luster,#94715B,148,113,91,false,transparent
+DB2374,Color-Lined Transparent Red Luster,#9C1C24,156,28,36,false,transparent
+DB2375,Color-Lined Transparent Red Luster,#572C38,87,44,56,false,transparent
+DB2376,Color-Lined Transparent Green Luster,#678F40,103,143,64,false,transparent
+DB2377,Color-Lined Transparent Green-Yellow Luster,#655F31,101,95,49,false,transparent
+DB2378,Color-Lined Transparent Gray Luster,#717461,113,116,97,false,transparent
+DB2379,Color-Lined Transparent Gray Luster,#59635E,89,99,94,false,transparent
+DB2380,Color-Lined Transparent Blue-Green Luster,#11636B,17,99,107,false,transparent
+DB2381,Color-Lined Transparent Green Luster,#2D5A51,45,90,81,false,transparent
+DB2382,Color-Lined Transparent Blue Luster,#1F7992,31,121,146,false,transparent
+DB2383,Color-Lined Transparent Blue Luster,#496C83,73,108,131,false,transparent
+DB2384,Color-Lined Transparent Blue Luster,#285065,40,80,101,false,transparent
+DB2385,Color-Lined Transparent Blue Luster,#114B6A,17,75,106,false,transparent
+DB2386,Color-Lined Transparent Purple Luster,#2F365B,47,54,91,false,transparent
+DB2387,Color-Lined Transparent Purple Luster,#40475F,64,71,95,false,transparent
+DB2388,Color-Lined Transparent Purple Luster,#5364B3,83,100,179,false,transparent
+DB2389,Color-Lined Transparent Purple Luster,#6C2658,108,38,88,false,transparent
+DB2390,Color-Lined Transparent Purple Luster,#523347,82,51,71,false,transparent
+DB2391,Color-Lined Transparent Gray Luster,#A5A19E,165,161,158,false,transparent
+DB2392,Color-Lined Transparent Gray Luster,#80838F,128,131,143,false,transparent
+DB2393,Color-Lined Transparent Gray Luster,#79787A,121,120,122,false,transparent
+DB2394,Color-Lined Transparent Black-Gray Luster,#353739,53,55,57,false,transparent
+DB2395,Color-Lined Transparent Beige Luster,#76645F,118,100,95,false,transparent
+DB2396,Color-Lined Transparent Brown Luster,#735F4A,115,95,74,false,transparent
+DB2401,Matte Opaque White Glazed Luster,#CECAB2,206,202,178,false,opaque
+DB2402,Matte Opaque White Glazed Luster,#CDCAB6,205,202,182,false,opaque
+DB2403,Matte Opaque Brown Glazed Luster,#4E2E23,78,46,35,false,opaque
+DB2404,Matte Opaque Green Glazed Luster,#4D5132,77,81,50,false,opaque
+DB2405,Matte Opaque Purple Glazed Luster,#49393C,73,57,60,false,opaque
+DB2406,Matte Opaque Gray Glazed Luster,#3C3C3C,60,60,60,false,opaque
+DB2407,Matte Opaque Green Glazed Luster,#36494B,54,73,75,false,opaque
+DB2408,Matte Opaque Blue Glazed Luster,#3D3C53,61,60,83,false,opaque
+DB2409,Matte Opaque Gray Glazed Luster,#4D4C4D,77,76,77,false,opaque
+DB2501,Duracoat Transparent Gold,#B29B68,178,155,104,false,transparent
+DB2502,Duracoat Transparent Gold-Yellow,#AA995F,170,153,95,false,transparent
+DB2503,Duracoat Transparent Brown-Pink,#A57E68,165,126,104,false,transparent
+DB2504,Duracoat Transparent Brown,#9B7D59,155,125,89,false,transparent
+DB2505,Duracoat Transparent Green,#3A8553,58,133,83,false,transparent
+DB2506,Duracoat Transparent Green,#397657,57,118,87,false,transparent
+DB2507,Duracoat Transparent Green,#42493C,66,73,60,false,transparent
+DB2508,Duracoat Transparent Purple,#744661,116,70,97,false,transparent
+DB2509,Duracoat Transparent Purple,#644B73,100,75,115,false,transparent
+DB2510,Duracoat Transparent Purple,#553969,85,57,105,false,transparent
+DB2511,Duracoat Transparent Blue,#393D75,57,61,117,false,transparent
+DB2512,Duracoat Transparent Green,#5F6247,95,98,71,false,transparent
+DB2513,Duracoat Transparent Blue,#3B7B82,59,123,130,false,transparent
+DB2514,Duracoat Transparent Blue,#215272,33,82,114,false,transparent
+DB2515,Duracoat Transparent Blue,#2F5A5C,47,90,92,false,transparent
+DB2516,Duracoat Transparent Blue,#34556F,52,85,111,false,transparent
+DB2517,Duracoat Transparent Blue-Purple,#475078,71,80,120,false,transparent
+DB2518,Duracoat Transparent Gold-Pink,#A47657,164,118,87,false,transparent
+DB2521,Gold-Lined Transparent Gold,#CD9D4F,205,157,79,false,transparent
+DB2522,Gold-Lined Transparent Green,#81875A,129,135,90,false,transparent
+DB2523,Gold-Lined Transparent Green,#4F6052,79,96,82,false,transparent
+DB2524,Gold-Lined Transparent Gold,#997248,153,114,72,false,transparent
+DB2525,Gold-Lined Transparent Gold,#AA9045,170,144,69,false,transparent

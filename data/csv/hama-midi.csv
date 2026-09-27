@@ -1,0 +1,93 @@
+code,name,hex,r,g,b,discontinued
+H01,White,#E5ECF1,229,236,241,false
+H02,Cream,#E4E4C5,228,228,197,false
+H03,Yellow,#E9C704,233,199,4,false
+H04,Orange,#D14803,209,72,3,false
+H05,Red,#B4060E,180,6,14,false
+H06,Pink,#EA8AA5,234,138,165,false
+H07,Purple,#712297,113,34,151,false
+H08,Blue,#0239A3,2,57,163,false
+H09,Light Blue,#025BC3,2,91,195,false
+H10,Green,#027643,2,118,67,false
+H11,Light Green,#19CDA7,25,205,167,false
+H12,Brown,#3E271A,62,39,26,false
+H13,Transparent Red,#C02435,192,36,53,false
+H14,Transparent Yellow,#E4AA32,228,170,50,false
+H16,Transparent Green,#37B876,55,184,118,false
+H17,Grey,#838F98,131,143,152,false
+H18,Black,#141315,20,19,21,false
+H19,Clear,#D8D2CE,216,210,206,false
+H20,Reddish Brown,#8D2A0F,141,42,15,false
+H21,Light Brown,#BE6C21,190,108,33,false
+H22,Dark Red,#91020A,145,2,10,false
+H24,Translucent Purple,#683E9A,104,62,154,false
+H25,Translucent Brown,#87593D,135,89,61,false
+H26,Matt Rose,#E8A498,232,164,152,false
+H27,Beige,#DCB18E,220,177,142,false
+H28,Dark Green,#1E2C1C,30,44,28,false
+H29,Claret,#BF0142,191,1,66,false
+H30,Burgundy,#4E0C1B,78,12,27,false
+H31,Turquoise,#489AB9,72,154,185,false
+H32,Neon Fuchsia,#FF208D,255,32,141,false
+H33,Cerise,#FF3956,255,57,86,false
+H34,Neon Yellow,#E5EF13,229,239,19,false
+H35,Neon Red,#FF2833,255,40,51,false
+H36,Neon Blue,#2353B0,35,83,176,false
+H37,Neon Green,#06B73C,6,183,60,false
+H38,Neon Orange,#FD8600,253,134,0,false
+H39,Fluorescent Yellow,#F1F21C,241,242,28,false
+H40,Fluorescent Orange,#FE630B,254,99,11,false
+H41,Fluorescent Blue,#2659B2,38,89,178,false
+H42,Fluorescent Green,#0CBD51,12,189,81,false
+H43,Pastel Yellow,#E7E45A,231,228,90,false
+H44,Pastel Red,#F96160,249,97,96,false
+H45,Pastel Purple,#8E69CD,142,105,205,false
+H46,Pastel Blue,#51AEE4,81,174,228,false
+H47,Pastel Green,#80DF96,128,223,150,false
+H48,Pastel Pink,#D67AD1,214,122,209,false
+H49,Azure,#0FACD1,15,172,209,false
+H60,Teddybear Brown,#F0981E,240,152,30,false
+H70,Light Grey,#A5B3C0,165,179,192,false
+H71,Dark Grey,#445059,68,80,89,false
+H75,Tan,#B78C6D,183,140,109,false
+H76,Nougat,#8A5937,138,89,55,false
+H77,Cloudy White,#CED1C8,206,209,200,false
+H78,Light Peach,#F7C1AA,247,193,170,false
+H79,Apricot,#F87633,248,118,51,false
+H82,Plum,#91175A,145,23,90,false
+H83,Petrol Blue,#037A9F,3,122,159,false
+H84,Olive Green,#687836,104,120,54,false
+H95,Pastel Rose,#DD9BA3,221,155,163,false
+H96,Pastel Lilac,#B491AD,180,145,173,false
+H97,Pastel Ice Blue,#8AAFC2,138,175,194,false
+H98,Pastel Mint,#94CCA4,148,204,164,false
+H15,Transparent Blue,#487ED5,72,126,213,false
+H55,Green (Glow in the Dark),#FAF8ED,250,248,237,false
+H56,Red (Glow in the Dark),#EDBF9F,237,191,159,false
+H57,Blue (Glow in the Dark),#C4D0E3,196,208,227,false
+H61,Gold,#D99350,217,147,80,false
+H62,Silver,#48474A,72,71,74,false
+H63,Bronze,#42312F,66,49,47,false
+H64,Pearl,#EFEBE4,239,235,228,false
+H72,Translucent Pink,#F097B0,240,151,176,false
+H73,Translucent Aqua,#59AEF5,89,174,245,false
+H74,Translucent Lilac,#5B55BD,91,85,189,false
+H101,Eucalyptus,#A9C39B,169,195,155,false
+H102,Forest Green,#356B2D,53,107,45,false
+H103,Light Yellow,#FFE660,255,230,96,false
+H104,Lime,#BCD122,188,209,34,false
+H105,Light Apricot,#FFAC78,255,172,120,false
+H106,Light Lavender,#CCC5ED,204,197,237,false
+H107,Lavender,#6A87C1,106,135,193,false
+H108,Aubergine,#2A2536,42,37,54,false
+H109,Cloudy Grey,#8A847F,138,132,127,false
+H110,Matcha,#838956,131,137,86,false
+H111,Dark Blush,#835854,131,88,84,false
+H112,Blush,#AD8A82,173,138,130,false
+H113,Aqua,#5F887B,95,136,123,false
+H114,Cherry Red,#9A2C31,154,44,49,false
+H115,Bright Green,#6E975F,110,151,95,false
+H116,Midnight Blue,#222838,34,40,56,false
+H117,Taupe Grey,#777169,119,113,105,false
+H118,Maroon Red,#612932,97,41,50,false
+H119,Sky Blue,#4167B4,65,103,180,false

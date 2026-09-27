@@ -1,0 +1,336 @@
+{
+  "name": "craft-color-codes",
+  "homepage": "https://makebead.com/",
+  "total": 3689,
+  "palettes": [
+    {
+      "id": "perler-midi",
+      "brand": "Perler",
+      "product": "Perler Beads (Midi, 5 mm)",
+      "craft": "fuse beads",
+      "unit": "bead",
+      "count": 103,
+      "status": "community",
+      "notes": "Values sampled from physical beads by the beadcolors contributors. Perler does not publish RGB values. `sku` is the retail item number (e.g. 80-19001).",
+      "sources": [
+        {
+          "name": "maxcleme/beadcolors (MIT)",
+          "url": "https://github.com/maxcleme/beadcolors"
+        }
+      ],
+      "license": "MIT (maxcleme/beadcolors, Copyright (c) 2020 maxcleme)",
+      "makebead": "https://makebead.com/",
+      "json": "data/json/perler-midi.json",
+      "csv": "data/csv/perler-midi.csv"
+    },
+    {
+      "id": "hama-midi",
+      "brand": "Hama",
+      "product": "Hama Beads (Midi, 5 mm)",
+      "craft": "fuse beads",
+      "unit": "bead",
+      "count": 92,
+      "status": "community",
+      "notes": "Values sampled from physical beads by the beadcolors contributors. Hama does not publish RGB values.",
+      "sources": [
+        {
+          "name": "maxcleme/beadcolors (MIT)",
+          "url": "https://github.com/maxcleme/beadcolors"
+        }
+      ],
+      "license": "MIT (maxcleme/beadcolors, Copyright (c) 2020 maxcleme)",
+      "makebead": "https://makebead.com/hama-bead-pattern-maker/",
+      "json": "data/json/hama-midi.json",
+      "csv": "data/csv/hama-midi.csv"
+    },
+    {
+      "id": "artkal-s",
+      "brand": "Artkal",
+      "product": "Artkal S series (Midi, 5 mm)",
+      "craft": "fuse beads",
+      "unit": "bead",
+      "count": 199,
+      "status": "community",
+      "notes": "Values sampled from physical beads by the beadcolors contributors. Artkal does not publish RGB values.",
+      "sources": [
+        {
+          "name": "maxcleme/beadcolors (MIT)",
+          "url": "https://github.com/maxcleme/beadcolors"
+        }
+      ],
+      "license": "MIT (maxcleme/beadcolors, Copyright (c) 2020 maxcleme)",
+      "makebead": "https://makebead.com/artkal-bead-pattern-maker/",
+      "json": "data/json/artkal-s.json",
+      "csv": "data/csv/artkal-s.csv"
+    },
+    {
+      "id": "nabbi",
+      "brand": "Nabbi",
+      "product": "Nabbi BioBeads (Midi)",
+      "craft": "fuse beads",
+      "unit": "bead",
+      "count": 30,
+      "status": "community",
+      "notes": "Values sampled from physical beads by the beadcolors contributors.",
+      "sources": [
+        {
+          "name": "maxcleme/beadcolors (MIT)",
+          "url": "https://github.com/maxcleme/beadcolors"
+        }
+      ],
+      "license": "MIT (maxcleme/beadcolors, Copyright (c) 2020 maxcleme)",
+      "makebead": "https://makebead.com/fuse-bead-pattern-maker/",
+      "json": "data/json/nabbi.json",
+      "csv": "data/csv/nabbi.csv"
+    },
+    {
+      "id": "mard-185",
+      "brand": "MARD",
+      "product": "MARD Beads (Midi, 5 mm) — 185 colors",
+      "craft": "fuse beads",
+      "unit": "bead",
+      "count": 185,
+      "status": "community",
+      "notes": "The 185-color MARD standard used across Chinese pattern apps (A–H series). MARD bottles carry a code and no name; the English names here are descriptive names written by MakeBead.",
+      "sources": [
+        {
+          "name": "peiseka.com color chart",
+          "url": "https://peiseka.com/"
+        },
+        {
+          "name": "pixel-beads.com MARD chart",
+          "url": "https://pixel-beads.com/perler-bead-color-chart"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/mard-bead-pattern-maker/",
+      "json": "data/json/mard-185.json",
+      "csv": "data/csv/mard-185.csv"
+    },
+    {
+      "id": "mard-221",
+      "brand": "MARD",
+      "product": "MARD Beads (Midi, 5 mm) — 221 colors",
+      "craft": "fuse beads",
+      "unit": "bead",
+      "count": 221,
+      "status": "community",
+      "notes": "The 221-color set (A–H and M series). Retail boxes of 24–216 colors are listed in data/sets/mard-kits.json. English names are descriptive names written by MakeBead.",
+      "sources": [
+        {
+          "name": "peiseka.com color chart",
+          "url": "https://peiseka.com/"
+        },
+        {
+          "name": "pixel-beads.com MARD chart",
+          "url": "https://pixel-beads.com/perler-bead-color-chart"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/mard-bead-pattern-maker/",
+      "json": "data/json/mard-221.json",
+      "csv": "data/csv/mard-221.csv"
+    },
+    {
+      "id": "mard-291",
+      "brand": "MARD",
+      "product": "MARD Beads (Midi, 5 mm) — 291 colors",
+      "craft": "fuse beads",
+      "unit": "bead",
+      "count": 291,
+      "status": "community",
+      "notes": "The 221 plus the 70 specialty colors (P, Q, R, T, Y, ZG series) that the 240 and 264 boxes reach into. The 221 base values are the mard-221 values. For the 70 specialty colors no maker chart with numbers exists, so three data lineages were compared: where the first two agree their value is used, otherwise whichever of the two the third lineage sits closer to (7 codes: P2, P14, P19, Q2, Q5, R6, T1).",
+      "sources": [
+        {
+          "name": "pixel-beads.com MARD chart (2026 revised)",
+          "url": "https://pixel-beads.com/perler-bead-color-chart"
+        },
+        {
+          "name": "Zippland/perler-beads colorSystemMapping.json",
+          "url": "https://github.com/Zippland/perler-beads"
+        },
+        {
+          "name": "HansBug/pindou-color-data (mard-291-github, from abearxiong/get-colors-from-beans)",
+          "url": "https://github.com/HansBug/pindou-color-data"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/mard-bead-pattern-maker/",
+      "json": "data/json/mard-291.json",
+      "csv": "data/csv/mard-291.csv"
+    },
+    {
+      "id": "miyuki-delica",
+      "brand": "Miyuki",
+      "product": "Miyuki Delica 11/0 (DB)",
+      "craft": "seed beads",
+      "unit": "bead",
+      "count": 1288,
+      "discontinued": 76,
+      "status": "measured",
+      "notes": "Every Delica 11/0 code in Miyuki’s directory, 76 of them discontinued. The color is the plain sRGB mean of Miyuki’s official 400×400 product photo of each code; the photos themselves are not redistributed. Compared with two independent datasets (DianeGagne/beads-website, rowguide) the color family agrees on every code and the shade differs by 6–12 ΔE00 (median): right bead, approximate shade. Metallic, galvanized, AB and silver-lined beads cannot be one flat color. Miyuki publishes no color names; names are built from Miyuki’s own terms. `glass` is the glass type.",
+      "sources": [
+        {
+          "name": "MIYUKI bead directory (codes, glass type, finish, discontinued list)",
+          "url": "https://directory.miyuki-beads.co.jp/"
+        },
+        {
+          "name": "MIYUKI official product photos (color = mean of every pixel, sRGB)",
+          "url": "https://directory.miyuki-beads.co.jp/download/"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/bead-loom-pattern-maker/",
+      "json": "data/json/miyuki-delica.json",
+      "csv": "data/csv/miyuki-delica.csv"
+    },
+    {
+      "id": "dmc-floss",
+      "brand": "DMC",
+      "product": "DMC Six-Strand Embroidery Floss (Mouliné Spécial, art. 117)",
+      "craft": "cross stitch & embroidery",
+      "unit": "skein",
+      "count": 489,
+      "status": "cross-checked",
+      "notes": "All 489 colors. Hex is rebuilt from the integer R/G/B columns because the hex strings in the common upstream were damaged by a spreadsheet (221 stored as 8.83E+45, lost leading zeros). Where a source’s displayed hex disagreed with its own RGB columns (11 rows), an independent third source sided with the RGB columns 8 times of 9. DMC 309 (Rose Dark) is #C12041: both older sources carry a grey-brown #564A4A inherited from a shared ancestor. Blanc and B5200 are distinct (#FCFBF8 / #FFFFFF).",
+      "sources": [
+        {
+          "name": "floss.maxxmint.com (R/G/B columns)",
+          "url": "https://floss.maxxmint.com/"
+        },
+        {
+          "name": "adrianj/CrossStitchCreator (the set behind the sharlagelfand/dmc R package)",
+          "url": "https://github.com/adrianj/CrossStitchCreator"
+        },
+        {
+          "name": "xstitchify.com (arbiter)",
+          "url": "https://xstitchify.com/"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/dmc-color-chart/",
+      "json": "data/json/dmc-floss.json",
+      "csv": "data/csv/dmc-floss.csv"
+    },
+    {
+      "id": "dmc-diamond",
+      "brand": "DMC",
+      "product": "DMC-coded diamond painting drills",
+      "craft": "diamond painting",
+      "unit": "drill",
+      "count": 154,
+      "status": "cross-checked",
+      "notes": "Diamond painting kits number their drills with DMC floss codes. Colors are the dmc-floss values for the same codes. The 154 codes are the set MakeBead started with, not a list of what is sold as drills; it has not been extended because which codes exist as drills could not be verified. For the full DMC range use dmc-floss.",
+      "sources": [
+        {
+          "name": "dmc-floss in this repository",
+          "url": "./dmc-floss.json"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/diamond-painting-pattern-maker/",
+      "json": "data/json/dmc-diamond.json",
+      "csv": "data/csv/dmc-diamond.csv"
+    },
+    {
+      "id": "lego",
+      "brand": "LEGO",
+      "product": "LEGO brick colors (mosaic palette)",
+      "craft": "brick mosaics",
+      "unit": "stud",
+      "count": 40,
+      "status": "approximate",
+      "notes": "Codes L01–L40 are this palette’s own index, not LEGO color IDs. The 21 colors whose names match Rebrickable’s list are exact (two were corrected on 2026-08-18: Lavender, Light Nougat); the other 19 have not been checked.",
+      "sources": [
+        {
+          "name": "Rebrickable colors.csv (LEGO’s own RGB values)",
+          "url": "https://rebrickable.com/downloads/"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/lego-mosaic-maker/",
+      "json": "data/json/lego.json",
+      "csv": "data/csv/lego.csv"
+    },
+    {
+      "id": "minecraft-blocks",
+      "brand": "Minecraft",
+      "product": "Minecraft blocks for pixel art",
+      "craft": "Minecraft pixel art",
+      "unit": "block",
+      "count": 53,
+      "status": "approximate",
+      "notes": "A representative color per block, with its namespaced block id and `group`. `survival: false` marks ore and mineral blocks that are impractical to gather in survival. Colors have not yet been checked against the game textures.",
+      "sources": [
+        {
+          "name": "MakeBead Minecraft pixel-art generator",
+          "url": "https://makebead.com/minecraft-pixel-art-generator/"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/minecraft-pixel-art-generator/",
+      "json": "data/json/minecraft-blocks.json",
+      "csv": "data/csv/minecraft-blocks.csv"
+    },
+    {
+      "id": "minecraft-map",
+      "brand": "Minecraft",
+      "product": "Minecraft map colors (Java Edition)",
+      "craft": "Minecraft map art",
+      "unit": "block",
+      "count": 244,
+      "status": "official",
+      "notes": "Every color a map can show: 61 base colors × 4 shades. `code` is the byte stored in map_N.dat (base × 4 + shade). Shade 0 = the block is lower than its north neighbour (×180/255), 1 = level (×220/255), 2 = higher (×255/255), 3 = water depth only (×135/255). `buildable` marks the colors a staircase build can produce with the suggested `block`. Base colors checked 62/62 against the game data.",
+      "sources": [
+        {
+          "name": "Minecraft Wiki — Map item format",
+          "url": "https://minecraft.wiki/w/Map_item_format"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/minecraft-map-art-generator/",
+      "json": "data/json/minecraft-map.json",
+      "csv": "data/csv/minecraft-map.csv"
+    },
+    {
+      "id": "red-heart-super-saver",
+      "brand": "Red Heart",
+      "product": "Red Heart Super Saver (worsted)",
+      "craft": "crochet & knitting",
+      "unit": "skein",
+      "count": 44,
+      "status": "approximate",
+      "notes": "44 colors. Every code and name was checked against the current catalogue (discontinued shades removed); the colors are approximations and have not been calibrated. Corrections with a photo are very welcome.",
+      "sources": [
+        {
+          "name": "Yarnspirations Super Saver catalogue (codes and names, 2026-07-06)",
+          "url": "https://www.yarnspirations.com/products/red-heart-super-saver-yarn"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/crochet-pattern-maker/",
+      "json": "data/json/red-heart-super-saver.json",
+      "csv": "data/csv/red-heart-super-saver.csv"
+    },
+    {
+      "id": "pixel-art-256",
+      "brand": "Generic",
+      "product": "Pixel art 256",
+      "craft": "digital pixel art",
+      "unit": "pixel",
+      "count": 256,
+      "status": "generated",
+      "notes": "A general-purpose 256-color palette. The code is the hex value.",
+      "sources": [
+        {
+          "name": "MakeBead pixel-art converter",
+          "url": "https://makebead.com/pixel-art-converter/"
+        }
+      ],
+      "license": "CC-BY-4.0",
+      "makebead": "https://makebead.com/pixel-art-converter/",
+      "json": "data/json/pixel-art-256.json",
+      "csv": "data/csv/pixel-art-256.csv"
+    }
+  ]
+}

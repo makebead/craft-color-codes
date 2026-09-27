@@ -1,0 +1,200 @@
+code,name,hex,r,g,b,discontinued
+S01,White,#EAEEF3,234,238,243,false
+S02,Burning Sand,#EE927C,238,146,124,false
+S03,Tangerine,#FFA630,255,166,48,false
+S04,Orange,#EB6027,235,96,39,false
+S05,Tall Poppy,#CB3531,203,53,49,false
+S06,Raspberry Pink,#EF67B2,239,103,178,false
+S07,Gray,#959698,149,150,152,false
+S08,Emerald,#1FC467,31,196,103,false
+S09,Dark Green,#00685E,0,104,94,false
+S10,Baby Blue,#2EABD8,46,171,216,false
+S11,Dark Blue,#004FA4,0,79,164,false
+S12,Pastel Lavender,#9165B2,145,101,178,false
+S13,Black,#292A2B,41,42,43,false
+S14,Sandstorm,#E1C835,225,200,53,false
+S15,Redwood,#9A4541,154,69,65,false
+S16,Brown,#65463D,101,70,61,false
+S17,Light Brown,#895D49,137,93,73,false
+S18,Sand,#DCA384,220,163,132,false
+S19,Bubble Gun,#F2BFB8,242,191,184,false
+S20,Green,#009053,0,144,83,false
+S21,Pastel Green,#8BB23A,139,178,58,false
+S22,Purple,#48337E,72,51,126,false
+S23,Royal Purple,#644FA4,100,79,164,false
+S24,True Blue,#0078BF,0,120,191,false
+S25,Hot Pink,#DC519A,220,81,154,false
+S26,Magenta,#DA4383,218,67,131,false
+S27,Yellow,#EAC125,234,193,37,false
+S28,Lily Pink,#DDA1CC,221,161,204,false
+S29,Pastel Yellow,#E1D367,225,211,103,false
+S30,Shadow Green,#9EC9CD,158,201,205,false
+S31,Sea Mist,#B2D7CE,178,215,206,false
+S32,Beeswax,#EED39E,238,211,158,false
+S33,Maverick,#C0B7D7,192,183,215,false
+S34,Red,#B61927,182,25,39,false
+S35,Mona Lisa,#E1CCD2,225,204,210,false
+S36,Old Pink,#CE6D83,206,109,131,false
+S37,Blue-Green,#60BFCB,96,191,203,false
+S38,Burgundy,#A3134A,163,19,74,false
+S39,Yellow Orange,#E68739,230,135,57,false
+S40,Carnation Pink,#E182B0,225,130,176,false
+S41,Copper,#9D5B2E,157,91,46,false
+S42,Silver,#676B73,103,107,115,false
+S43,Dark Gray,#70757B,112,117,123,false
+S44,Sky Blue,#A7CDDE,167,205,222,false
+S45,Medium Turquoise,#00A5A1,0,165,161,false
+S46,Bright Green,#8EC324,142,195,36,false
+S47,Marigold,#B27938,178,121,56,false
+S48,Corn,#ECC03D,236,192,61,false
+S49,Mulberry Wood,#921E5D,146,30,93,false
+S50,Mandys Pink,#E2A488,226,164,136,false
+S51,Spring Sun,#DFDABD,223,218,189,false
+S52,Picasso,#EADE7F,234,222,127,false
+S53,Turquoise,#55A4D9,85,164,217,false
+S54,Light Blue,#0084CE,0,132,206,false
+S55,Pistachio,#97CF87,151,207,135,false
+S56,Bright Carrot,#F96F40,249,111,64,false
+S57,Buccaneer,#B35540,179,85,64,false
+S58,Paprika,#B11836,177,24,54,false
+S59,Butterfly Bush,#4F3989,79,57,137,false
+S60,Lavender,#8A7EC2,138,126,194,false
+S61,Key Lomen Pie,#CDC03F,205,192,63,false
+S62,Green Tea,#00765F,0,118,95,false
+S63,Metallic Gold,#696046,105,96,70,false
+S64,Black Rock,#36384D,54,56,77,false
+S65,Canary,#E2E65D,226,230,93,false
+S66,Blaze Orange,#E5533C,229,83,60,false
+S67,Vanilla,#E9C1A6,233,193,166,false
+S68,Tan,#CC9B74,204,155,116,false
+S69,Mine Shaft,#383E44,56,62,68,false
+S70,Drark Algae,#ADAD29,173,173,41,false
+S71,Jade Green,#007D2B,0,125,43,false
+S72,Light Sea Blue,#68C4D2,104,196,210,false
+S73,Steel Blue,#5AB0BF,90,176,191,false
+S74,Azure,#009EC2,0,158,194,false
+S75,Dark Steel Blue,#0084B2,0,132,178,false
+S76,Sea Blue,#0093A9,0,147,169,false
+S77,Ghost While,#D4D8D3,212,216,211,false
+S78,Ash Grey,#C2C4C2,194,196,194,false
+S79,Light Gray,#A7ACAD,167,172,173,false
+S80,Dark Olive,#8F8E3C,143,142,60,false
+S81,Deer,#BF9168,191,145,104,false
+S82,Clay,#AA744E,170,116,78,false
+S83,Sienna,#BB6833,187,104,51,false
+S84,Deep Chestnut,#BE5D65,190,93,101,false
+S85,Red Wine,#99323A,153,50,58,false
+S86,Goldenrod,#E8AE00,232,174,0,false
+S87,Coral Red,#EC625E,236,98,94,false
+S88,Dark Pink,#D62779,214,39,121,false
+S89,Charcoal Gray,#565A5E,86,90,94,false
+S90,Pastel Orange,#D9B35E,217,179,94,false
+S91,Brunswick Green,#153838,21,56,56,false
+S92,Dandelion,#CEA433,206,164,51,false
+S93,Pale Skin,#DCB794,220,183,148,false
+S94,Warm Blush,#DD9285,221,146,133,false
+S95,Salmon,#E07B69,224,123,105,false
+S96,Apricot,#EF7F61,239,127,97,false
+S97,Papaya,#DC772B,220,119,43,false
+S98,Himalaya Blue,#6AAEDB,106,174,219,false
+S99,Waterfall,#61BBD3,97,187,211,false
+S100,Lagoon,#279BBE,39,155,190,false
+S101,Electric Blue,#00A7E3,0,167,227,false
+S102,Pool Blue,#0077CA,0,119,202,false
+S103,Caribbian Blue,#005AA9,0,90,169,false
+S104,Deep Water,#007F9E,0,127,158,false
+S105,Petrol Blue,#007D91,0,125,145,false
+S106,Wegdewood Blue,#00649A,0,100,154,false
+S107,Pond Blue,#006C9F,0,108,159,false
+S108,Seashell Beige,#CFC179,207,193,121,false
+S109,Beige,#C4AE64,196,174,100,false
+S110,Beach Beige,#AB9745,171,151,69,false
+S111,Caffe Latté,#978138,151,129,56,false
+S112,Oaktree Brown,#907C41,144,124,65,false
+S113,Khaki,#B6AE84,182,174,132,false
+S114,Light Greengray,#A59F65,165,159,101,false
+S115,Mossy Green,#938D54,147,141,84,false
+S116,Earth Green,#8D8B51,141,139,81,false
+S117,Sage Green,#7F7E49,127,126,73,false
+S118,Pinetree Green,#5B6E35,91,110,53,false
+S119,Frosty Blue,#8AD5C9,138,213,201,false
+S120,Polar Mint,#7CD2A5,124,210,165,false
+S121,Celadon Green,#72AC9A,114,172,154,false
+S122,Eucalyptus,#00B26F,0,178,111,false
+S123,Clover Field,#3EB724,62,183,36,false
+S124,Pooltable Felt,#0D7535,13,117,53,false
+S125,Snake Green,#007D6E,0,125,110,false
+S126,Dark Eucalyptus,#006E69,0,110,105,false
+S127,Marsmallow Rose,#DFC3E1,223,195,225,false
+S128,Light Grape,#D38ED4,211,142,212,false
+S129,Rosebud Pink,#D5A6BA,213,166,186,false
+S130,Fuschia,#D6668E,214,102,142,false
+S131,Candy Violet,#B8AAD9,184,170,217,false
+S132,Flamingo,#DF486D,223,72,109,false
+S133,Pink Plum,#BC3CA6,188,60,166,false
+S134,Amethyst,#803897,128,56,151,false
+S135,Moonlight Blue,#A7BAE1,167,186,225,false
+S136,Summer Rain,#AFB8DF,175,184,223,false
+S137,Azur Blue,#6B9AD4,107,154,212,false
+S138,Cornflower Blue,#5A89CE,90,137,206,false
+S139,Forget Me Not,#658AD0,101,138,208,false
+S140,Indigo,#566CBD,86,108,189,false
+S141,Horizon Blue,#4D74C6,77,116,198,false
+S142,Cobolt,#416DBE,65,109,190,false
+S143,Royal Blue,#30429E,48,66,158,false
+S144,Marine,#024288,2,66,136,false
+S145,Pale Yellow Moss,#D6CA6A,214,202,106,false
+S146,Bloodrose Red,#9D1A38,157,26,56,false
+S147,Spearmint,#80B7A1,128,183,161,false
+S148,Mocha,#7A594F,122,89,79,false
+S149,Creme,#EFDBA1,239,219,161,false
+S150,Iris Violet,#8884D0,136,132,208,false
+S151,Forrest Green,#345621,52,86,33,false
+S152,Lilac,#AEADDC,174,173,220,false
+S153,Pale Lilac,#BCC3E1,188,195,225,false
+S154,Sahara Sand,#E3C09A,227,192,154,false
+S155,Sunkissed Teint,#C58B60,197,139,96,false
+S156,Steel Grey,#5A5F65,90,95,101,false
+S157,Iron Grey,#4C5156,76,81,86,false
+S158,Pepper,#3A3E42,58,62,66,false
+S159,Oslo Gray,#82878B,130,135,139,false
+SE1,Moon,#F1F4FA,241,244,250,false
+SE2,Raincloud,#A2B2D3,162,178,211,false
+SE3,Winter,#83A6DC,131,166,220,false
+SE4,Tide,#70D8ED,112,216,237,false
+SE5,Aquamarine,#69E3D5,105,227,213,false
+SE6,Neptune,#2A63C8,42,99,200,false
+SE7,Rose Quartz,#D5AEC9,213,174,201,false
+SE8,Mauve,#AF739A,175,115,154,false
+SE9,Dark Mauve,#704B6D,112,75,109,false
+SE10,Wild Berry,#D977CD,217,119,205,false
+SE11,Sugar Plum,#B643AC,182,67,172,false
+SE12,Desert,#DEB181,222,177,129,false
+SE13,Peanut,#BC9D77,188,157,119,false
+SE14,Toffee,#AC7F5D,172,127,93,false
+SE15,Bark,#A37E66,163,126,102,false
+SG1,Glow Yellow,#C6C0B4,198,192,180,false
+SG2,Glow Pink,#DFABBC,223,171,188,false
+SG3,Glow Blue,#6FADC1,111,173,193,false
+SL1,Glitter Blue,#3687B2,54,135,178,false
+SL2,Glitter Green,#117C52,17,124,82,false
+SL3,Glitter Red,#C22933,194,41,51,false
+SL4,Glitter Yellow,#CDBD00,205,189,0,false
+SN1,Neon Orange,#FF7405,255,116,5,false
+SN2,Neon Green,#01C63E,1,198,62,false
+SN3,Neon Yellow,#F2F33C,242,243,60,false
+SN4,Neon Rose,#FF477A,255,71,122,false
+SP1,Pearlescent Green,#93CA87,147,202,135,false
+SP2,Pearlescent Tangerine,#FE7F54,254,127,84,false
+SP3,Pearlescent Orange,#F0A149,240,161,73,false
+SP4,Pearlescent Pink,#DC9EA9,220,158,169,false
+SP5,Pearlescent Red,#D63C53,214,60,83,false
+SP6,Pearlescent Blue,#2C4E97,44,78,151,false
+SP7,Pearlescent Purple,#64427E,100,66,126,false
+SP8,Pearlescent White,#E0DBCA,224,219,202,false
+ST1,Transparent,#C7BCB8,199,188,184,false
+ST2,Transparent Pink,#F95498,249,84,152,false
+ST3,Transparent Tangering,#FF7C45,255,124,69,false
+ST4,Transparent Yellow,#DADF3D,218,223,61,false
+ST5,Transparent Green,#0FAE58,15,174,88,false
+ST6,Transparent Purple,#8477B3,132,119,179,false

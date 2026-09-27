@@ -1,0 +1,155 @@
+code,name,hex,r,g,b,discontinued
+Blanc,White,#FCFBF8,252,251,248,false
+Ecru,Ecru,#F0EADA,240,234,218,false
+B5200,Snow White,#FFFFFF,255,255,255,false
+310,Black,#000000,0,0,0,false
+321,Red,#C72B3B,199,43,59,false
+498,Red Dark,#A7132B,167,19,43,false
+666,Bright Red,#E31D42,227,29,66,false
+815,Garnet Medium,#87071F,135,7,31,false
+816,Garnet,#970B23,151,11,35,false
+304,Red Medium,#B71F33,183,31,51,false
+347,Salmon Very Dark,#BF2D2D,191,45,45,false
+349,Coral Dark,#D21035,210,16,53,false
+350,Coral Medium,#E04848,224,72,72,false
+351,Coral,#E96A67,233,106,103,false
+352,Coral Light,#FD9C97,253,156,151,false
+353,Peach,#FED7CC,254,215,204,false
+335,Rose,#EE546E,238,84,110,false
+326,Rose Very Dark,#B33B4B,179,59,75,false
+309,Rose Dark,#C12041,193,32,65,false
+3354,Dusty Rose Light,#E4A6AC,228,166,172,false
+3733,Dusty Rose,#E8879B,232,135,155,false
+3731,Dusty Rose Very Dark,#DA6783,218,103,131,false
+3350,Dusty Rose Ultra Dark,#BC4365,188,67,101,false
+961,Dusty Rose Dark,#CF7373,207,115,115,false
+962,Dusty Rose Medium,#E68A8A,230,138,138,false
+963,Dusty Rose Ultra Very Light,#FFD7D7,255,215,215,false
+3326,Rose Light,#FBADB4,251,173,180,false
+776,Pink Medium,#FCB0B9,252,176,185,false
+819,Baby Pink Light,#FFEEEB,255,238,235,false
+818,Baby Pink,#FFDFD9,255,223,217,false
+740,Tangerine,#FF8B00,255,139,0,false
+741,Tangerine Medium,#FFA32B,255,163,43,false
+742,Tangerine Light,#FFBF57,255,191,87,false
+608,Burnt Orange Bright,#FD5D35,253,93,53,false
+946,Burnt Orange Medium,#EB6307,235,99,7,false
+947,Burnt Orange,#FF7B4D,255,123,77,false
+900,Burnt Orange Dark,#D15807,209,88,7,false
+720,Orange Spice Dark,#E55C1F,229,92,31,false
+721,Orange Spice Medium,#F27842,242,120,66,false
+722,Orange Spice Light,#F7976F,247,151,111,false
+307,Lemon,#FDED54,253,237,84,false
+444,Lemon Dark,#FFD600,255,214,0,false
+973,Canary Bright,#FFE300,255,227,0,false
+972,Canary Deep,#FFB515,255,181,21,false
+743,Yellow Medium,#FED376,254,211,118,false
+744,Yellow Pale,#FFE793,255,231,147,false
+745,Yellow Pale Light,#FFE9AD,255,233,173,false
+726,Topaz Light,#FDD755,253,215,85,false
+725,Topaz Medium Light,#FFC840,255,200,64,false
+783,Topaz Medium,#CE9124,206,145,36,false
+782,Topaz Dark,#AE7720,174,119,32,false
+781,Topaz Very Dark,#A26D20,162,109,32,false
+780,Topaz Ultra Very Dark,#94631A,148,99,26,false
+699,Green,#056517,5,101,23,false
+700,Green Bright,#07731B,7,115,27,false
+701,Green Light,#3F8F29,63,143,41,false
+702,Kelly Green,#47A72F,71,167,47,false
+703,Chartreuse,#7BB547,123,181,71,false
+704,Chartreuse Bright,#9ECF34,158,207,52,false
+905,Parrot Green Dark,#628A28,98,138,40,false
+906,Parrot Green Medium,#7FB335,127,179,53,false
+907,Parrot Green Light,#C7E666,199,230,102,false
+909,Emerald Green Very Dark,#156F49,21,111,73,false
+910,Emerald Green Dark,#187E56,24,126,86,false
+911,Emerald Green Medium,#189065,24,144,101,false
+912,Emerald Green Light,#1B9D6B,27,157,107,false
+913,Nile Green Medium,#6DAB77,109,171,119,false
+954,Nile Green,#88BA91,136,186,145,false
+955,Nile Green Light,#A2D6AD,162,214,173,false
+3345,Hunter Green Dark,#1B5915,27,89,21,false
+3346,Hunter Green,#406A3A,64,106,58,false
+3347,Yellow Green Medium,#71935C,113,147,92,false
+3348,Yellow Green Light,#CCD9B1,204,217,177,false
+562,Jade Medium,#53976A,83,151,106,false
+563,Jade Light,#8FC098,143,192,152,false
+564,Jade Very Light,#A7CDAF,167,205,175,false
+311,Wedgewood Ultra Very Dark,#1C5066,28,80,102,false
+312,Baby Blue Very Dark,#35668B,53,102,139,false
+322,Baby Blue Dark,#5A8FB8,90,143,184,false
+334,Baby Blue Medium,#739FC1,115,159,193,false
+336,Navy Blue,#253B73,37,59,115,false
+792,Cornflower Blue Dark,#555B7B,85,91,123,false
+793,Cornflower Blue Medium,#707DA2,112,125,162,false
+794,Cornflower Blue Light,#8F9CC1,143,156,193,false
+796,Royal Blue Dark,#11416D,17,65,109,false
+797,Royal Blue,#13477D,19,71,125,false
+798,Delft Blue Dark,#466A8E,70,106,142,false
+799,Delft Blue Medium,#748EB6,116,142,182,false
+800,Delft Blue Pale,#C0CCDE,192,204,222,false
+809,Delft Blue,#94A8C6,148,168,198,false
+813,Blue Light,#A1C2D7,161,194,215,false
+824,Blue Very Dark,#396987,57,105,135,false
+825,Blue Dark,#4781A5,71,129,165,false
+826,Blue Medium,#6B9EBF,107,158,191,false
+827,Blue Very Light,#BDDDED,189,221,237,false
+828,Sky Blue Very Light,#C5E8ED,197,232,237,false
+995,Electric Blue Dark,#2696B6,38,150,182,false
+996,Electric Blue Medium,#30C2EC,48,194,236,false
+3838,Lavender Blue Dark,#5C7294,92,114,148,false
+3839,Lavender Blue Medium,#7B8EAB,123,142,171,false
+3840,Lavender Blue Light,#B0C0DA,176,192,218,false
+3755,Baby Blue,#93B4CE,147,180,206,false
+3756,Baby Blue Ultra Very Light,#EEFCFC,238,252,252,false
+333,Blue Violet Very Dark,#5C5478,92,84,120,false
+550,Violet Very Dark,#5C184E,92,24,78,false
+552,Violet  Medium,#803A6B,128,58,107,false
+553,Violet,#A3638B,163,99,139,false
+554,Violet Light,#DBB3CB,219,179,203,false
+208,Lavender Very Dark,#835B8B,131,91,139,false
+209,Lavender Dark,#A37BA7,163,123,167,false
+210,Lavender Medium,#C39FC3,195,159,195,false
+211,Lavender Light,#E3CBE3,227,203,227,false
+327,Violet Dark,#633666,99,54,102,false
+718,Plum,#9C2462,156,36,98,false
+917,Plum Medium,#9B1359,155,19,89,false
+915,Plum Dark,#820043,130,0,67,false
+3746,Blue Violet Dark,#776B98,119,107,152,false
+3747,Blue Violet Very Light,#D3D7ED,211,215,237,false
+433,Brown Medium,#7A451F,122,69,31,false
+434,Brown Light,#985E33,152,94,51,false
+435,Brown Very Light,#B87748,184,119,72,false
+436,Tan,#CB9051,203,144,81,false
+437,Tan Light,#E4BB8E,228,187,142,false
+300,Mahogany Very Dark,#6F2F00,111,47,0,false
+301,Mahogany Medium,#B35F2B,179,95,43,false
+400,Mahogany Dark,#8F430F,143,67,15,false
+801,Coffee Brown Dark,#653919,101,57,25,false
+898,Coffee Brown Very Dark,#492A13,73,42,19,false
+938,Coffee Brown Ultra Dark,#361F0E,54,31,14,false
+632,Desert Sand Ultra Very Dark,#875539,135,85,57,false
+3371,Black Brown,#1E1108,30,17,8,false
+3862,Mocha Beige Dark,#8A6E4E,138,110,78,false
+3863,Mocha Beige Medium,#A4835C,164,131,92,false
+3864,Mocha Beige Light,#CBB69C,203,182,156,false
+317,Pewter Gray,#6C6C6C,108,108,108,false
+318,Steel Gray Light,#ABABAB,171,171,171,false
+414,Steel Gray Dark,#8C8C8C,140,140,140,false
+415,Pearl Gray,#D3D3D6,211,211,214,false
+413,Pewter Gray Dark,#565656,86,86,86,false
+535,Ash Gray Very Light,#636458,99,100,88,false
+762,Pearl Gray Very Light,#ECECEC,236,236,236,false
+3799,Pewter Gray Very Dark,#424242,66,66,66,false
+3024,Brown Gray Very Light,#EBEAE7,235,234,231,false
+3023,Brown Gray Light,#B1AA97,177,170,151,false
+3022,Brown Gray Medium,#8E9078,142,144,120,false
+648,Beaver Gray Light,#BCB4AC,188,180,172,false
+739,Tan Ultra Very Light,#F8E4C8,248,228,200,false
+738,Tan Very Light,#ECCC9E,236,204,158,false
+677,Old Gold Very Light,#F5ECCB,245,236,203,false
+676,Old Gold Light,#E5CE97,229,206,151,false
+729,Old Gold Medium,#D0A53E,208,165,62,false
+3047,Yellow Beige Light,#E7D6C1,231,214,193,false
+3046,Yellow Beige Medium,#D8BC9A,216,188,154,false
+3045,Yellow Beige Dark,#BC966A,188,150,106,false

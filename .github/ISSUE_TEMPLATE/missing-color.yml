@@ -1,0 +1,23 @@
+name: Missing color or palette
+description: A code that is missing from a palette, or a brand we do not have yet
+labels: [missing]
+body:
+  - type: input
+    id: brand
+    attributes:
+      label: Brand and product
+      placeholder: Toho Round 11/0, Anchor stranded cotton, Artkal C 2.6 mm…
+    validations:
+      required: true
+  - type: textarea
+    id: codes
+    attributes:
+      label: Codes
+      description: Which codes are missing — or, for a new palette, where its full code list can be found
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source for the colors
+      description: The maker's chart, product photos, a dataset — anything that lets the values be checked

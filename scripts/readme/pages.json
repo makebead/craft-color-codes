@@ -1,0 +1,484 @@
+{
+  "/": {
+    "en": {
+      "url": "https://makebead.com/",
+      "label": "Free Perler Bead Pattern Maker"
+    },
+    "de": {
+      "url": "https://makebead.com/de/",
+      "label": "Kostenloser Bügelperlen-Vorlagengenerator"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/",
+      "label": "무료 펄러비즈 패턴 메이커"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/",
+      "label": "免费拼豆图案制作器"
+    },
+    "es": {
+      "url": "https://makebead.com/es/",
+      "label": "Generador Gratuito de Patrones de Perlas"
+    },
+    "th": {
+      "url": "https://makebead.com/th/",
+      "label": "สร้างแบบลาย Perler ฟรี"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/",
+      "label": "Criador de Padrões Perler Grátis"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/",
+      "label": "Créateur de Motifs Perles Gratuit"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/",
+      "label": "免費 Perler 珠飾 圖案製作工具"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/",
+      "label": "無料アイロンビーズ図案メーカー"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/",
+      "label": "Бесплатный конструктор схем бусин Перлер"
+    }
+  },
+  "/hama-bead-pattern-maker/": {
+    "en": {
+      "url": "https://makebead.com/hama-bead-pattern-maker/",
+      "label": "Free Hama Bead Pattern Maker"
+    },
+    "de": {
+      "url": "https://makebead.com/de/hama-bead-pattern-maker/",
+      "label": "Kostenloser Hama-Vorlagen-Generator"
+    },
+    "th": {
+      "url": "https://makebead.com/th/hama-bead-pattern-maker/",
+      "label": "เครื่องมือสร้างแบบลายลูกปัด Hama ฟรี"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/hama-bead-pattern-maker/",
+      "label": "免费 Hama 珠图案制作器"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/hama-bead-pattern-maker/",
+      "label": "Créateur de motifs Hama gratuit"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/hama-bead-pattern-maker/",
+      "label": "免費 Hama 珠圖案製作工具"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/hama-bead-pattern-maker/",
+      "label": "Бесплатный генератор схем Hama"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/hama-bead-pattern-maker/",
+      "label": "무료 하마비즈 패턴 메이커"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/hama-bead-pattern-maker/",
+      "label": "無料ハマビーズ図案メーカー"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/hama-bead-pattern-maker/",
+      "label": "Criador gratuito de padrões Hama"
+    },
+    "es": {
+      "url": "https://makebead.com/es/hama-bead-pattern-maker/",
+      "label": "Generador gratuito de patrones Hama"
+    }
+  },
+  "/artkal-bead-pattern-maker/": {
+    "en": {
+      "url": "https://makebead.com/artkal-bead-pattern-maker/",
+      "label": "Free Artkal Bead Pattern Maker"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/artkal-bead-pattern-maker/",
+      "label": "Бесплатный генератор схем Artkal"
+    },
+    "de": {
+      "url": "https://makebead.com/de/artkal-bead-pattern-maker/",
+      "label": "Kostenloser Artkal-Vorlagen-Generator"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/artkal-bead-pattern-maker/",
+      "label": "Créateur de motifs Artkal gratuit"
+    },
+    "th": {
+      "url": "https://makebead.com/th/artkal-bead-pattern-maker/",
+      "label": "เครื่องมือสร้างแบบลายลูกปัด Artkal ฟรี"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/artkal-bead-pattern-maker/",
+      "label": "Criador gratuito de padrões Artkal"
+    },
+    "es": {
+      "url": "https://makebead.com/es/artkal-bead-pattern-maker/",
+      "label": "Generador gratuito de patrones Artkal"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/artkal-bead-pattern-maker/",
+      "label": "無料 Artkal ビーズ図案メーカー"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/artkal-bead-pattern-maker/",
+      "label": "免费 Artkal 珠图案制作器"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/artkal-bead-pattern-maker/",
+      "label": "무료 Artkal 비즈 패턴 메이커"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/artkal-bead-pattern-maker/",
+      "label": "免費 Artkal 珠圖案製作工具"
+    }
+  },
+  "/fuse-bead-pattern-maker/": {
+    "en": {
+      "url": "https://makebead.com/fuse-bead-pattern-maker/",
+      "label": "Free Fuse Bead Pattern Maker"
+    }
+  },
+  "/mard-bead-pattern-maker/": {
+    "en": {
+      "url": "https://makebead.com/mard-bead-pattern-maker/",
+      "label": "Free MARD Bead Pattern Maker"
+    },
+    "de": {
+      "url": "https://makebead.com/de/mard-bead-pattern-maker/",
+      "label": "Kostenloser MARD-Perlenvorlagen-Generator"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/mard-bead-pattern-maker/",
+      "label": "Бесплатный конструктор схем бусин MARD"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/mard-bead-pattern-maker/",
+      "label": "Gerador de padrões de miçangas MARD grátis"
+    },
+    "th": {
+      "url": "https://makebead.com/th/mard-bead-pattern-maker/",
+      "label": "เครื่องมือสร้างแบบลูกปัด MARD ฟรี"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/mard-bead-pattern-maker/",
+      "label": "Générateur de motifs perles MARD gratuit"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/mard-bead-pattern-maker/",
+      "label": "무료 MARD 비드 도안 생성기"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/mard-bead-pattern-maker/",
+      "label": "免費 MARD 拼珠圖紙產生器"
+    },
+    "es": {
+      "url": "https://makebead.com/es/mard-bead-pattern-maker/",
+      "label": "Generador de patrones de perlas MARD gratis"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/mard-bead-pattern-maker/",
+      "label": "免费 MARD 拼豆图纸生成器"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/mard-bead-pattern-maker/",
+      "label": "無料 MARD ビーズ図案メーカー"
+    }
+  },
+  "/bead-loom-pattern-maker/": {
+    "en": {
+      "url": "https://makebead.com/bead-loom-pattern-maker/",
+      "label": "Free Bead Loom Pattern Maker"
+    },
+    "de": {
+      "url": "https://makebead.com/de/bead-loom-pattern-maker/",
+      "label": "Kostenloser Perlenwebrahmen-Mustergenerator"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/bead-loom-pattern-maker/",
+      "label": "Бесплатный генератор схем для бисерного станка"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/bead-loom-pattern-maker/",
+      "label": "免费串珠织机图案生成器"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/bead-loom-pattern-maker/",
+      "label": "Gerador Grátis de Padrões para Tear de Miçangas"
+    },
+    "es": {
+      "url": "https://makebead.com/es/bead-loom-pattern-maker/",
+      "label": "Generador de Patrones para Telar de Cuentas Gratis"
+    },
+    "th": {
+      "url": "https://makebead.com/th/bead-loom-pattern-maker/",
+      "label": "โปรแกรมสร้างแบบลายกี่ทอลูกปัดฟรี"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/bead-loom-pattern-maker/",
+      "label": "무료 비즈 룸 패턴 메이커"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/bead-loom-pattern-maker/",
+      "label": "免費串珠織機圖案生成器"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/bead-loom-pattern-maker/",
+      "label": "Créateur de Motifs pour Métier à Perles Gratuit"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/bead-loom-pattern-maker/",
+      "label": "無料ビーズ織り機パターンメーカー"
+    }
+  },
+  "/dmc-color-chart/": {
+    "en": {
+      "url": "https://makebead.com/dmc-color-chart/",
+      "label": "DMC Color Chart"
+    }
+  },
+  "/diamond-painting-pattern-maker/": {
+    "en": {
+      "url": "https://makebead.com/diamond-painting-pattern-maker/",
+      "label": "Free Custom Diamond Painting Pattern Maker"
+    },
+    "de": {
+      "url": "https://makebead.com/de/diamond-painting-pattern-maker/",
+      "label": "Kostenloser individueller Diamond-Painting-Vorlagengenerator"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/diamond-painting-pattern-maker/",
+      "label": "免费定制钻石画图纸生成器"
+    },
+    "th": {
+      "url": "https://makebead.com/th/diamond-painting-pattern-maker/",
+      "label": "เครื่องมือสร้างแบบระบายสีเพชรกำหนดเองฟรี"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/diamond-painting-pattern-maker/",
+      "label": "Criador Grátis de Pintura de Diamantes Personalizada"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/diamond-painting-pattern-maker/",
+      "label": "免費定製鑽石畫圖紙產生器"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/diamond-painting-pattern-maker/",
+      "label": "Бесплатный конструктор индивидуальной алмазной вышивки"
+    },
+    "es": {
+      "url": "https://makebead.com/es/diamond-painting-pattern-maker/",
+      "label": "Generador Gratuito de Pintura de Diamantes Personalizada"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/diamond-painting-pattern-maker/",
+      "label": "無料カスタムダイヤモンドアート図案メーカー"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/diamond-painting-pattern-maker/",
+      "label": "무료 커스텀 다이아몬드 페인팅 패턴 메이커"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/diamond-painting-pattern-maker/",
+      "label": "Créateur Gratuit de Motifs de Peinture Diamant Personnalisée"
+    }
+  },
+  "/lego-mosaic-maker/": {
+    "en": {
+      "url": "https://makebead.com/lego-mosaic-maker/",
+      "label": "Free LEGO Mosaic Maker"
+    },
+    "de": {
+      "url": "https://makebead.com/de/lego-mosaic-maker/",
+      "label": "Kostenloser LEGO Mosaik-Generator"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/lego-mosaic-maker/",
+      "label": "免费 LEGO 马赛克制作器"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/lego-mosaic-maker/",
+      "label": "Criador de Mosaico LEGO Grátis"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/lego-mosaic-maker/",
+      "label": "免費 LEGO 馬賽克製作工具"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/lego-mosaic-maker/",
+      "label": "Créateur de Mosaïques LEGO Gratuit"
+    },
+    "th": {
+      "url": "https://makebead.com/th/lego-mosaic-maker/",
+      "label": "สร้าง LEGO โมเสกฟรี"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/lego-mosaic-maker/",
+      "label": "Бесплатный конструктор LEGO мозаики"
+    },
+    "es": {
+      "url": "https://makebead.com/es/lego-mosaic-maker/",
+      "label": "Generador Gratuito de Mosaicos LEGO"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/lego-mosaic-maker/",
+      "label": "무료 레고 모자이크 메이커"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/lego-mosaic-maker/",
+      "label": "無料レゴモザイクメーカー"
+    }
+  },
+  "/minecraft-pixel-art-generator/": {
+    "en": {
+      "url": "https://makebead.com/minecraft-pixel-art-generator/",
+      "label": "Free Minecraft Pixel Art Generator"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/minecraft-pixel-art-generator/",
+      "label": "Générateur de Pixel Art Minecraft Gratuit"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/minecraft-pixel-art-generator/",
+      "label": "免費 Minecraft 像素藝術產生器"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/minecraft-pixel-art-generator/",
+      "label": "免费 Minecraft 像素画生成器"
+    },
+    "de": {
+      "url": "https://makebead.com/de/minecraft-pixel-art-generator/",
+      "label": "Kostenloser Minecraft Pixel-Art-Generator"
+    },
+    "th": {
+      "url": "https://makebead.com/th/minecraft-pixel-art-generator/",
+      "label": "สร้างพิกเซลอาร์ต Minecraft ฟรี"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/minecraft-pixel-art-generator/",
+      "label": "무료 마인크래프트 도트아트 생성기"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/minecraft-pixel-art-generator/",
+      "label": "Gerador de Pixel Art para Minecraft Grátis"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/minecraft-pixel-art-generator/",
+      "label": "Бесплатный генератор пиксельного арта Minecraft"
+    },
+    "es": {
+      "url": "https://makebead.com/es/minecraft-pixel-art-generator/",
+      "label": "Generador Gratuito de Pixel Art de Minecraft"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/minecraft-pixel-art-generator/",
+      "label": "無料マインクラフト ドット絵ジェネレーター"
+    }
+  },
+  "/minecraft-map-art-generator/": {
+    "en": {
+      "url": "https://makebead.com/minecraft-map-art-generator/",
+      "label": "Minecraft Map Art Generator"
+    },
+    "de": {
+      "url": "https://makebead.com/de/minecraft-map-art-generator/",
+      "label": "Minecraft Map Art Generator"
+    }
+  },
+  "/crochet-pattern-maker/": {
+    "en": {
+      "url": "https://makebead.com/crochet-pattern-maker/",
+      "label": "Free Crochet Pattern Maker"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/crochet-pattern-maker/",
+      "label": "Генератор схем вязания крючком из фото"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/crochet-pattern-maker/",
+      "label": "Générateur de Grille Crochet Gratuit"
+    },
+    "de": {
+      "url": "https://makebead.com/de/crochet-pattern-maker/",
+      "label": "Gratis Häkelmuster-Generator aus Foto"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/crochet-pattern-maker/",
+      "label": "鉤針圖解產生器(免費)"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/crochet-pattern-maker/",
+      "label": "Gerador de Gráfico de Crochê Grátis"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/crochet-pattern-maker/",
+      "label": "かぎ針編み図案メーカー(無料)"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/crochet-pattern-maker/",
+      "label": "钩针图解生成器(免费)"
+    },
+    "th": {
+      "url": "https://makebead.com/th/crochet-pattern-maker/",
+      "label": "สร้างแพทเทิร์นโครเชต์จากรูปภาพ (ฟรี)"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/crochet-pattern-maker/",
+      "label": "코바늘 도안 만들기 (무료)"
+    },
+    "es": {
+      "url": "https://makebead.com/es/crochet-pattern-maker/",
+      "label": "Generador de patrones de crochet desde foto"
+    }
+  },
+  "/pixel-art-converter/": {
+    "en": {
+      "url": "https://makebead.com/pixel-art-converter/",
+      "label": "Free Pixel Art Converter"
+    },
+    "pt-BR": {
+      "url": "https://makebead.com/pt-BR/pixel-art-converter/",
+      "label": "Conversor de Pixel Art Grátis"
+    },
+    "ru": {
+      "url": "https://makebead.com/ru/pixel-art-converter/",
+      "label": "Бесплатный конвертер пиксельного арта"
+    },
+    "de": {
+      "url": "https://makebead.com/de/pixel-art-converter/",
+      "label": "Kostenloser Pixel-Art-Konverter"
+    },
+    "zh-Hans": {
+      "url": "https://makebead.com/zh-Hans/pixel-art-converter/",
+      "label": "免费像素画转换器"
+    },
+    "th": {
+      "url": "https://makebead.com/th/pixel-art-converter/",
+      "label": "แปลงพิกเซลอาร์ตฟรี"
+    },
+    "fr": {
+      "url": "https://makebead.com/fr/pixel-art-converter/",
+      "label": "Convertisseur Pixel Art Gratuit"
+    },
+    "es": {
+      "url": "https://makebead.com/es/pixel-art-converter/",
+      "label": "Convertidor Gratuito de Pixel Art"
+    },
+    "zh-Hant": {
+      "url": "https://makebead.com/zh-Hant/pixel-art-converter/",
+      "label": "免費像素藝術轉換器"
+    },
+    "ja": {
+      "url": "https://makebead.com/ja/pixel-art-converter/",
+      "label": "無料ドット絵変換ツール"
+    },
+    "ko": {
+      "url": "https://makebead.com/ko/pixel-art-converter/",
+      "label": "무료 도트아트 변환기"
+    }
+  }
+}

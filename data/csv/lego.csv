@@ -1,0 +1,41 @@
+code,name,hex,r,g,b,discontinued
+L01,White,#FFFFFF,255,255,255,false
+L02,Brick Yellow,#D9BB7B,217,187,123,false
+L03,Nougat,#D09168,208,145,104,false
+L04,Bright Red,#C91A09,201,26,9,false
+L05,Bright Blue,#0055BF,0,85,191,false
+L06,Bright Yellow,#F2CD37,242,205,55,false
+L07,Black,#05131D,5,19,29,false
+L08,Dark Green,#184632,24,70,50,false
+L09,Bright Green,#4B9F4A,75,159,74,false
+L10,Dark Orange,#A95500,169,85,0,false
+L11,Medium Blue,#5A93DB,90,147,219,false
+L12,Bright Orange,#FE8A18,254,138,24,false
+L13,Bright Reddish Violet,#923978,146,57,120,false
+L14,Medium Lavender,#AC78BA,172,120,186,false
+L15,Lavender,#E1D5ED,225,213,237,false
+L16,Bright Yellowish Green,#BBE90B,187,233,11,false
+L17,Medium Nougat,#AA7D55,170,125,85,false
+L18,Dark Brown,#352100,53,33,0,false
+L19,Reddish Brown,#582A12,88,42,18,false
+L20,Medium Stone Grey,#A0A5A9,160,165,169,false
+L21,Dark Stone Grey,#6C6E68,108,110,104,false
+L22,Medium Azure,#36AEBF,54,174,191,false
+L23,Sand Blue,#6074A1,96,116,161,false
+L24,Dark Azure,#078BC9,7,139,201,false
+L25,Sand Green,#A0BCAC,160,188,172,false
+L26,Olive Green,#9B9A5A,155,154,90,false
+L27,Dark Red,#720E0F,114,14,15,false
+L28,Coral,#FF698F,255,105,143,false
+L29,Vibrant Coral,#F06D61,240,109,97,false
+L30,Light Nougat,#F6D7B3,246,215,179,false
+L31,Spring Yellowish Green,#DFEEA5,223,238,165,false
+L32,Cool Yellow,#FFF03A,255,240,58,false
+L33,Aqua,#B3D7D1,179,215,209,false
+L34,Bright Purple,#CD6298,205,98,152,false
+L35,Earth Blue,#003D73,0,61,115,false
+L36,Earth Green,#002F34,0,47,52,false
+L37,Sand Yellow,#958A73,149,138,115,false
+L38,Bright Bluish Green,#008F9B,0,143,155,false
+L39,Medium Lilac,#3F3691,63,54,145,false
+L40,Warm Gold,#AA7F2E,170,127,46,false

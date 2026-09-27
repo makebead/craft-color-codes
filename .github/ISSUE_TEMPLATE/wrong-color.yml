@@ -1,0 +1,51 @@
+name: Wrong color
+description: A color, name or code that does not match the real bead, thread, yarn or block
+labels: [wrong-color]
+body:
+  - type: dropdown
+    id: palette
+    attributes:
+      label: Palette
+      options:
+        - perler-midi
+        - hama-midi
+        - artkal-s
+        - nabbi
+        - mard-185
+        - mard-221
+        - mard-291
+        - miyuki-delica
+        - dmc-floss
+        - dmc-diamond
+        - lego
+        - minecraft-blocks
+        - minecraft-map
+        - red-heart-super-saver
+        - pixel-art-256
+    validations:
+      required: true
+  - type: input
+    id: code
+    attributes:
+      label: Code
+      description: As printed on the bag, tube, skein or item
+      placeholder: DB0724
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: The shade, the name, a code that does not exist…
+    validations:
+      required: true
+  - type: input
+    id: proposed
+    attributes:
+      label: Proposed value (optional)
+      placeholder: "#2E6B3F"
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: A daylight photo of the item next to white paper, or a link to the maker's chart or product page. Drag images here.

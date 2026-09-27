@@ -1,0 +1,54 @@
+code,name,hex,r,g,b,discontinued,group,block,survival
+M01,Snow,#F0FAFA,240,250,250,false,natural,minecraft:snow_block,true
+M02,White Wool,#E9ECEC,233,236,236,false,wool,minecraft:white_wool,true
+M03,White Concrete,#CFD5D6,207,213,214,false,concrete,minecraft:white_concrete,true
+M04,Iron Block,#DCDCDC,220,220,220,false,natural,minecraft:iron_block,false
+M05,Diorite,#BFBFBF,191,191,191,false,natural,minecraft:diorite,true
+M06,Cherry Planks,#E3C7C0,227,199,192,false,wood,minecraft:cherry_planks,true
+M07,End Stone,#DBDE9E,219,222,158,false,natural,minecraft:end_stone,true
+M08,Sandstone,#D8CB8E,216,203,142,false,natural,minecraft:sandstone,true
+M09,Glowstone,#FFD064,255,208,100,false,natural,minecraft:glowstone,false
+M10,Gold Block,#F9D616,249,214,22,false,natural,minecraft:gold_block,false
+M11,Yellow Wool,#F8C627,248,198,39,false,wool,minecraft:yellow_wool,true
+M12,Orange Wool,#F07613,240,118,19,false,wool,minecraft:orange_wool,true
+M13,Diamond Block,#5FDCE4,95,220,228,false,natural,minecraft:diamond_block,false
+M14,Light Blue Wool,#3AAFD9,58,175,217,false,wool,minecraft:light_blue_wool,true
+M15,Clay,#9FA4B1,159,164,177,false,natural,minecraft:clay,true
+M16,Light Gray Wool,#8E8E86,142,142,134,false,wool,minecraft:light_gray_wool,true
+M17,Andesite,#888888,136,136,136,false,natural,minecraft:andesite,true
+M18,Stone,#7D7D7D,125,125,125,false,natural,minecraft:stone,true
+M19,Cobblestone,#7F7F7F,127,127,127,false,natural,minecraft:cobblestone,true
+M20,Birch Planks,#C8B77A,200,183,122,false,wood,minecraft:birch_planks,true
+M21,Oak Planks,#AF8F55,175,143,85,false,wood,minecraft:oak_planks,true
+M22,Jungle Planks,#A0764A,160,118,74,false,wood,minecraft:jungle_planks,true
+M23,Granite,#9F6B54,159,107,84,false,natural,minecraft:granite,true
+M24,Dirt,#966C4A,150,108,74,false,natural,minecraft:dirt,true
+M25,Grass Block,#7CBD6B,124,189,107,false,natural,minecraft:grass_block,true
+M26,Lime Wool,#70B919,112,185,25,false,wool,minecraft:lime_wool,true
+M27,Emerald Block,#41AE38,65,174,56,false,natural,minecraft:emerald_block,false
+M28,Green Wool,#546D1B,84,109,27,false,wool,minecraft:green_wool,true
+M29,Prismarine,#639C97,99,156,151,false,natural,minecraft:prismarine,true
+M30,Cyan Wool,#158991,21,137,145,false,wool,minecraft:cyan_wool,true
+M31,Warped Planks,#2B6961,43,105,97,false,wood,minecraft:warped_planks,true
+M32,Magenta Wool,#BD44B3,189,68,179,false,wool,minecraft:magenta_wool,true
+M33,Purple Wool,#792AAC,121,42,172,false,wool,minecraft:purple_wool,true
+M34,Pink Wool,#ED8DAC,237,141,172,false,wool,minecraft:pink_wool,true
+M35,Blue Wool,#353AA5,53,58,165,false,wool,minecraft:blue_wool,true
+M36,Lapis Block,#1E4B8C,30,75,140,false,natural,minecraft:lapis_block,false
+M37,Copper Block,#C06840,192,104,64,false,natural,minecraft:copper_block,true
+M38,Red Sand,#BE6621,190,102,33,false,natural,minecraft:red_sand,true
+M39,Acacia Planks,#AD5A2C,173,90,44,false,wood,minecraft:acacia_planks,true
+M40,Brown Wool,#724728,114,71,40,false,wool,minecraft:brown_wool,true
+M41,Spruce Planks,#6B4D30,107,77,48,false,wood,minecraft:spruce_planks,true
+M42,Mangrove Planks,#773535,119,53,53,false,wood,minecraft:mangrove_planks,true
+M43,Netherrack,#6F3535,111,53,53,false,natural,minecraft:netherrack,true
+M44,Red Wool,#A12722,161,39,34,false,wool,minecraft:red_wool,true
+M45,Redstone Block,#A81616,168,22,22,false,natural,minecraft:redstone_block,false
+M46,Crimson Planks,#6C2039,108,32,57,false,wood,minecraft:crimson_planks,true
+M47,Dark Oak Planks,#3E2912,62,41,18,false,wood,minecraft:dark_oak_planks,true
+M48,Deepslate,#505050,80,80,80,false,natural,minecraft:deepslate,true
+M49,Gray Wool,#3E4447,62,68,71,false,wool,minecraft:gray_wool,true
+M50,Obsidian,#0F0A18,15,10,24,false,natural,minecraft:obsidian,true
+M51,Black Wool,#141519,20,21,25,false,wool,minecraft:black_wool,true
+M52,Coal Block,#101010,16,16,16,false,natural,minecraft:coal_block,true
+M53,Black Concrete,#08080A,8,8,10,false,concrete,minecraft:black_concrete,true

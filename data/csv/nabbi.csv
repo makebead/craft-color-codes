@@ -1,0 +1,31 @@
+code,name,hex,r,g,b,discontinued
+N01,Black,#3A3D41,58,61,65,false
+N02,Dark Brown,#50443B,80,68,59,false
+N03,Brown Medium,#5A3E36,90,62,54,false
+N04,Maroon,#813547,129,53,71,false
+N05,Caramel,#A76224,167,98,36,false
+N06,Tan,#AD967E,173,150,126,false
+N07,Sand,#EEB182,238,177,130,false
+N08,Ash,#8D8B7F,141,139,127,false
+N09,Hunter Green,#2F4A39,47,74,57,false
+N10,Light Grey,#D3CBCB,211,203,203,false
+N11,Purple,#644591,100,69,145,false
+N12,Ivory,#E2D0BF,226,208,191,false
+N13,Orange,#F3601B,243,96,27,false
+N14,Yellow,#F9CA00,249,202,0,false
+N15,White,#F4F4F3,244,244,243,false
+N16,Green,#297A3B,41,122,59,false
+N17,Bright Blue,#3B75CB,59,117,203,false
+N18,Light Rose,#E1B4AB,225,180,171,false
+N19,Red,#DF2638,223,38,56,false
+N20,Light Brown,#B58B69,181,139,105,false
+N21,Light Yellow,#F5EC8D,245,236,141,false
+N22,Lime,#48AF4F,72,175,79,false
+N23,Medium Blue,#71A3E6,113,163,230,false
+N24,Lavender,#B6A0DB,182,160,219,false
+N25,Pink,#EE6A97,238,106,151,false
+N26,Peach,#FCA879,252,168,121,false
+N27,Chocolate,#875F52,135,95,82,false
+N28,Sky,#A7C6F1,167,198,241,false
+N29,Gold,#EE9527,238,149,39,false
+N30,Kiwi,#C7BF5E,199,191,94,false

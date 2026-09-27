@@ -1,0 +1,45 @@
+code,name,hex,r,g,b,discontinued
+0311,White,#FFFFFF,255,255,255,false
+0313,Aran,#EDE6D3,237,230,211,false
+0316,Soft White,#F5F0E1,245,240,225,false
+0326,Oatmeal,#E1D6C0,225,214,192,false
+0312,Black,#1A1A1A,26,26,26,false
+3950,Charcoal,#4A4A4A,74,74,74,false
+0400,Gray Heather,#9E9E93,158,158,147,false
+0340,Dusty Gray,#8E8A85,142,138,133,false
+0341,Light Gray,#C7C7C7,199,199,199,false
+0319,Cherry Red,#B01E2E,176,30,46,false
+0390,Hot Red,#E01B2E,224,27,46,false
+0378,Claret,#7B2233,123,34,51,false
+0376,Burgundy,#5B1A24,91,26,36,false
+0254,Pumpkin,#E8632A,232,99,42,false
+0256,Carrot,#F07E2A,240,126,42,false
+0321,Gold,#E8A72E,232,167,46,false
+0320,Cornmeal,#F2D06B,242,208,107,false
+0324,Bright Yellow,#F7E017,247,224,23,false
+0235,Lemon,#F5DC3C,245,220,60,false
+0672,Spring Green,#6FBE44,111,190,68,false
+0368,Paddy Green,#2E7D46,46,125,70,false
+0389,Hunter Green,#1E5631,30,86,49,false
+0624,Tea Leaf,#8FA05A,143,160,90,false
+0661,Frosty Green,#A7C4A0,167,196,160,false
+0656,Real Teal,#14707E,20,112,126,false
+0505,Aruba Sea,#4CC5C5,76,197,197,false
+0512,Turqua,#1CA5B8,28,165,184,false
+0886,Blue,#3A6EA5,58,110,165,false
+0385,Royal,#2B4B9B,43,75,155,false
+0885,Delft Blue,#4C6B8A,76,107,138,false
+0382,Country Blue,#6E8CA8,110,140,168,false
+0387,Soft Navy,#2C3E56,44,62,86,false
+0381,Light Blue,#A9CCE3,169,204,227,false
+0776,Dark Orchid,#6B3FA0,107,63,160,false
+0356,Amethyst,#8E5DA8,142,93,168,false
+0358,Lavender,#B49AC8,180,154,200,false
+0706,Perfect Pink,#F5A9C4,245,169,196,false
+0373,Petal Pink,#F7C5D4,247,197,212,false
+0722,Pretty N' Pink,#E23A82,226,58,130,false
+0718,Shocking Pink,#E8548E,232,84,142,false
+0365,Coffee,#6B4A34,107,74,52,false
+0364,Sienna,#8A5A3A,138,90,58,false
+0360,Cafe Latte,#C8A98A,200,169,138,false
+0334,Buff,#E4C9A0,228,201,160,false

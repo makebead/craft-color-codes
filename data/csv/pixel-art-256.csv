@@ -1,0 +1,257 @@
+code,name,hex,r,g,b,discontinued
+#000000,Black,#000000,0,0,0,false
+#111111,Very Dark Gray,#111111,17,17,17,false
+#222222,Dark Charcoal,#222222,34,34,34,false
+#333333,Charcoal,#333333,51,51,51,false
+#444444,Dark Gray,#444444,68,68,68,false
+#555555,Dim Gray,#555555,85,85,85,false
+#666666,Gray,#666666,102,102,102,false
+#777777,Medium Gray,#777777,119,119,119,false
+#888888,Silver Gray,#888888,136,136,136,false
+#999999,Light Gray,#999999,153,153,153,false
+#AAAAAA,Pale Gray,#AAAAAA,170,170,170,false
+#BBBBBB,Mist Gray,#BBBBBB,187,187,187,false
+#CCCCCC,Light Silver,#CCCCCC,204,204,204,false
+#DDDDDD,Near White,#DDDDDD,221,221,221,false
+#EEEEEE,Off White,#EEEEEE,238,238,238,false
+#FFFFFF,White,#FFFFFF,255,255,255,false
+#4D1A1A,Very Dark Muted Red,#4D1A1A,77,26,26,false
+#862D2D,Dark Muted Red,#862D2D,134,45,45,false
+#BF4040,Muted Red,#BF4040,191,64,64,false
+#D27979,Light Muted Red,#D27979,210,121,121,false
+#E6B3B3,Very Light Muted Red,#E6B3B3,230,179,179,false
+#660000,Very Dark Red,#660000,102,0,0,false
+#B30000,Dark Red,#B30000,179,0,0,false
+#FF0000,Red,#FF0000,255,0,0,false
+#FF4D4D,Light Red,#FF4D4D,255,77,77,false
+#FF9999,Very Light Red,#FF9999,255,153,153,false
+#4D2B1A,Very Dark Muted Orange,#4D2B1A,77,43,26,false
+#864B2D,Dark Muted Orange,#864B2D,134,75,45,false
+#BF6A40,Muted Orange,#BF6A40,191,106,64,false
+#D29D79,Light Muted Orange,#D29D79,210,157,121,false
+#E6CCB3,Very Light Muted Orange,#E6CCB3,230,204,179,false
+#663300,Very Dark Orange,#663300,102,51,0,false
+#B35900,Dark Orange,#B35900,179,89,0,false
+#FF8000,Orange,#FF8000,255,128,0,false
+#FFA64D,Light Orange,#FFA64D,255,166,77,false
+#FFCC99,Very Light Orange,#FFCC99,255,204,153,false
+#4D3D1A,Very Dark Muted Yellow,#4D3D1A,77,61,26,false
+#866A2D,Dark Muted Yellow,#866A2D,134,106,45,false
+#BF9540,Muted Yellow,#BF9540,191,149,64,false
+#D2C179,Light Muted Yellow,#D2C179,210,193,121,false
+#E6E0B3,Very Light Muted Yellow,#E6E0B3,230,224,179,false
+#666600,Very Dark Yellow,#666600,102,102,0,false
+#B3B300,Dark Yellow,#B3B300,179,179,0,false
+#FFFF00,Yellow,#FFFF00,255,255,0,false
+#FFFF4D,Light Yellow,#FFFF4D,255,255,77,false
+#FFFF99,Very Light Yellow,#FFFF99,255,255,153,false
+#434D1A,Very Dark Muted Yellow Green,#434D1A,67,77,26,false
+#74862D,Dark Muted Yellow Green,#74862D,116,134,45,false
+#A6BF40,Muted Yellow Green,#A6BF40,166,191,64,false
+#CAD279,Light Muted Yellow Green,#CAD279,202,210,121,false
+#E3E6B3,Very Light Muted Yellow Green,#E3E6B3,227,230,179,false
+#556600,Very Dark Yellow Green,#556600,85,102,0,false
+#95B300,Dark Yellow Green,#95B300,149,179,0,false
+#D5FF00,Yellow Green,#D5FF00,213,255,0,false
+#E2FF4D,Light Yellow Green,#E2FF4D,226,255,77,false
+#EEFF99,Very Light Yellow Green,#EEFF99,238,255,153,false
+#394D1A,Very Dark Muted Green,#394D1A,57,77,26,false
+#63862D,Dark Muted Green,#63862D,99,134,45,false
+#8DBF40,Muted Green,#8DBF40,141,191,64,false
+#BDD279,Light Muted Green,#BDD279,189,210,121,false
+#DCE6B3,Very Light Muted Green,#DCE6B3,220,230,179,false
+#406600,Very Dark Green,#406600,64,102,0,false
+#70B300,Dark Green,#70B300,112,179,0,false
+#A0FF00,Green,#A0FF00,160,255,0,false
+#C0FF4D,Light Green,#C0FF4D,192,255,77,false
+#DFFF99,Very Light Green,#DFFF99,223,255,153,false
+#2B4D1A,Very Dark Muted Green,#2B4D1A,43,77,26,false
+#4B862D,Dark Muted Green,#4B862D,75,134,45,false
+#6BBF40,Muted Green,#6BBF40,107,191,64,false
+#A5D279,Light Muted Green,#A5D279,165,210,121,false
+#D0E6B3,Very Light Muted Green,#D0E6B3,208,230,179,false
+#2B6600,Very Dark Green,#2B6600,43,102,0,false
+#4BB300,Dark Green,#4BB300,75,179,0,false
+#6BFF00,Green,#6BFF00,107,255,0,false
+#9BFF4D,Light Green,#9BFF4D,155,255,77,false
+#CAFF99,Very Light Green,#CAFF99,202,255,153,false
+#1A4D1A,Very Dark Muted Green,#1A4D1A,26,77,26,false
+#2D862D,Dark Muted Green,#2D862D,45,134,45,false
+#40BF40,Muted Green,#40BF40,64,191,64,false
+#79D279,Light Muted Green,#79D279,121,210,121,false
+#B3E6B3,Very Light Muted Green,#B3E6B3,179,230,179,false
+#006600,Very Dark Green,#006600,0,102,0,false
+#00B300,Dark Green,#00B300,0,179,0,false
+#00FF00,Green,#00FF00,0,255,0,false
+#4DFF4D,Light Green,#4DFF4D,77,255,77,false
+#99FF99,Very Light Green,#99FF99,153,255,153,false
+#1A4D2B,Very Dark Muted Green,#1A4D2B,26,77,43,false
+#2D864B,Dark Muted Green,#2D864B,45,134,75,false
+#40BF6B,Muted Green,#40BF6B,64,191,107,false
+#79D2A5,Light Muted Green,#79D2A5,121,210,165,false
+#B3E6D0,Very Light Muted Green,#B3E6D0,179,230,208,false
+#00662B,Very Dark Green,#00662B,0,102,43,false
+#00B34B,Dark Green,#00B34B,0,179,75,false
+#00FF6B,Green,#00FF6B,0,255,107,false
+#4DFF9B,Light Green,#4DFF9B,77,255,155,false
+#99FFCA,Very Light Green,#99FFCA,153,255,202,false
+#1A4D3D,Very Dark Muted Teal,#1A4D3D,26,77,61,false
+#2D866A,Dark Muted Teal,#2D866A,45,134,106,false
+#40BF95,Muted Teal,#40BF95,64,191,149,false
+#79D2C1,Light Muted Teal,#79D2C1,121,210,193,false
+#B3E6DC,Very Light Muted Teal,#B3E6DC,179,230,220,false
+#006640,Very Dark Teal,#006640,0,102,64,false
+#00B370,Dark Teal,#00B370,0,179,112,false
+#00FFA0,Teal,#00FFA0,0,255,160,false
+#4DFFC0,Light Teal,#4DFFC0,77,255,192,false
+#99FFDF,Very Light Teal,#99FFDF,153,255,223,false
+#1A4D4D,Very Dark Muted Teal,#1A4D4D,26,77,77,false
+#2D8686,Dark Muted Teal,#2D8686,45,134,134,false
+#40BFBF,Muted Teal,#40BFBF,64,191,191,false
+#79D2D2,Light Muted Teal,#79D2D2,121,210,210,false
+#B3E6E6,Very Light Muted Teal,#B3E6E6,179,230,230,false
+#006666,Very Dark Teal,#006666,0,102,102,false
+#00B3B3,Dark Teal,#00B3B3,0,179,179,false
+#00FFFF,Teal,#00FFFF,0,255,255,false
+#4DFFFF,Light Teal,#4DFFFF,77,255,255,false
+#99FFFF,Very Light Teal,#99FFFF,153,255,255,false
+#1A3D4D,Very Dark Muted Cyan,#1A3D4D,26,61,77,false
+#2D6A86,Dark Muted Cyan,#2D6A86,45,106,134,false
+#4095BF,Muted Cyan,#4095BF,64,149,191,false
+#79C1D2,Light Muted Cyan,#79C1D2,121,193,210,false
+#B3DCE6,Very Light Muted Cyan,#B3DCE6,179,220,230,false
+#004066,Very Dark Cyan,#004066,0,64,102,false
+#0070B3,Dark Cyan,#0070B3,0,112,179,false
+#00A0FF,Cyan,#00A0FF,0,160,255,false
+#4DC0FF,Light Cyan,#4DC0FF,77,192,255,false
+#99DFFF,Very Light Cyan,#99DFFF,153,223,255,false
+#1A2B4D,Very Dark Muted Blue,#1A2B4D,26,43,77,false
+#2D4B86,Dark Muted Blue,#2D4B86,45,75,134,false
+#406BBF,Muted Blue,#406BBF,64,107,191,false
+#79A5D2,Light Muted Blue,#79A5D2,121,165,210,false
+#B3D0E6,Very Light Muted Blue,#B3D0E6,179,208,230,false
+#002B66,Very Dark Blue,#002B66,0,43,102,false
+#004BB3,Dark Blue,#004BB3,0,75,179,false
+#006BFF,Blue,#006BFF,0,107,255,false
+#4D9BFF,Light Blue,#4D9BFF,77,155,255,false
+#99CAFF,Very Light Blue,#99CAFF,153,202,255,false
+#1A1A4D,Very Dark Muted Blue,#1A1A4D,26,26,77,false
+#2D2D86,Dark Muted Blue,#2D2D86,45,45,134,false
+#4040BF,Muted Blue,#4040BF,64,64,191,false
+#7979D2,Light Muted Blue,#7979D2,121,121,210,false
+#B3B3E6,Very Light Muted Blue,#B3B3E6,179,179,230,false
+#000066,Very Dark Blue,#000066,0,0,102,false
+#0000B3,Dark Blue,#0000B3,0,0,179,false
+#0000FF,Blue,#0000FF,0,0,255,false
+#4D4DFF,Light Blue,#4D4DFF,77,77,255,false
+#9999FF,Very Light Blue,#9999FF,153,153,255,false
+#211A4D,Very Dark Muted Blue,#211A4D,33,26,77,false
+#3A2D86,Dark Muted Blue,#3A2D86,58,45,134,false
+#5540BF,Muted Blue,#5540BF,85,64,191,false
+#9579D2,Light Muted Blue,#9579D2,149,121,210,false
+#C4B3E6,Very Light Muted Blue,#C4B3E6,196,179,230,false
+#150066,Very Dark Blue,#150066,21,0,102,false
+#2500B3,Dark Blue,#2500B3,37,0,179,false
+#3500FF,Blue,#3500FF,53,0,255,false
+#704DFF,Light Blue,#704DFF,112,77,255,false
+#B099FF,Very Light Blue,#B099FF,176,153,255,false
+#2B1A4D,Very Dark Muted Purple,#2B1A4D,43,26,77,false
+#4B2D86,Dark Muted Purple,#4B2D86,75,45,134,false
+#6B40BF,Muted Purple,#6B40BF,107,64,191,false
+#A579D2,Light Muted Purple,#A579D2,165,121,210,false
+#D0B3E6,Very Light Muted Purple,#D0B3E6,208,179,230,false
+#2B0066,Very Dark Purple,#2B0066,43,0,102,false
+#4B00B3,Dark Purple,#4B00B3,75,0,179,false
+#6B00FF,Purple,#6B00FF,107,0,255,false
+#9B4DFF,Light Purple,#9B4DFF,155,77,255,false
+#CA99FF,Very Light Purple,#CA99FF,202,153,255,false
+#391A4D,Very Dark Muted Purple,#391A4D,57,26,77,false
+#632D86,Dark Muted Purple,#632D86,99,45,134,false
+#8D40BF,Muted Purple,#8D40BF,141,64,191,false
+#BD79D2,Light Muted Purple,#BD79D2,189,121,210,false
+#DCB3E6,Very Light Muted Purple,#DCB3E6,220,179,230,false
+#400066,Very Dark Purple,#400066,64,0,102,false
+#7000B3,Dark Purple,#7000B3,112,0,179,false
+#A000FF,Purple,#A000FF,160,0,255,false
+#C04DFF,Light Purple,#C04DFF,192,77,255,false
+#DF99FF,Very Light Purple,#DF99FF,223,153,255,false
+#431A4D,Very Dark Muted Magenta,#431A4D,67,26,77,false
+#742D86,Dark Muted Magenta,#742D86,116,45,134,false
+#A640BF,Muted Magenta,#A640BF,166,64,191,false
+#CA79D2,Light Muted Magenta,#CA79D2,202,121,210,false
+#E3B3E6,Very Light Muted Magenta,#E3B3E6,227,179,230,false
+#550066,Very Dark Magenta,#550066,85,0,102,false
+#9500B3,Dark Magenta,#9500B3,149,0,179,false
+#D500FF,Magenta,#D500FF,213,0,255,false
+#E24DFF,Light Magenta,#E24DFF,226,77,255,false
+#EE99FF,Very Light Magenta,#EE99FF,238,153,255,false
+#4D1A4D,Very Dark Muted Magenta,#4D1A4D,77,26,77,false
+#862D86,Dark Muted Magenta,#862D86,134,45,134,false
+#BF40BF,Muted Magenta,#BF40BF,191,64,191,false
+#D279D2,Light Muted Magenta,#D279D2,210,121,210,false
+#E6B3E6,Very Light Muted Magenta,#E6B3E6,230,179,230,false
+#660066,Very Dark Magenta,#660066,102,0,102,false
+#B300B3,Dark Magenta,#B300B3,179,0,179,false
+#FF00FF,Magenta,#FF00FF,255,0,255,false
+#FF4DFF,Light Magenta,#FF4DFF,255,77,255,false
+#FF99FF,Very Light Magenta,#FF99FF,255,153,255,false
+#4D1A43,Very Dark Muted Magenta,#4D1A43,77,26,67,false
+#862D74,Dark Muted Magenta,#862D74,134,45,116,false
+#BF40A6,Muted Magenta,#BF40A6,191,64,166,false
+#D279CA,Light Muted Magenta,#D279CA,210,121,202,false
+#E6B3E3,Very Light Muted Magenta,#E6B3E3,230,179,227,false
+#660055,Very Dark Magenta,#660055,102,0,85,false
+#B30095,Dark Magenta,#B30095,179,0,149,false
+#FF00D5,Magenta,#FF00D5,255,0,213,false
+#FF4DE2,Light Magenta,#FF4DE2,255,77,226,false
+#FF99EE,Very Light Magenta,#FF99EE,255,153,238,false
+#4D1A39,Very Dark Muted Rose,#4D1A39,77,26,57,false
+#862D63,Dark Muted Rose,#862D63,134,45,99,false
+#BF408D,Muted Rose,#BF408D,191,64,141,false
+#D279BD,Light Muted Rose,#D279BD,210,121,189,false
+#E6B3DC,Very Light Muted Rose,#E6B3DC,230,179,220,false
+#660040,Very Dark Rose,#660040,102,0,64,false
+#B30070,Dark Rose,#B30070,179,0,112,false
+#FF00A0,Rose,#FF00A0,255,0,160,false
+#FF4DC0,Light Rose,#FF4DC0,255,77,192,false
+#FF99DF,Very Light Rose,#FF99DF,255,153,223,false
+#4D1A2B,Very Dark Muted Rose,#4D1A2B,77,26,43,false
+#862D4B,Dark Muted Rose,#862D4B,134,45,75,false
+#BF406B,Muted Rose,#BF406B,191,64,107,false
+#D279A5,Light Muted Rose,#D279A5,210,121,165,false
+#E6B3D0,Very Light Muted Rose,#E6B3D0,230,179,208,false
+#66002B,Very Dark Rose,#66002B,102,0,43,false
+#B3004B,Dark Rose,#B3004B,179,0,75,false
+#FF006B,Rose,#FF006B,255,0,107,false
+#FF4D9B,Light Rose,#FF4D9B,255,77,155,false
+#FF99CA,Very Light Rose,#FF99CA,255,153,202,false
+#4D1A21,Very Dark Muted Red,#4D1A21,77,26,33,false
+#862D3A,Dark Muted Red,#862D3A,134,45,58,false
+#BF4055,Muted Red,#BF4055,191,64,85,false
+#D27995,Light Muted Red,#D27995,210,121,149,false
+#E6B3C4,Very Light Muted Red,#E6B3C4,230,179,196,false
+#660015,Very Dark Red,#660015,102,0,21,false
+#B30025,Dark Red,#B30025,179,0,37,false
+#FF0035,Red,#FF0035,255,0,53,false
+#FF4D70,Light Red,#FF4D70,255,77,112,false
+#FF99B0,Very Light Red,#FF99B0,255,153,176,false
+#4D1F1A,Very Dark Muted Orange,#4D1F1A,77,31,26,false
+#86372D,Dark Muted Orange,#86372D,134,55,45,false
+#BF4E40,Muted Orange,#BF4E40,191,78,64,false
+#D28A79,Light Muted Orange,#D28A79,210,138,121,false
+#E6BFB3,Very Light Muted Orange,#E6BFB3,230,191,179,false
+#661500,Very Dark Orange,#661500,102,21,0,false
+#B32500,Dark Orange,#B32500,179,37,0,false
+#FF3500,Orange,#FF3500,255,53,0,false
+#FF704D,Light Orange,#FF704D,255,112,77,false
+#FFB099,Very Light Orange,#FFB099,255,176,153,false
+#4D251A,Very Dark Muted Orange,#4D251A,77,37,26,false
+#86402D,Dark Muted Orange,#86402D,134,64,45,false
+#BF5B40,Muted Orange,#BF5B40,191,91,64,false
+#D29579,Light Muted Orange,#D29579,210,149,121,false
+#E6C7B3,Very Light Muted Orange,#E6C7B3,230,199,179,false
+#662000,Very Dark Orange,#662000,102,32,0,false
+#B33800,Dark Orange,#B33800,179,56,0,false
+#FF5000,Orange,#FF5000,255,80,0,false
+#FF8B4D,Light Orange,#FF8B4D,255,139,77,false
+#FFBE99,Very Light Orange,#FFBE99,255,190,153,false

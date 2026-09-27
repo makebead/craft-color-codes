@@ -1,0 +1,74 @@
+{
+  "name": "craft-color-codes",
+  "version": "1.0.0",
+  "description": "Hex and RGB for 3,689 craft colour codes: Perler, Hama, Artkal, Nabbi and MARD fuse beads, Miyuki Delica, DMC floss and diamond drills, Red Heart yarn, LEGO and Minecraft. JSON, CSV, a CIEDE2000 matcher and an MCP server.",
+  "keywords": [
+    "perler",
+    "hama",
+    "artkal",
+    "mard",
+    "nabbi",
+    "fuse-beads",
+    "miyuki",
+    "delica",
+    "seed-beads",
+    "dmc",
+    "embroidery-floss",
+    "cross-stitch",
+    "diamond-painting",
+    "red-heart",
+    "yarn",
+    "lego",
+    "minecraft",
+    "map-art",
+    "pixel-art",
+    "color-palette",
+    "color-codes",
+    "hex",
+    "rgb",
+    "ciede2000",
+    "mcp",
+    "mcp-server"
+  ],
+  "homepage": "https://makebead.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makebead/craft-color-codes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/makebead/craft-color-codes/issues"
+  },
+  "license": "(MIT AND CC-BY-4.0)",
+  "author": "MakeBead (https://makebead.com)",
+  "mcpName": "io.github.makebead/craft-color-codes",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./data/*": "./data/*",
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "craft-color-codes": "bin/craft-color-codes.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "data",
+    "LICENSE",
+    "LICENSE-DATA.md",
+    "SOURCES.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test",
+    "sync": "node scripts/sync-from-makebead.mjs",
+    "readme": "node scripts/build-readme.mjs"
+  }
+}
