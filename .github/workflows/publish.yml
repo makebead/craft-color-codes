@@ -4,7 +4,10 @@
 # npm: trusted publishing (OIDC) — no token. Configure once on npmjs.com:
 #   package settings → Trusted publisher → GitHub Actions,
 #   organization makebead, repository craft-color-codes, workflow publish.yml.
-# MCP registry: mcp-publisher logs in with the same GitHub OIDC token.
+# MCP registry: mcp-publisher logs in with the same GitHub OIDC token, which
+# grants io.github.makebead/* from the repository owner. (Interactive
+# `mcp-publisher login github` cannot: its GitHub App is private and cannot be
+# installed on the org, so it only ever sees the personal namespace.)
 name: publish
 on:
   push:
@@ -28,7 +31,14 @@ jobs:
           test "v$v" = "$GITHUB_REF_NAME"
           test "$(node -p "require('./server.json').version")" = "$v"
           test "$(node -p "require('./server.json').packages[0].version")" = "$v"
-      - run: npm publish --provenance --access public
+      - name: Publish to npm (skipped when this version is already there)
+        run: |
+          v=$(node -p "require('./package.json').version")
+          if npm view "craft-color-codes@$v" version >/dev/null 2>&1; then
+            echo "craft-color-codes@$v is already on npm"
+          else
+            npm publish --provenance --access public
+          fi
       - name: Publish to the MCP registry
         run: |
           curl -sL https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_linux_amd64.tar.gz | tar xz mcp-publisher
