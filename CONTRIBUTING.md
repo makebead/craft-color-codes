@@ -32,3 +32,10 @@ npm run readme      # rebuild README.md, i18n/README.*.md and SOURCES.md
 ```
 
 Node 18 or newer, no dependencies.
+
+## Releasing
+
+Bump `version` in `package.json` and both `version` fields in `server.json`,
+commit, then push a tag: `git tag v1.0.1 && git push --tags`. The `publish`
+workflow tests, then publishes to npm (trusted publishing, with provenance)
+and to the MCP registry. Nobody needs an npm token.

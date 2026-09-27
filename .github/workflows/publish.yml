@@ -1,0 +1,36 @@
+# Publish a release: bump the version in package.json AND server.json (both
+# places), commit, then `git tag v1.2.3 && git push --tags`.
+#
+# npm: trusted publishing (OIDC) — no token. Configure once on npmjs.com:
+#   package settings → Trusted publisher → GitHub Actions,
+#   organization makebead, repository craft-color-codes, workflow publish.yml.
+# MCP registry: mcp-publisher logs in with the same GitHub OIDC token.
+name: publish
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: read
+  id-token: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          registry-url: https://registry.npmjs.org
+      - run: npm test
+      - name: The tag, package.json and server.json name the same version
+        run: |
+          v=$(node -p "require('./package.json').version")
+          test "v$v" = "$GITHUB_REF_NAME"
+          test "$(node -p "require('./server.json').version")" = "$v"
+          test "$(node -p "require('./server.json').packages[0].version")" = "$v"
+      - run: npm publish --provenance --access public
+      - name: Publish to the MCP registry
+        run: |
+          curl -sL https://github.com/modelcontextprotocol/registry/releases/latest/download/mcp-publisher_linux_amd64.tar.gz | tar xz mcp-publisher
+          ./mcp-publisher login github-oidc
+          ./mcp-publisher publish
