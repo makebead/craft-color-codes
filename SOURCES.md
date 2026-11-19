@@ -75,7 +75,7 @@ Every Delica 11/0 code in Miyuki’s directory, 76 of them discontinued. The col
 
 **Status:** `cross-checked` · **Colors:** 489 · **License:** CC-BY-4.0 · **Used on:** [makebead.com/dmc-color-chart/](https://makebead.com/dmc-color-chart/)
 
-All 489 colors. Hex is rebuilt from the integer R/G/B columns because the hex strings in the common upstream were damaged by a spreadsheet (221 stored as 8.83E+45, lost leading zeros). Where a source’s displayed hex disagreed with its own RGB columns (11 rows), an independent third source sided with the RGB columns 8 times of 9. DMC 309 (Rose Dark) is #C12041: both older sources carry a grey-brown #564A4A inherited from a shared ancestor. Blanc and B5200 are distinct (#FCFBF8 / #FFFFFF).
+All 489 colors. Hex is rebuilt from the integer R/G/B columns because the hex strings in the common upstream were damaged by a spreadsheet (221 stored as 8.83E+45, lost leading zeros). Where a source’s displayed hex disagreed with its own RGB columns (11 rows), an independent third source sided with the RGB columns 8 times of 9. DMC 309 (Rose Dark) is #C12041, xstitchify’s value: both older sources carry a grey-brown #564A4A inherited from a shared ancestor. Blanc and B5200 are distinct (#FCFBF8 / #FFFFFF). No value here was measured on a skein. floss.maxxmint.com states no licence for its values and the CrossStitchCreator repository has no licence file (the sharlagelfand/dmc R package that redistributes the same set is MIT); MakeBead has no agreement with any of these sources. CC BY 4.0 here covers MakeBead’s compilation and corrections, not the upstream values.
 
 - [floss.maxxmint.com (R/G/B columns)](https://floss.maxxmint.com/)
 - [adrianj/CrossStitchCreator (the set behind the sharlagelfand/dmc R package)](https://github.com/adrianj/CrossStitchCreator)
@@ -85,7 +85,7 @@ All 489 colors. Hex is rebuilt from the integer R/G/B columns because the hex st
 
 **Status:** `cross-checked` · **Colors:** 154 · **License:** CC-BY-4.0 · **Used on:** [makebead.com/diamond-painting-pattern-maker/](https://makebead.com/diamond-painting-pattern-maker/)
 
-Diamond painting kits number their drills with DMC floss codes. Colors are the dmc-floss values for the same codes. The 154 codes are the set MakeBead started with, not a list of what is sold as drills; it has not been extended because which codes exist as drills could not be verified. For the full DMC range use dmc-floss.
+Diamond painting kits number their drills with DMC floss codes. Colors are the dmc-floss values for the same codes, with the same provenance and limits (see dmc-floss). The 154 codes are the set MakeBead started with, not a list of what is sold as drills; it has not been extended because which codes exist as drills could not be verified. For the full DMC range use dmc-floss.
 
 - `dmc-floss in this repository`
 

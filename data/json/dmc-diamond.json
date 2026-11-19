@@ -6,7 +6,7 @@
   "unit": "drill",
   "count": 154,
   "status": "cross-checked",
-  "notes": "Diamond painting kits number their drills with DMC floss codes. Colors are the dmc-floss values for the same codes. The 154 codes are the set MakeBead started with, not a list of what is sold as drills; it has not been extended because which codes exist as drills could not be verified. For the full DMC range use dmc-floss.",
+  "notes": "Diamond painting kits number their drills with DMC floss codes. Colors are the dmc-floss values for the same codes, with the same provenance and limits (see dmc-floss). The 154 codes are the set MakeBead started with, not a list of what is sold as drills; it has not been extended because which codes exist as drills could not be verified. For the full DMC range use dmc-floss.",
   "sources": [
     {
       "name": "dmc-floss in this repository",
