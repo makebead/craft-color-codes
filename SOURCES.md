@@ -91,19 +91,20 @@ Diamond painting kits number their drills with DMC floss codes. Colors are the d
 
 ## LEGO brick colors (mosaic palette) — `lego`
 
-**Status:** `approximate` · **Colors:** 40 · **License:** CC-BY-4.0 · **Used on:** [makebead.com/lego-mosaic-maker/](https://makebead.com/lego-mosaic-maker/)
+**Status:** `approximate` · **Colors:** 39 · **License:** CC-BY-4.0 · **Used on:** [makebead.com/lego-mosaic-maker/](https://makebead.com/lego-mosaic-maker/)
 
-Codes L01–L40 are this palette’s own index, not LEGO color IDs. The 21 colors whose names match Rebrickable’s list are exact (two were corrected on 2026-08-18: Lavender, Light Nougat); the other 19 have not been checked.
+Codes L01–L40 are this palette’s own index, not LEGO color IDs; L28 is retired. Names are LEGO’s own, and every color is matched through its LEGO color number: LDraw gives number → name, Rebrickable gives the value. Matching by name had used BrickLink’s vocabulary, which differs from LEGO’s (BrickLink “Dark Green” is LEGO Earth Green, BrickLink “Coral” is LEGO Vibrant Coral). On 2026-10-01 that fixed seven values (Brick Yellow, Dark Green, Vibrant Coral, Aqua — the current no. 323, Bright Purple, Earth Blue, Earth Green) and removed L28 “Coral”, which was Vibrant Coral a second time. The values are Rebrickable’s, not calibrated against bricks.
 
-- [Rebrickable colors.csv (LEGO’s own RGB values)](https://rebrickable.com/downloads/)
+- [LDraw LDConfig.ldr (LEGO color number → LEGO’s own name)](https://www.ldraw.org/)
+- [Rebrickable colors.csv (the value for each LEGO color number)](https://rebrickable.com/downloads/)
 
 ## Minecraft blocks for pixel art — `minecraft-blocks`
 
-**Status:** `approximate` · **Colors:** 53 · **License:** CC-BY-4.0 · **Used on:** [makebead.com/minecraft-pixel-art-generator/](https://makebead.com/minecraft-pixel-art-generator/)
+**Status:** `measured` · **Colors:** 53 (2 discontinued) · **License:** CC-BY-4.0 · **Used on:** [makebead.com/minecraft-pixel-art-generator/](https://makebead.com/minecraft-pixel-art-generator/)
 
-A representative color per block, with its namespaced block id and `group`. `survival: false` marks ore and mineral blocks that are impractical to gather in survival. Colors have not yet been checked against the game textures.
+One color per block, with its namespaced block id and `group`: the plain sRGB mean of the opaque pixels of the face a wall shows, measured from the game’s own textures (Java Edition 26.3). `survival: false` marks ore and mineral blocks that are impractical to gather in survival. Glowstone and Grass Block are marked `discontinued` — kept so their codes still resolve, but no single color is true for them: Glowstone is the most mottled texture in the palette and its mean is close to Oak Planks; a grass block’s wall face is dirt with a green fringe, and its top is tinted by the biome.
 
-- [MakeBead Minecraft pixel-art generator](https://makebead.com/minecraft-pixel-art-generator/)
+- [Minecraft Java Edition 26.3 client textures (measured; the textures are not redistributed)](https://www.minecraft.net/)
 
 ## Minecraft map colors (Java Edition) — `minecraft-map`
 

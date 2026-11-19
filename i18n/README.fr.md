@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · **Français** · [Español](README.es.md) · [Русский](README.ru.md) · [ไทย](README.th.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Português (Brasil)](README.pt-BR.md)
 
-Valeurs hex et RVB de **3 689 codes couleur** dans 15 palettes — perles à repasser, perles de rocaille, fils à broder, strass de broderie diamant, laine, LEGO et Minecraft — avec l’origine de chaque valeur et le degré de confiance qu’on peut lui accorder.
+Valeurs hex et RVB de **3 688 codes couleur** dans 15 palettes — perles à repasser, perles de rocaille, fils à broder, strass de broderie diamant, laine, LEGO et Minecraft — avec l’origine de chaque valeur et le degré de confiance qu’on peut lui accorder.
 
 [MakeBead](https://makebead.com/fr/) transforme des photos en modèles de perles, de point de croix et de pixel art. Voici les palettes qu’utilisent ses outils, publiées pour que personne n’ait à les rassembler de nouveau pour un générateur de modèles, un convertisseur de couleurs ou une liste d’achats, et pour qu’une couleur fausse soit repérée et corrigée à un seul endroit.
 
@@ -22,8 +22,8 @@ Valeurs hex et RVB de **3 689 codes couleur** dans 15 palettes — perles à r
 | Miyuki Delica 11/0 (DB) | 1 288 (76 arrêtées) | `measured` | [JSON](../data/json/miyuki-delica.json) · [CSV](../data/csv/miyuki-delica.csv) | [Créateur de Motifs pour Métier à Perles Gratuit](https://makebead.com/fr/bead-loom-pattern-maker/) |
 | DMC Six-Strand Embroidery Floss (Mouliné Spécial, art. 117) | 489 | `cross-checked` | [JSON](../data/json/dmc-floss.json) · [CSV](../data/csv/dmc-floss.csv) | [DMC Color Chart](https://makebead.com/dmc-color-chart/) |
 | DMC-coded diamond painting drills | 154 | `cross-checked` | [JSON](../data/json/dmc-diamond.json) · [CSV](../data/csv/dmc-diamond.csv) | [Créateur Gratuit de Motifs de Peinture Diamant Personnalisée](https://makebead.com/fr/diamond-painting-pattern-maker/) |
-| LEGO brick colors (mosaic palette) | 40 | `approximate` | [JSON](../data/json/lego.json) · [CSV](../data/csv/lego.csv) | [Créateur de Mosaïques LEGO Gratuit](https://makebead.com/fr/lego-mosaic-maker/) |
-| Minecraft blocks for pixel art | 53 | `approximate` | [JSON](../data/json/minecraft-blocks.json) · [CSV](../data/csv/minecraft-blocks.csv) | [Générateur de Pixel Art Minecraft Gratuit](https://makebead.com/fr/minecraft-pixel-art-generator/) |
+| LEGO brick colors (mosaic palette) | 39 | `approximate` | [JSON](../data/json/lego.json) · [CSV](../data/csv/lego.csv) | [Créateur de Mosaïques LEGO Gratuit](https://makebead.com/fr/lego-mosaic-maker/) |
+| Minecraft blocks for pixel art | 53 (2 arrêtées) | `measured` | [JSON](../data/json/minecraft-blocks.json) · [CSV](../data/csv/minecraft-blocks.csv) | [Générateur de Pixel Art Minecraft Gratuit](https://makebead.com/fr/minecraft-pixel-art-generator/) |
 | Minecraft map colors (Java Edition) | 244 | `official` | [JSON](../data/json/minecraft-map.json) · [CSV](../data/csv/minecraft-map.csv) | [Minecraft Map Art Generator](https://makebead.com/minecraft-map-art-generator/) |
 | Red Heart Super Saver (worsted) | 44 | `approximate` | [JSON](../data/json/red-heart-super-saver.json) · [CSV](../data/csv/red-heart-super-saver.csv) | [Générateur de Grille Crochet Gratuit](https://makebead.com/fr/crochet-pattern-maker/) |
 | Pixel art 256 | 256 | `generated` | [JSON](../data/json/pixel-art-256.json) · [CSV](../data/csv/pixel-art-256.csv) | [Convertisseur Pixel Art Gratuit](https://makebead.com/fr/pixel-art-converter/) |

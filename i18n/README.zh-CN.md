@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Español](README.es.md) · [Русский](README.ru.md) · [ไทย](README.th.md) · **简体中文** · [繁體中文](README.zh-TW.md) · [Português (Brasil)](README.pt-BR.md)
 
-拼豆、米珠、绣线、钻石画钻、毛线、乐高和我的世界共 **3,689 个色号**（15 套色卡）的 Hex 和 RGB 值，每个数字都写明从哪来、可信到什么程度。
+拼豆、米珠、绣线、钻石画钻、毛线、乐高和我的世界共 **3,688 个色号**（15 套色卡）的 Hex 和 RGB 值，每个数字都写明从哪来、可信到什么程度。
 
 [MakeBead](https://makebead.com/zh-Hans/) 能把照片变成拼豆、十字绣和像素画图纸。这里是它的工具在用的色卡。公开出来，是为了做图纸生成器、色号换算或材料清单的人不必再重新收集一遍，也让错的颜色能在一个地方被发现、被改正。
 
@@ -22,8 +22,8 @@
 | Miyuki Delica 11/0 (DB) | 1,288 (其中停产 76) | `measured` | [JSON](../data/json/miyuki-delica.json) · [CSV](../data/csv/miyuki-delica.csv) | [免费串珠织机图案生成器](https://makebead.com/zh-Hans/bead-loom-pattern-maker/) |
 | DMC Six-Strand Embroidery Floss (Mouliné Spécial, art. 117) | 489 | `cross-checked` | [JSON](../data/json/dmc-floss.json) · [CSV](../data/csv/dmc-floss.csv) | [DMC Color Chart](https://makebead.com/dmc-color-chart/) |
 | DMC-coded diamond painting drills | 154 | `cross-checked` | [JSON](../data/json/dmc-diamond.json) · [CSV](../data/csv/dmc-diamond.csv) | [免费定制钻石画图纸生成器](https://makebead.com/zh-Hans/diamond-painting-pattern-maker/) |
-| LEGO brick colors (mosaic palette) | 40 | `approximate` | [JSON](../data/json/lego.json) · [CSV](../data/csv/lego.csv) | [免费 LEGO 马赛克制作器](https://makebead.com/zh-Hans/lego-mosaic-maker/) |
-| Minecraft blocks for pixel art | 53 | `approximate` | [JSON](../data/json/minecraft-blocks.json) · [CSV](../data/csv/minecraft-blocks.csv) | [免费 Minecraft 像素画生成器](https://makebead.com/zh-Hans/minecraft-pixel-art-generator/) |
+| LEGO brick colors (mosaic palette) | 39 | `approximate` | [JSON](../data/json/lego.json) · [CSV](../data/csv/lego.csv) | [免费 LEGO 马赛克制作器](https://makebead.com/zh-Hans/lego-mosaic-maker/) |
+| Minecraft blocks for pixel art | 53 (其中停产 2) | `measured` | [JSON](../data/json/minecraft-blocks.json) · [CSV](../data/csv/minecraft-blocks.csv) | [免费 Minecraft 像素画生成器](https://makebead.com/zh-Hans/minecraft-pixel-art-generator/) |
 | Minecraft map colors (Java Edition) | 244 | `official` | [JSON](../data/json/minecraft-map.json) · [CSV](../data/csv/minecraft-map.csv) | [Minecraft Map Art Generator](https://makebead.com/minecraft-map-art-generator/) |
 | Red Heart Super Saver (worsted) | 44 | `approximate` | [JSON](../data/json/red-heart-super-saver.json) · [CSV](../data/csv/red-heart-super-saver.csv) | [钩针图解生成器(免费)](https://makebead.com/zh-Hans/crochet-pattern-maker/) |
 | Pixel art 256 | 256 | `generated` | [JSON](../data/json/pixel-art-256.json) · [CSV](../data/csv/pixel-art-256.csv) | [免费像素画转换器](https://makebead.com/zh-Hans/pixel-art-converter/) |

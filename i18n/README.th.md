@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Español](README.es.md) · [Русский](README.ru.md) · **ไทย** · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Português (Brasil)](README.pt-BR.md)
 
-ค่า Hex และ RGB ของ **รหัสสี 3,689 สี** ใน 15 พาเลต — ลูกปัดรีดร้อน ลูกปัดเม็ดทราย ไหมปัก เม็ดคริสตัลครอสติสคริสตัล ไหมพรม LEGO และ Minecraft — พร้อมบอกที่มาของทุกตัวเลขและความน่าเชื่อถือ
+ค่า Hex และ RGB ของ **รหัสสี 3,688 สี** ใน 15 พาเลต — ลูกปัดรีดร้อน ลูกปัดเม็ดทราย ไหมปัก เม็ดคริสตัลครอสติสคริสตัล ไหมพรม LEGO และ Minecraft — พร้อมบอกที่มาของทุกตัวเลขและความน่าเชื่อถือ
 
 [MakeBead](https://makebead.com/th/) เปลี่ยนรูปภาพเป็นแพทเทิร์นลูกปัด ครอสติช และพิกเซลอาร์ต นี่คือพาเลตที่เครื่องมือเหล่านั้นใช้ เผยแพร่ไว้เพื่อให้ผู้ที่สร้างเครื่องมือทำแพทเทิร์น ตัวแปลงสี หรือรายการซื้อวัสดุ ไม่ต้องรวบรวมข้อมูลใหม่ และให้สีที่ผิดถูกพบและแก้ไขได้ในที่เดียว
 
@@ -22,8 +22,8 @@
 | Miyuki Delica 11/0 (DB) | 1,288 (เลิกผลิต 76) | `measured` | [JSON](../data/json/miyuki-delica.json) · [CSV](../data/csv/miyuki-delica.csv) | [โปรแกรมสร้างแบบลายกี่ทอลูกปัดฟรี](https://makebead.com/th/bead-loom-pattern-maker/) |
 | DMC Six-Strand Embroidery Floss (Mouliné Spécial, art. 117) | 489 | `cross-checked` | [JSON](../data/json/dmc-floss.json) · [CSV](../data/csv/dmc-floss.csv) | [DMC Color Chart](https://makebead.com/dmc-color-chart/) |
 | DMC-coded diamond painting drills | 154 | `cross-checked` | [JSON](../data/json/dmc-diamond.json) · [CSV](../data/csv/dmc-diamond.csv) | [เครื่องมือสร้างแบบระบายสีเพชรกำหนดเองฟรี](https://makebead.com/th/diamond-painting-pattern-maker/) |
-| LEGO brick colors (mosaic palette) | 40 | `approximate` | [JSON](../data/json/lego.json) · [CSV](../data/csv/lego.csv) | [สร้าง LEGO โมเสกฟรี](https://makebead.com/th/lego-mosaic-maker/) |
-| Minecraft blocks for pixel art | 53 | `approximate` | [JSON](../data/json/minecraft-blocks.json) · [CSV](../data/csv/minecraft-blocks.csv) | [สร้างพิกเซลอาร์ต Minecraft ฟรี](https://makebead.com/th/minecraft-pixel-art-generator/) |
+| LEGO brick colors (mosaic palette) | 39 | `approximate` | [JSON](../data/json/lego.json) · [CSV](../data/csv/lego.csv) | [สร้าง LEGO โมเสกฟรี](https://makebead.com/th/lego-mosaic-maker/) |
+| Minecraft blocks for pixel art | 53 (เลิกผลิต 2) | `measured` | [JSON](../data/json/minecraft-blocks.json) · [CSV](../data/csv/minecraft-blocks.csv) | [สร้างพิกเซลอาร์ต Minecraft ฟรี](https://makebead.com/th/minecraft-pixel-art-generator/) |
 | Minecraft map colors (Java Edition) | 244 | `official` | [JSON](../data/json/minecraft-map.json) · [CSV](../data/csv/minecraft-map.csv) | [Minecraft Map Art Generator](https://makebead.com/minecraft-map-art-generator/) |
 | Red Heart Super Saver (worsted) | 44 | `approximate` | [JSON](../data/json/red-heart-super-saver.json) · [CSV](../data/csv/red-heart-super-saver.csv) | [สร้างแพทเทิร์นโครเชต์จากรูปภาพ (ฟรี)](https://makebead.com/th/crochet-pattern-maker/) |
 | Pixel art 256 | 256 | `generated` | [JSON](../data/json/pixel-art-256.json) · [CSV](../data/csv/pixel-art-256.csv) | [แปลงพิกเซลอาร์ตฟรี](https://makebead.com/th/pixel-art-converter/) |

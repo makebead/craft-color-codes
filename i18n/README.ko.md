@@ -4,7 +4,7 @@
 
 [English](../README.md) · [Deutsch](README.de.md) · [日本語](README.ja.md) · **한국어** · [Français](README.fr.md) · [Español](README.es.md) · [Русский](README.ru.md) · [ไทย](README.th.md) · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [Português (Brasil)](README.pt-BR.md)
 
-퓨즈비즈, 시드비즈, 자수실, 보석십자수 비즈, 뜨개실, LEGO, 마인크래프트의 **3,689가지 색상 코드**(15개 팔레트) Hex·RGB 값. 모든 숫자의 출처와 어디까지 믿을 수 있는지를 함께 적었습니다.
+퓨즈비즈, 시드비즈, 자수실, 보석십자수 비즈, 뜨개실, LEGO, 마인크래프트의 **3,688가지 색상 코드**(15개 팔레트) Hex·RGB 값. 모든 숫자의 출처와 어디까지 믿을 수 있는지를 함께 적었습니다.
 
 [MakeBead](https://makebead.com/ko/)는 사진을 비즈·십자수·픽셀아트 도안으로 바꿔 주는 도구입니다. 이곳의 팔레트는 그 도구들이 쓰는 데이터입니다. 도안 생성기, 색상 변환기, 재료 목록을 만드는 사람이 같은 데이터를 다시 모으지 않도록, 그리고 틀린 색이 한 곳에서 발견되고 고쳐지도록 공개합니다.
 
@@ -22,8 +22,8 @@
 | Miyuki Delica 11/0 (DB) | 1,288 (단종 76) | `measured` | [JSON](../data/json/miyuki-delica.json) · [CSV](../data/csv/miyuki-delica.csv) | [무료 비즈 룸 패턴 메이커](https://makebead.com/ko/bead-loom-pattern-maker/) |
 | DMC Six-Strand Embroidery Floss (Mouliné Spécial, art. 117) | 489 | `cross-checked` | [JSON](../data/json/dmc-floss.json) · [CSV](../data/csv/dmc-floss.csv) | [DMC Color Chart](https://makebead.com/dmc-color-chart/) |
 | DMC-coded diamond painting drills | 154 | `cross-checked` | [JSON](../data/json/dmc-diamond.json) · [CSV](../data/csv/dmc-diamond.csv) | [무료 커스텀 다이아몬드 페인팅 패턴 메이커](https://makebead.com/ko/diamond-painting-pattern-maker/) |
-| LEGO brick colors (mosaic palette) | 40 | `approximate` | [JSON](../data/json/lego.json) · [CSV](../data/csv/lego.csv) | [무료 레고 모자이크 메이커](https://makebead.com/ko/lego-mosaic-maker/) |
-| Minecraft blocks for pixel art | 53 | `approximate` | [JSON](../data/json/minecraft-blocks.json) · [CSV](../data/csv/minecraft-blocks.csv) | [무료 마인크래프트 도트아트 생성기](https://makebead.com/ko/minecraft-pixel-art-generator/) |
+| LEGO brick colors (mosaic palette) | 39 | `approximate` | [JSON](../data/json/lego.json) · [CSV](../data/csv/lego.csv) | [무료 레고 모자이크 메이커](https://makebead.com/ko/lego-mosaic-maker/) |
+| Minecraft blocks for pixel art | 53 (단종 2) | `measured` | [JSON](../data/json/minecraft-blocks.json) · [CSV](../data/csv/minecraft-blocks.csv) | [무료 마인크래프트 도트아트 생성기](https://makebead.com/ko/minecraft-pixel-art-generator/) |
 | Minecraft map colors (Java Edition) | 244 | `official` | [JSON](../data/json/minecraft-map.json) · [CSV](../data/csv/minecraft-map.csv) | [Minecraft Map Art Generator](https://makebead.com/minecraft-map-art-generator/) |
 | Red Heart Super Saver (worsted) | 44 | `approximate` | [JSON](../data/json/red-heart-super-saver.json) · [CSV](../data/csv/red-heart-super-saver.csv) | [코바늘 도안 만들기 (무료)](https://makebead.com/ko/crochet-pattern-maker/) |
 | Pixel art 256 | 256 | `generated` | [JSON](../data/json/pixel-art-256.json) · [CSV](../data/csv/pixel-art-256.csv) | [무료 도트아트 변환기](https://makebead.com/ko/pixel-art-converter/) |

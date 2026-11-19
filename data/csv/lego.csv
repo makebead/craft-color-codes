@@ -1,12 +1,12 @@
 code,name,hex,r,g,b,discontinued
 L01,White,#FFFFFF,255,255,255,false
-L02,Brick Yellow,#D9BB7B,217,187,123,false
+L02,Brick Yellow,#E4CD9E,228,205,158,false
 L03,Nougat,#D09168,208,145,104,false
 L04,Bright Red,#C91A09,201,26,9,false
 L05,Bright Blue,#0055BF,0,85,191,false
 L06,Bright Yellow,#F2CD37,242,205,55,false
 L07,Black,#05131D,5,19,29,false
-L08,Dark Green,#184632,24,70,50,false
+L08,Dark Green,#237841,35,120,65,false
 L09,Bright Green,#4B9F4A,75,159,74,false
 L10,Dark Orange,#A95500,169,85,0,false
 L11,Medium Blue,#5A93DB,90,147,219,false
@@ -26,15 +26,14 @@ L24,Dark Azure,#078BC9,7,139,201,false
 L25,Sand Green,#A0BCAC,160,188,172,false
 L26,Olive Green,#9B9A5A,155,154,90,false
 L27,Dark Red,#720E0F,114,14,15,false
-L28,Coral,#FF698F,255,105,143,false
-L29,Vibrant Coral,#F06D61,240,109,97,false
+L29,Vibrant Coral,#FF698F,255,105,143,false
 L30,Light Nougat,#F6D7B3,246,215,179,false
 L31,Spring Yellowish Green,#DFEEA5,223,238,165,false
 L32,Cool Yellow,#FFF03A,255,240,58,false
-L33,Aqua,#B3D7D1,179,215,209,false
-L34,Bright Purple,#CD6298,205,98,152,false
-L35,Earth Blue,#003D73,0,61,115,false
-L36,Earth Green,#002F34,0,47,52,false
+L33,Aqua,#ADC3C0,173,195,192,false
+L34,Bright Purple,#C870A0,200,112,160,false
+L35,Earth Blue,#0A3463,10,52,99,false
+L36,Earth Green,#184632,24,70,50,false
 L37,Sand Yellow,#958A73,149,138,115,false
 L38,Bright Bluish Green,#008F9B,0,143,155,false
 L39,Medium Lilac,#3F3691,63,54,145,false

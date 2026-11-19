@@ -199,10 +199,11 @@ export const PALETTES = [
     unit: 'stud',
     status: 'approximate',
     sources: [
-      { name: 'Rebrickable colors.csv (LEGO’s own RGB values)', url: 'https://rebrickable.com/downloads/' },
+      { name: 'LDraw LDConfig.ldr (LEGO color number → LEGO’s own name)', url: 'https://www.ldraw.org/' },
+      { name: 'Rebrickable colors.csv (the value for each LEGO color number)', url: 'https://rebrickable.com/downloads/' },
     ],
     notes:
-      'Codes L01–L40 are this palette’s own index, not LEGO color IDs. The 21 colors whose names match Rebrickable’s list are exact (two were corrected on 2026-08-18: Lavender, Light Nougat); the other 19 have not been checked.',
+      'Codes L01–L40 are this palette’s own index, not LEGO color IDs; L28 is retired. Names are LEGO’s own, and every color is matched through its LEGO color number: LDraw gives number → name, Rebrickable gives the value. Matching by name had used BrickLink’s vocabulary, which differs from LEGO’s (BrickLink “Dark Green” is LEGO Earth Green, BrickLink “Coral” is LEGO Vibrant Coral). On 2026-10-01 that fixed seven values (Brick Yellow, Dark Green, Vibrant Coral, Aqua — the current no. 323, Bright Purple, Earth Blue, Earth Green) and removed L28 “Coral”, which was Vibrant Coral a second time. The values are Rebrickable’s, not calibrated against bricks.',
     license: 'CC-BY-4.0',
     makebead: 'https://makebead.com/lego-mosaic-maker/',
   },
@@ -213,10 +214,12 @@ export const PALETTES = [
     product: 'Minecraft blocks for pixel art',
     craft: 'Minecraft pixel art',
     unit: 'block',
-    status: 'approximate',
-    sources: [{ name: 'MakeBead Minecraft pixel-art generator', url: 'https://makebead.com/minecraft-pixel-art-generator/' }],
+    status: 'measured',
+    sources: [
+      { name: 'Minecraft Java Edition 26.3 client textures (measured; the textures are not redistributed)', url: 'https://www.minecraft.net/' },
+    ],
     notes:
-      'A representative color per block, with its namespaced block id and `group`. `survival: false` marks ore and mineral blocks that are impractical to gather in survival. Colors have not yet been checked against the game textures.',
+      'One color per block, with its namespaced block id and `group`: the plain sRGB mean of the opaque pixels of the face a wall shows, measured from the game’s own textures (Java Edition 26.3). `survival: false` marks ore and mineral blocks that are impractical to gather in survival. Glowstone and Grass Block are marked `discontinued` — kept so their codes still resolve, but no single color is true for them: Glowstone is the most mottled texture in the palette and its mean is close to Oak Planks; a grass block’s wall face is dirt with a green fringe, and its top is tinted by the biome.',
     license: 'CC-BY-4.0',
     makebead: 'https://makebead.com/minecraft-pixel-art-generator/',
   },

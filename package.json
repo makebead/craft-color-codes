@@ -1,7 +1,7 @@
 {
   "name": "craft-color-codes",
-  "version": "1.0.0",
-  "description": "Hex and RGB for 3,689 craft colour codes: Perler, Hama, Artkal, Nabbi and MARD fuse beads, Miyuki Delica, DMC floss and diamond drills, Red Heart yarn, LEGO and Minecraft. JSON, CSV, a CIEDE2000 matcher and an MCP server.",
+  "version": "1.1.0",
+  "description": "Hex and RGB for 3,688 craft colour codes: Perler, Hama, Artkal, Nabbi and MARD fuse beads, Miyuki Delica, DMC floss and diamond drills, Red Heart yarn, LEGO and Minecraft. JSON, CSV, a CIEDE2000 matcher and an MCP server.",
   "keywords": [
     "perler",
     "hama",
