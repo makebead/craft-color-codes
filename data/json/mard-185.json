@@ -6,7 +6,7 @@
   "unit": "bead",
   "count": 185,
   "status": "community",
-  "notes": "The 185-color MARD standard used across Chinese pattern apps (A–H series). MARD bottles carry a code and no name; the English names here are descriptive names written by MakeBead.",
+  "notes": "The 185-color MARD standard used across Chinese pattern apps (A–H series). MARD bottles carry a code and no name; the English names here are descriptive names written by MakeBead. No value here was measured on a bead: the RGB values are the two charts’ values, which agree on every code. MakeBead has no agreement with either site and knows of no licence from them covering redistribution of the values. CC BY 4.0 here covers MakeBead’s compilation, the English names and the box lists, not the upstream values.",
   "sources": [
     {
       "name": "peiseka.com color chart",

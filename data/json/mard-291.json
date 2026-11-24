@@ -6,7 +6,7 @@
   "unit": "bead",
   "count": 291,
   "status": "community",
-  "notes": "The 221 plus the 70 specialty colors (P, Q, R, T, Y, ZG series) that the 240 and 264 boxes reach into. The 221 base values are the mard-221 values. For the 70 specialty colors no maker chart with numbers exists, so three data lineages were compared: where the first two agree their value is used, otherwise whichever of the two the third lineage sits closer to (7 codes: P2, P14, P19, Q2, Q5, R6, T1).",
+  "notes": "The 221 plus the 70 specialty colors (P, Q, R, T, Y, ZG series) that the 240 and 264 boxes reach into. The 221 base values are the mard-221 values. For the 70 specialty colors no maker chart with numbers exists, so three data lineages were compared: where the first two agree their value is used, otherwise whichever of the two the third lineage sits closer to (7 codes: P2, P14, P19, Q2, Q5, R6, T1). No value here was measured on a bead. The 221 base values carry mard-221’s provenance and limits (see mard-221). Of the specialty sources, Zippland/perler-beads is licensed AGPL-3.0 and HansBug/pindou-color-data MIT (its upstream, abearxiong/get-colors-from-beans, is no longer online); pixel-beads.com states no licence MakeBead knows of, and MakeBead has no agreement with any of these sources. CC BY 4.0 here covers MakeBead’s compilation and choices, not the upstream values.",
   "sources": [
     {
       "name": "pixel-beads.com MARD chart (2026 revised)",

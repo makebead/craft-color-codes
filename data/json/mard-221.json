@@ -6,7 +6,7 @@
   "unit": "bead",
   "count": 221,
   "status": "community",
-  "notes": "The 221-color set (A–H and M series). Retail boxes of 24–216 colors are listed in data/sets/mard-kits.json. English names are descriptive names written by MakeBead.",
+  "notes": "The 221-color set (A–H and M series). Retail boxes of 24–216 colors are listed in data/sets/mard-kits.json. English names are descriptive names written by MakeBead. The 221 values are taken from two published charts (peiseka.com, pixel-beads.com), which agree on all 221 codes and reproduce mard-185 value for value; MARD publishes no RGB chart that MakeBead has found. No value here was measured on a bead: the RGB values are the two charts’ values, which agree on every code. MakeBead has no agreement with either site and knows of no licence from them covering redistribution of the values. CC BY 4.0 here covers MakeBead’s compilation, the English names and the box lists, not the upstream values.",
   "sources": [
     {
       "name": "peiseka.com color chart",

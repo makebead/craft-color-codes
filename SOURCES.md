@@ -38,7 +38,7 @@ Values sampled from physical beads by the beadcolors contributors.
 
 **Status:** `community` · **Colors:** 185 · **License:** CC-BY-4.0 · **Used on:** [makebead.com/mard-bead-pattern-maker/](https://makebead.com/mard-bead-pattern-maker/)
 
-The 185-color MARD standard used across Chinese pattern apps (A–H series). MARD bottles carry a code and no name; the English names here are descriptive names written by MakeBead.
+The 185-color MARD standard used across Chinese pattern apps (A–H series). MARD bottles carry a code and no name; the English names here are descriptive names written by MakeBead. No value here was measured on a bead: the RGB values are the two charts’ values, which agree on every code. MakeBead has no agreement with either site and knows of no licence from them covering redistribution of the values. CC BY 4.0 here covers MakeBead’s compilation, the English names and the box lists, not the upstream values.
 
 - [peiseka.com color chart](https://peiseka.com/)
 - [pixel-beads.com MARD chart](https://pixel-beads.com/perler-bead-color-chart)
@@ -47,7 +47,7 @@ The 185-color MARD standard used across Chinese pattern apps (A–H series). MAR
 
 **Status:** `community` · **Colors:** 221 · **License:** CC-BY-4.0 · **Used on:** [makebead.com/mard-bead-pattern-maker/](https://makebead.com/mard-bead-pattern-maker/)
 
-The 221-color set (A–H and M series). Retail boxes of 24–216 colors are listed in data/sets/mard-kits.json. English names are descriptive names written by MakeBead.
+The 221-color set (A–H and M series). Retail boxes of 24–216 colors are listed in data/sets/mard-kits.json. English names are descriptive names written by MakeBead. The 221 values are taken from two published charts (peiseka.com, pixel-beads.com), which agree on all 221 codes and reproduce mard-185 value for value; MARD publishes no RGB chart that MakeBead has found. No value here was measured on a bead: the RGB values are the two charts’ values, which agree on every code. MakeBead has no agreement with either site and knows of no licence from them covering redistribution of the values. CC BY 4.0 here covers MakeBead’s compilation, the English names and the box lists, not the upstream values.
 
 - [peiseka.com color chart](https://peiseka.com/)
 - [pixel-beads.com MARD chart](https://pixel-beads.com/perler-bead-color-chart)
@@ -56,7 +56,7 @@ The 221-color set (A–H and M series). Retail boxes of 24–216 colors are list
 
 **Status:** `community` · **Colors:** 291 · **License:** CC-BY-4.0 · **Used on:** [makebead.com/mard-bead-pattern-maker/](https://makebead.com/mard-bead-pattern-maker/)
 
-The 221 plus the 70 specialty colors (P, Q, R, T, Y, ZG series) that the 240 and 264 boxes reach into. The 221 base values are the mard-221 values. For the 70 specialty colors no maker chart with numbers exists, so three data lineages were compared: where the first two agree their value is used, otherwise whichever of the two the third lineage sits closer to (7 codes: P2, P14, P19, Q2, Q5, R6, T1).
+The 221 plus the 70 specialty colors (P, Q, R, T, Y, ZG series) that the 240 and 264 boxes reach into. The 221 base values are the mard-221 values. For the 70 specialty colors no maker chart with numbers exists, so three data lineages were compared: where the first two agree their value is used, otherwise whichever of the two the third lineage sits closer to (7 codes: P2, P14, P19, Q2, Q5, R6, T1). No value here was measured on a bead. The 221 base values carry mard-221’s provenance and limits (see mard-221). Of the specialty sources, Zippland/perler-beads is licensed AGPL-3.0 and HansBug/pindou-color-data MIT (its upstream, abearxiong/get-colors-from-beans, is no longer online); pixel-beads.com states no licence MakeBead knows of, and MakeBead has no agreement with any of these sources. CC BY 4.0 here covers MakeBead’s compilation and choices, not the upstream values.
 
 - [pixel-beads.com MARD chart (2026 revised)](https://pixel-beads.com/perler-bead-color-chart)
 - [Zippland/perler-beads colorSystemMapping.json](https://github.com/Zippland/perler-beads)

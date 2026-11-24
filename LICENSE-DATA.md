@@ -21,3 +21,8 @@ distributed under its MIT license, reproduced in [SOURCES.md](SOURCES.md).
 The license covers this compilation and MakeBead's own work in it — names,
 measurements, corrections, the MARD box lists. Color codes and product names
 belong to their manufacturers; see the trademark note in the README.
+
+Where a palette's values come from a third party rather than from
+MakeBead's own measurement, CC BY 4.0 does not grant rights in those values.
+Each palette's `notes` and [SOURCES.md](SOURCES.md) say which applies and
+name the sources; MakeBead has no agreement with them unless the notes say so.
